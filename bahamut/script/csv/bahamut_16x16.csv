@@ -1,0 +1,1442 @@
+cmd,addr,end,rendercmd,jp,en
+,,,"//================================================="
+,,,"// Startup error messages"
+,,,"//================================================="
+
+FontPack,0xB52,0xB9F
+String,0xB9F,0xBA8,default,"☆☆☆　警告　☆☆☆",
+String,0xBA8,0xBAD,default,"１P側にコントロールPADがない！",
+String,0xBAD,0xBB4,default,"１P側にコントロールPADをさして、",
+String,0xBB4,0xBC2,default,"リセットボタンを押して下さい。",
+String,0xBC2,0xBCE,default,"始めますが、ゲームは実行できません。",
+,,,"//================================================="
+,,,"// "Fixed" pack -- this is always loaded, and used"
+,,,"// for generic stuff that can display anywhere"
+,,,"//================================================="
+
+FontPack,0x1B5C,0x1B70
+String,0x3E0,0x3E1,default,"第",
+String,0x3E1,0x3E3,default,"ターン",
+String,0x3E3,0x3E5,default,"ご命令を？",
+String,0x3E5,0x3E8,default,"誰ですか？",
+String,0x3E8,0x3ED,default,"どれですか？",
+String,0x3ED,0x3F2,default,"どこですか？",
+String,0x3F2,0x3F9,default,"どれくらいですか？",
+String,0x3F9,0x3FF,default,"どうしますか？",
+String,0x3FF,0x404,default,"終了します",
+String,0x404,0x40B,default,"終了しますか？",
+String,0x40B,0x40D,default,"が死んだ！",
+String,0x40D,0x413,default,"が侵攻した！",
+,,,"//================================================="
+,,,"// Credits -- regular version"
+,,,"//================================================="
+
+FontPack,0x6648,0x66B2
+String,0xC049,0xC04C,default,"☆制作スタッフ☆",
+String,0xC04C,0xC04F,default,"　むうみん[FACE]",
+String,0xC04F,0xC052,default,"　まお",
+String,0xC052,0xC055,default,"　MUCHO",
+String,0xC055,0xC05B,default,"　　＆Cｏｍｐ.",
+String,0xC05B,0xC060,default,"　むっちゃん",
+String,0xC060,0xC064,default,"　MRN",
+String,0xC064,0xC069,default,"　やまざー",
+String,0xC069,0xC06C,default,"　釈尊",
+String,0xC06C,0xC06F,default,"　羽田一夫",
+String,0xC06F,0xC072,default,"　松戸入太",
+String,0xC072,0xC077,default,"　妖神　零",
+String,0xC077,0xC07D,default,"　まるぺん直",
+String,0xC07D,0xC080,default,"　絹毛ネズミ科",
+String,0xC080,0xC086,default,"　西山大シミュ研",
+String,0xC086,0xC08A,default,"　　　終り",
+,,,"//================================================="
+,,,"// Credits -- programmer easter egg version"
+,,,"// (hold A + C + Down as credits begin; displays"
+,,,"// programmer's real name instead of pseudonym)"
+,,,"//================================================="
+
+FontPack,0x66B2,0x6722
+String,0xC08A,0xC08D,default,"☆制作スタッフ☆",
+String,0xC08D,0xC090,default,"　倉谷遣一",
+String,0xC090,0xC093,default,"　まお",
+String,0xC093,0xC096,default,"　MUCHO",
+String,0xC096,0xC09C,default,"　　＆Cｏｍｐ.",
+String,0xC09C,0xC09F,default,"　むっちゃん",
+String,0xC09F,0xC0A3,default,"　MRN",
+String,0xC0A3,0xC0A8,default,"　やまざー",
+String,0xC0A8,0xC0AB,default,"　釈尊",
+String,0xC0AB,0xC0B0,default,"　羽田一夫",
+String,0xC0B0,0xC0B3,default,"　松戸入太",
+String,0xC0B3,0xC0B8,default,"　妖神　零",
+String,0xC0B8,0xC0BE,default,"　まるぺん直",
+String,0xC0BE,0xC0C1,default,"　絹毛ネズミ科",
+String,0xC0C1,0xC0C7,default,"　西山大シミュ研",
+String,0xC0C7,0xC0CB,default,"　　　終り",
+,,,"//================================================="
+,,,"// Intro, part 1"
+,,,"//================================================="
+
+FontPack,0x95E8,0x9657
+String,0x97DB,0x97DF,default,"ここは幻想と魔法が支配する",
+String,0x97DF,0x97E4,default,"遥かなる大陸バハムート",
+String,0x97E4,0x97EB,default,"人久はここに王国を築き上げ",
+String,0x97EB,0x97F3,default,"平和な日久を過ごしていた。",
+String,0x97F3,0x9800,default,"大陸に邪悪と混沌とが蘇った",
+String,0x9800,0x9808,default,"『闇の時代』が訪れるまで…",
+,,,"//================================================="
+,,,"// Intro, part 2"
+,,,"//================================================="
+
+FontPack,0x9657,0x96C2
+String,0x9808,0x980A,default,"王国の中心だった城塞都市は",
+String,0x980A,0x980E,default,"死のバルマー卿に支配され、",
+String,0x980E,0x9811,default,"ガイラムが指揮する巨人族は",
+String,0x9811,0x9818,default,"ドワーフどもを葬り去り、",
+String,0x9818,0x9825,default,"大ドラゴンのベルフレイムは",
+String,0x9825,0x982E,default,"漆黒の天空を舞い、",
+,,,"//================================================="
+,,,"// Intro, part 3"
+,,,"//================================================="
+
+FontPack,0x96C2,0x971F
+String,0x982E,0x9830,default,"かつて葬られた伝説の大魔王",
+String,0x9830,0x9834,default,"クリムトまでが復活した。",
+String,0x9834,0x983F,default,"さらに人間たちの中にも、",
+String,0x983F,0x9847,default,"混沌の魔術帥シェルファが、",
+String,0x9847,0x9851,default,"最強の狂戦士バストラルが、",
+,,,"//================================================="
+,,,"// Intro, part 4"
+,,,"//================================================="
+
+FontPack,0x971F,0x978B
+String,0x9851,0x9853,default,"大陸の覇者になろうと挙兵し",
+String,0x9853,0x985B,default,"軍勢の進撃を開始した。",
+String,0x985B,0x9865,default,"だが、混沌とした闇の時代に",
+String,0x9865,0x986D,default,"邪悪を討ち滅ぼそうと、",
+String,0x986D,0x9878,default,"エルフの森でエル＝モアが、",
+String,0x9878,0x9883,default,"滅び去った王家でジークが、",
+,,,"//================================================="
+,,,"// Intro, part 5"
+,,,"//================================================="
+
+FontPack,0x978B,0x97DB
+String,0x9883,0x9885,default,"立ち向かい、再び平和な時を",
+String,0x9885,0x988C,default,"呼び戻そうと戦うのであった",
+String,0x988C,0x9891,default,"そして・・・",
+String,0x9891,0x989B,default,"バハムートを新たなる時代へ",
+String,0x989B,0x98A6,default,"導く戦いが今、始まる。",
+,,,"//================================================="
+,,,"// Endings"
+,,,"//================================================="
+
+,,,"//============================================="
+,,,"// ending 0"
+,,,"//============================================="
+
+FontPack,0xB9D4,0xBA50
+String,0xBE0E,0xBE10,default,"　聖戦士ジーク＝",
+String,0xBE10,0xBE15,default,"フォーリアは大陸",
+String,0xBE15,0xBE19,default,"に蘇った混沌たる",
+String,0xBE19,0xBE1B,default,"邪悪を討ち滅ぼし",
+String,0xBE1B,0xBE20,default,"闇の時代は終わり",
+String,0xBE20,0xBE25,default,"を告げた。",
+String,0xBE25,0xBE2C,default,"　そして崩壊した",
+String,0xBE2C,0xBE31,default,"王国を復興させ、",
+String,0xBE31,0xBE39,default,"新たなる時代の王",
+String,0xBE39,0xBE3E,default,"として再び秩序あ",
+String,0xBE3E,0xBE46,default,"る平和な時代を築",
+String,0xBE46,0xBE4D,default,"いたのである。",
+,,,"//============================================="
+,,,"// ending 1"
+,,,"//============================================="
+
+FontPack,0xBA50,0xBAD0
+String,0xBE4E,0xBE50,default,"　闇の時代に自ら",
+String,0xBE50,0xBE53,default,"の力で帝国を築き",
+String,0xBE53,0xBE55,default,"上げた狂戦士バス",
+String,0xBE55,0xBE5A,default,"トラル＝バインド",
+String,0xBE5A,0xBE60,default,"アウトは、大陸を",
+String,0xBE60,0xBE66,default,"平定後、ディーン",
+String,0xBE66,0xBE69,default,"を始めとする魔術",
+String,0xBE69,0xBE6E,default,"士達を討ち滅ぼし",
+String,0xBE6E,0xBE70,default,"た。",
+String,0xBE70,0xBE78,default,"　そして力が時代",
+String,0xBE78,0xBE80,default,"を支配する時が訪",
+String,0xBE80,0xBE87,default,"れたのである。",
+,,,"//============================================="
+,,,"// ending 2"
+,,,"//============================================="
+
+FontPack,0xBAD0,0xBB44
+String,0xBE88,0xBE8A,default,"　大魔術帥シェル",
+String,0xBE8A,0xBE8F,default,"ファ＝フレイアは",
+String,0xBE8F,0xBE94,default,"遂に大陸の覇者と",
+String,0xBE94,0xBE99,default,"なり、女帝として",
+String,0xBE99,0xBE9B,default,"人久をひざまづか",
+String,0xBE9B,0xBE9D,default,"せた。",
+String,0xBE9D,0xBEA5,default,"　彼女は永遠の命",
+String,0xBEA5,0xBEAD,default,"を堪能し、己の意",
+String,0xBEAD,0xBEB5,default,"のままに生き、闇",
+String,0xBEB5,0xBEBB,default,"の時代が果てるこ",
+String,0xBEBB,0xBEC2,default,"とはなかった。",
+,,,"//============================================="
+,,,"// ending 3"
+,,,"//============================================="
+
+FontPack,0xBB44,0xBBBE
+String,0xBEC3,0xBEC5,default,"　闇の時代にエル",
+String,0xBEC5,0xBECD,default,"フの兄妹エル＝モ",
+String,0xBECD,0xBED4,default,"アとエル＝ウィン",
+String,0xBED4,0xBED9,default,"は森の軍勢を率い",
+String,0xBED9,0xBEDE,default,"て邪悪を掃討し、",
+String,0xBEDE,0xBEE6,default,"大陸を平和に導く",
+String,0xBEE6,0xBEED,default,"事に成功した。",
+String,0xBEED,0xBEF4,default,"　やがてエルフを",
+String,0xBEF4,0xBEF9,default,"中心とする秩序あ",
+String,0xBEF9,0xBF00,default,"る共和制が取られ",
+String,0xBF00,0xBF08,default,"新たな時代が始ま",
+String,0xBF08,0xBF0E,default,"るのである。",
+,,,"//============================================="
+,,,"// ending 4"
+,,,"//============================================="
+
+FontPack,0xBBBE,0xBC33
+String,0xBF0F,0xBF11,default,"　大陸を制覇した",
+String,0xBF11,0xBF13,default,"ガイラム＝グリン",
+String,0xBF13,0xBF17,default,"ダム公は満足であ",
+String,0xBF17,0xBF1A,default,"った。",
+String,0xBF1A,0xBF1D,default,"　ドワーフに続い",
+String,0xBF1D,0xBF23,default,"て、エルフ、人間",
+String,0xBF23,0xBF2B,default,"どもを滅ぼし、巨",
+String,0xBF2B,0xBF2F,default,"人族だけの世界を",
+String,0xBF2F,0xBF35,default,"確立させ、バハム",
+String,0xBF35,0xBF3D,default,"ートの王として君",
+String,0xBF3D,0xBF45,default,"臨したのである。",
+,,,"//============================================="
+,,,"// ending 5"
+,,,"//============================================="
+
+FontPack,0xBC33,0xBCAA
+String,0xBF46,0xBF48,default,"　天空を舞う強大",
+String,0xBF48,0xBF4A,default,"な赤きドラゴン、",
+String,0xBF4A,0xBF4C,default,"ベルフレイムには",
+String,0xBF4C,0xBF54,default,"もう敵はいない。",
+String,0xBF54,0xBF58,default,"　ベルフレイムは",
+String,0xBF58,0xBF5F,default,"人間達にいけにえ",
+String,0xBF5F,0xBF65,default,"を捧げさせ、邪悪",
+String,0xBF65,0xBF6A,default,"なドラゴンとして",
+String,0xBF6A,0xBF71,default,"君臨し恐れられ、",
+String,0xBF71,0xBF73,default,"混沌たる闇の時代",
+String,0xBF73,0xBF7A,default,"が終わることはな",
+String,0xBF7A,0xBF82,default,"かったのである。",
+,,,"//============================================="
+,,,"// ending 6"
+,,,"//============================================="
+
+FontPack,0xBCAA,0xBD15
+String,0xBF83,0xBF85,default,"　かつて英雄バル",
+String,0xBF85,0xBF89,default,"マー卿によって葬",
+String,0xBF89,0xBF8B,default,"られた大魔王クリ",
+String,0xBF8B,0xBF8F,default,"ムトは、再び大陸",
+String,0xBF8F,0xBF92,default,"の覇権を我が手に",
+String,0xBF92,0xBF99,default,"掌握し、混沌たる",
+String,0xBF99,0xBFA0,default,"闇の時代を存続さ",
+String,0xBFA0,0xBFA3,default,"せた。",
+String,0xBFA3,0xBFAB,default,"　そして、バハム",
+String,0xBFAB,0xBFB3,default,"ートの復活を夢見",
+String,0xBFB3,0xBFBA,default,"るのであった。",
+,,,"//============================================="
+,,,"// ending 7"
+,,,"//============================================="
+
+FontPack,0xBD15,0xBD8C
+String,0xBFBB,0xBFBD,default,"　かつて大魔王ク",
+String,0xBFBD,0xBFBF,default,"リムトを葬ったバ",
+String,0xBFBF,0xBFC1,default,"ルマー卿は、皮肉",
+String,0xBFC1,0xBFC5,default,"にも闇の時代の力",
+String,0xBFC5,0xBFC7,default,"で邪悪なアンデッ",
+String,0xBFC7,0xBFCE,default,"ドとして蘇り、つ",
+String,0xBFCE,0xBFD6,default,"いには大陸に生き",
+String,0xBFD6,0xBFDE,default,"ている者を葬り去",
+String,0xBFDE,0xBFE6,default,"り、バハムートの",
+String,0xBFE6,0xBFEE,default,"歴史は彼によって",
+String,0xBFEE,0xBFF4,default,"闇に閉ざされた。",
+,,,"//============================================="
+,,,"// ending 8"
+,,,"//============================================="
+
+FontPack,0xBD8C,0xBE0D
+String,0xBFF5,0xBFF7,default,"　その後、何が語",
+String,0xBFF7,0xBFF9,default,"られたかは誰も知",
+String,0xBFF9,0xBFFC,default,"らない。",
+String,0xBFFC,0xBFFD,default,"　",
+String,0xBFFD,0xC004,default,"　やがて、バハム",
+String,0xC004,0xC007,default,"ートを葬るべく、",
+String,0xC007,0xC00C,default,"孤空の彼方より神",
+String,0xC00C,0xC015,default,"久の軍団が現れた。",
+String,0xC015,0xC01D,default,"　そして、その前",
+String,0xC01D,0xC024,default,"に蒼き鎧をまとい、",
+String,0xC024,0xC02C,default,"黄金の龍に跨った",
+String,0xC02C,0xC033,default,"ジークがただ一人",
+String,0xC033,0xC03B,default,"立ちはだかったと",
+String,0xC03B,0xC03E,default,"いう。",
+String,0xC03E,0xC03F,default,"　",
+String,0xC03F,0xC040,default,"　",
+String,0xC040,0xC041,default,"　",
+String,0xC041,0xC042,default,"　",
+String,0xC042,0xC043,default,"　",
+String,0xC043,0xC044,default,"　",
+String,0xC044,0xC045,default,"　",
+String,0xC045,0xC046,default,"　",
+String,0xC046,0xC049,default,"　　　　完",
+,,,"//================================================="
+,,,"// Start of ending sequence"
+,,,"//================================================="
+
+FontPack,0xC184,0xC19C
+String,0xC19C,0xC1A1,default,"ついに大陸の覇者になった",
+,,,"//================================================="
+,,,"// Game over screen"
+,,,"//================================================="
+
+FontPack,0xC891,0xC90B
+String,0xC90B,0xC90D,default,"そして大陸を制覇する事はなかった。",
+String,0xC90D,0xC914,default,"聖戦士ジークは倒された…",
+String,0xC914,0xC91E,default,"狂戦士バストラルは倒された…",
+String,0xC91E,0xC929,default,"大魔術帥シェルファは倒された…",
+String,0xC929,0xC936,default,"エルフ、エル＝モアは倒された…",
+String,0xC936,0xC93F,default,"巨人ガイラムは倒された…",
+String,0xC93F,0xC94B,default,"赤龍ベルフレイムは倒された…",
+String,0xC94B,0xC957,default,"大魔王クリムトは倒された…",
+String,0xC957,0xC963,default,"死のバルマー卿は倒された…",
+String,0xC963,0xC971,default,"エルフ、エル＝ウィンは倒された…",
+,,,"//================================================="
+,,,"// direct calls to 0x1944 with a hardcoded value"
+,,,"//================================================="
+
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+FontPack,0xDC61,0xDC78
+String,0xDC78,0xDC7D,default,"あと３ターンで終了です！",
+String,0xDC7D,0xDC83,default,"最終ターンです！",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+FontPack,0xE688,0xE699
+String,0xE699,0xE69D,default,"英雄が去っていった",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+FontPack,0xEF7E,0xEFB7
+String,0xEFB7,0xEFB9,default,"レイモンドが呼んでいる",
+String,0xEFB9,0xEFBD,default,"レイモンドが帰還した",
+String,0xEFBD,0xEFC0,default,"彼は諦めた",
+String,0xEFC0,0xEFC5,default,"彼は旅に出た",
+String,0xEFC5,0xEFCA,default,"彼は英雄の一員となった",
+String,0xEFCA,0xEFCF,default,"レイモンドが死んだ",
+,,,"//================================================="
+,,,"// Diplomacy menu"
+,,,"//================================================="
+
+FontPack,0x103F9,0x1044D
+String,0x1044D,0x10452,default,"同盟　期間",
+String,0x10452,0x10457,default,"授助　要請",
+String,0x10457,0x1045C,default,"破棄　領地",
+String,0x1045C,0x1045E,default,"承諾する",
+String,0x1045E,0x10462,default,"拒否する",
+String,0x10462,0x10466,default,"　　LP",
+String,0x10466,0x1046A,default,"承諾されました",
+String,0x1046A,0x1046E,default,"拒否されました",
+String,0x1046E,0x10472,default,"使者が来ました",
+String,0x10472,0x1047B,default,"本当に授助しますか？",
+String,0x1047B,0x10480,default,"授助しました",
+String,0x10480,0x10489,default,"本当に破棄しますか？",
+String,0x10489,0x1048E,default,"破棄しました",
+String,0x1048E,0x10497,default,"本当に獲得しますか？",
+String,0x10497,0x1049F,default,"領地　を獲得した",
+String,0x1049F,0x104A5,default,"使者が戻りました",
+String,0x104A5,0x104AB,default,"相手がいない",
+String,0x104AB,0x104B2,default,"LPがたりない",
+String,0x104B2,0x104B9,default,"中立の領地がない",
+String,0x104B9,0x104C2,default,"同盟を要請してきた",
+String,0x104C2,0x104CB,default,"期間を要請してきた",
+String,0x104CB,0x104D4,default,"LPを授助してきた",
+String,0x104D4,0x104DD,default,"LPを要請してきた",
+String,0x104DD,0x104E6,default,"同盟を破棄してきた",
+,,,"//================================================="
+,,,"// Tactics menu: Strategy"
+,,,"//================================================="
+
+FontPack,0x112A2,0x112B8
+String,0x112B8,0x112BA,default,"策略は使えません！",
+String,0x112BA,0x112C2,default,"使える策略がない！",
+,,,"//================================================="
+,,,"// ???"
+,,,"//================================================="
+
+FontPack,0x112C2,0x11325
+String,0x1138D,0x11390,default,"敵の策略だ！！",
+String,0x11390,0x11392,default,"意味がない",
+String,0x11392,0x11394,default,"回復した",
+String,0x11394,0x11398,default,"暗殺に成功した",
+String,0x11398,0x1139E,default,"暗殺に失敗した",
+String,0x1139E,0x113A7,default,"英雄が暗殺された！",
+String,0x113A7,0x113AD,default,"離反に成功した",
+String,0x113AD,0x113B4,default,"離反に失敗した",
+String,0x113B4,0x113BC,default,"英雄が離反した！",
+String,0x113BC,0x113C0,default,"反乱を起こした",
+String,0x113C0,0x113C7,default,"反乱が起きた！",
+String,0x113C7,0x113CE,default,"LPを盗んだ！",
+String,0x113CE,0x113D6,default,"LPが盗まれた！",
+String,0x113D6,0x113DD,default,"SPを盗んだ！",
+String,0x113DD,0x113E5,default,"SPが盗まれた！",
+String,0x113E5,0x113EC,default,"同盟を締結した",
+String,0x113EC,0x113F7,default,"同盟を締結させられた！",
+String,0x113F7,0x113FE,default,"同盟を破棄した",
+String,0x113FE,0x11407,default,"同盟を破棄された！",
+String,0x11407,0x1140E,default,"大嵐を発生した",
+String,0x1140E,0x11412,default,"呪縛した",
+String,0x11412,0x11418,default,"呪縛された！",
+String,0x11418,0x1141F,default,"領地を獲得した",
+String,0x1141F,0x11429,default,"策略を無効にされた！",
+,,,"//================================================="
+,,,"// Event use messages?"
+,,,"//================================================="
+
+FontPack,0x11325,0x1138D
+String,0x11429,0x1142B,default,"全部隊行動OK",
+String,0x1142B,0x1142F,default,"移送した",
+String,0x1142F,0x11434,default,"全エリア確認OK",
+String,0x11434,0x11438,default,"奇襲OK",
+String,0x11438,0x1143F,default,"領地を交換した",
+String,0x1143F,0x11445,default,"爆裂させた！",
+String,0x11445,0x1144B,default,"爆裂された！",
+String,0x1144B,0x1144F,default,"召喚した",
+,,,"//================================================="
+,,,"// Information menu"
+,,,"//================================================="
+
+FontPack,0x1164C,0x11655
+String,0x11655,0x1165A,default,"状況　領地",
+String,0x1165A,0x1165F,default,"勢力　地図",
+,,,"//================================================="
+,,,"// In-game options menu"
+,,,"//================================================="
+
+FontPack,0x11FEA,0x1203F
+String,0x1203F,0x12044,default,"保存　画面",
+String,0x12044,0x12049,default,"表示　その他",
+String,0x12049,0x1204F,default,"どこに保存しますか？",
+String,0x1204F,0x12056,default,"本当に保存しますか？",
+String,0x12056,0x1205C,default,"保存しました",
+String,0x1205C,0x12060,default,"中止します",
+String,0x12060,0x12065,default,"変更してください",
+String,0x12065,0x12069,default,"表示速度",
+String,0x12069,0x1206D,default,"表示時間",
+String,0x1206D,0x12071,default,"ペン速度",
+String,0x12071,0x12076,default,"戦術画面は",
+String,0x12076,0x1207B,default,"戦闘画面は",
+String,0x1207B,0x12080,default,"敵の戦争を",
+String,0x12080,0x12084,default,"アニメを見",
+String,0x12084,0x12088,default,"簡易画面",
+String,0x12088,0x1208C,default,"ヘクス画面",
+String,0x1208C,0x1208E,default,"なし",
+String,0x1208E,0x12091,default,"リアル",
+String,0x12091,0x12094,default,"見ない",
+String,0x12094,0x12096,default,"見る",
+String,0x12096,0x12097,default,"る",
+String,0x12097,0x12099,default,"ない",
+String,0x12099,0x1209E,default,"政策を実行",
+String,0x1209E,0x120A3,default,"保存を自動",
+String,0x120A3,0x120A8,default,"訓練を自動",
+String,0x120A8,0x120AA,default,"する",
+String,0x120AA,0x120AD,default,"しない",
+String,0x120AD,0x120B0,default,"にする",
+String,0x120B0,0x120B4,default,"にしない",
+,,,"//================================================="
+,,,"// Tactics menu: Move"
+,,,"//================================================="
+
+FontPack,0x1236E,0x123A9
+String,0x123A9,0x123AB,default,"部隊がいません",
+String,0x123AB,0x123B0,default,"全部隊行動済みです",
+String,0x123B0,0x123B7,default,"移動可能なエリアがない",
+String,0x123B7,0x123BF,default,"移動元のエリアです",
+String,0x123BF,0x123C8,default,"すでに１２部隊います",
+String,0x123C8,0x123D1,default,"大嵐で移動できない",
+String,0x123D1,0x123DB,default,"あと　部隊移動できます",
+String,0x123DB,0x123E3,default,"これ以上移動できません",
+String,0x123E3,0x123E8,default,"部隊を決定して下さい",
+String,0x123E8,0x123F2,default,"本当に移動しますか？",
+String,0x123F2,0x123F8,default,"移動しました",
+String,0x123F8,0x12402,default,"部隊が指定されていない",
+,,,"//================================================="
+,,,"// Tactics menu: Invade"
+,,,"//================================================="
+
+FontPack,0x12980,0x129C6
+String,0x129C6,0x129C9,default,"部隊がいない",
+String,0x129C9,0x129CE,default,"全部隊行動済みです",
+String,0x129CE,0x129D6,default,"侵攻可能なエリアがない",
+String,0x129D6,0x129DE,default,"侵攻元のエリアです",
+String,0x129DE,0x129E7,default,"大嵐で移動できない",
+String,0x129E7,0x129EE,default,"部隊が指定されていない",
+String,0x129EE,0x129F8,default,"部隊を決定して下さい",
+String,0x129F8,0x12A01,default,"本当に侵攻しますか？",
+String,0x12A01,0x12A06,default,"侵攻します",
+String,0x12A06,0x12A0D,default,"敵はいなかった",
+String,0x12A0D,0x12A14,default,"偵察していない",
+String,0x12A14,0x12A1F,default,"裏切って侵攻しますか？",
+String,0x12A1F,0x12A25,default,"同盟中ですが…",
+String,0x12A25,0x12A28,default,"　当し",
+,,,"//================================================="
+,,,"// Invasion defense menu"
+,,,"//================================================="
+
+FontPack,0x13263,0x132C4
+String,0x132C4,0x132C9,default,"戦争　退却",
+String,0x132C9,0x132CE,default,"降伏　策略",
+String,0x132CE,0x132D0,default,"敵が侵攻してきた！",
+String,0x132D0,0x132D6,default,"奇襲攻撃だ！",
+String,0x132D6,0x132DC,default,"策略を使われた！",
+String,0x132DC,0x132E4,default,"地上部隊がやられた！",
+String,0x132E4,0x132EE,default,"飛行部隊がやられた！",
+String,0x132EE,0x132F5,default,"炎でダメージを受けた！",
+String,0x132F5,0x132FD,default,"強制退却された！",
+String,0x132FD,0x13307,default,"侵攻部隊が全滅した！",
+String,0x13307,0x1330F,default,"地上部隊を攻撃した！",
+String,0x1330F,0x13319,default,"飛行部隊を攻撃した！",
+String,0x13319,0x13320,default,"炎でダメージを与えた！",
+String,0x13320,0x13328,default,"全軍退却させた！",
+String,0x13328,0x13333,default,"全部隊退却できません！",
+String,0x13333,0x13338,default,"退却します",
+String,0x13338,0x1333E,default,"敵は退却した",
+String,0x1333E,0x13346,default,"降伏できません！",
+String,0x13346,0x1334B,default,"降伏します",
+String,0x1334B,0x13351,default,"敵は降伏した",
+String,0x13351,0x13356,default,"支配下にします",
+String,0x13356,0x1335F,default,"策略は使えません！",
+String,0x1335F,0x13368,default,"使える策略がない！",
+String,0x13368,0x1336E,default,"意味がない！",
+,,,"//================================================="
+,,,"// Tactics menu: Scout"
+,,,"//================================================="
+
+FontPack,0x137E0,0x1381D
+String,0x1381D,0x13820,default,"部隊がいない",
+String,0x13820,0x13825,default,"全部隊行動済みです",
+String,0x13825,0x1382D,default,"偵察するエリアがない",
+String,0x1382D,0x13835,default,"偵察元のエリアです",
+String,0x13835,0x1383E,default,"大嵐で偵察できない",
+String,0x1383E,0x13843,default,"部隊を決定して下さい",
+String,0x13843,0x1384D,default,"部隊が指定されていない",
+String,0x1384D,0x13856,default,"本当に偵察しますか？",
+String,0x13856,0x13860,default,"偵察部隊が襲撃された！",
+String,0x13860,0x13869,default,"偵察部隊が全滅した！",
+String,0x13869,0x1386F,default,"帰還しました",
+String,0x1386F,0x13877,default,"マスターが殺された！",
+,,,"//================================================="
+,,,"// Tactics menu: Muster troops"
+,,,"//================================================="
+
+FontPack,0x13C5E,0x13C89
+String,0x13C89,0x13C8B,default,"どれに召集させますか？",
+String,0x13C8B,0x13C8E,default,"部隊がいない",
+String,0x13C8E,0x13C96,default,"召集できる部隊がない",
+String,0x13C96,0x13CA0,default,"すでに１２部隊います",
+String,0x13CA0,0x13CA8,default,"どれを召集しますか？",
+String,0x13CA8,0x13CB0,default,"LPがたりない！",
+String,0x13CB0,0x13CB9,default,"同種の部隊ではない！",
+String,0x13CB9,0x13CC4,default,"これ以上召集できない！",
+String,0x13CC4,0x13CCB,default,"本当に召集しますか？",
+String,0x13CCB,0x13CD1,default,"召集しました",
+String,0x13CD1,0x13CDB,default,"部隊が指定されていない",
+String,0x13CDB,0x13CE0,default,"LPがない",
+,,,"//================================================="
+,,,"// Tactics menu: Summon"
+,,,"//================================================="
+
+FontPack,0x141B2,0x141DF
+String,0x141DF,0x141E1,default,"どれに召喚させますか？",
+String,0x141E1,0x141E4,default,"部隊がいない",
+String,0x141E4,0x141EC,default,"召喚できる部隊がない",
+String,0x141EC,0x141F6,default,"すでに１２部隊います",
+String,0x141F6,0x141FE,default,"どれを召喚しますか？",
+String,0x141FE,0x14206,default,"SPがたりない！",
+String,0x14206,0x1420C,default,"意味がない！",
+String,0x1420C,0x14215,default,"同種の部隊ではない！",
+String,0x14215,0x1421F,default,"これ以上召喚できない",
+String,0x1421F,0x14226,default,"本当に召喚しますか？",
+String,0x14226,0x1422C,default,"召喚しました",
+String,0x1422C,0x14236,default,"部隊が指定されていない",
+String,0x14236,0x1423C,default,"SPがない！",
+,,,"//================================================="
+,,,"// Tactics menu: Search"
+,,,"//================================================="
+
+FontPack,0x144D6,0x14513
+String,0x14513,0x14515,default,"どれに探索させますか？",
+String,0x14515,0x14518,default,"部隊がいない",
+String,0x14518,0x14520,default,"探索できる部隊がない",
+String,0x14520,0x1452A,default,"部隊が指定されていない",
+String,0x1452A,0x14531,default,"これ以上意味がない",
+String,0x14531,0x14536,default,"探索しますか？",
+String,0x14536,0x1453D,default,"英雄はいなかった",
+String,0x1453D,0x14544,default,"英雄を発見した！",
+String,0x14544,0x14548,default,"雇いますか？",
+String,0x14548,0x14550,default,"LPがたりない！",
+String,0x14550,0x14558,default,"性格が合わない！",
+String,0x14558,0x14561,default,"これ以上雇えない！",
+String,0x14561,0x14566,default,"雇いました",
+String,0x14566,0x1456B,default,"やめました",
+String,0x1456B,0x14571,default,"拒否された！",
+,,,"//================================================="
+,,,"// Tactics menu: Heroes"
+,,,"//================================================="
+
+FontPack,0x149CC,0x149F9
+String,0x149F9,0x149FE,default,"状況　解雇",
+String,0x149FE,0x14A03,default,"就任　解任",
+String,0x14A03,0x14A07,default,"英雄がいない！",
+String,0x14A07,0x14A0D,default,"マスターがいない！",
+String,0x14A0D,0x14A13,default,"誰を解雇しますか？",
+String,0x14A13,0x14A19,default,"本当に解雇しますか？",
+String,0x14A19,0x14A1F,default,"解雇しました",
+String,0x14A1F,0x14A27,default,"就任できる部隊がない！",
+String,0x14A27,0x14A2F,default,"誰を就任させますか？",
+String,0x14A2F,0x14A36,default,"どの部隊ですか？",
+String,0x14A36,0x14A3C,default,"就任しました",
+String,0x14A3C,0x14A43,default,"就任できる英雄がいない",
+String,0x14A43,0x14A4B,default,"英雄がいる部隊がない！",
+String,0x14A4B,0x14A54,default,"英雄の部隊が行動済み！",
+String,0x14A54,0x14A5D,default,"どの英雄を解任しますか",
+String,0x14A5D,0x14A63,default,"解任しました",
+String,0x14A63,0x14A6D,default,"英雄が全て就任済み！！",
+,,,"//================================================="
+,,,"// Tactics menu: Training"
+,,,"//================================================="
+
+FontPack,0x14BCE,0x14BEC
+String,0x14BEC,0x14BEF,default,"部隊がいない",
+String,0x14BEF,0x14BF5,default,"訓練できる部隊がない",
+String,0x14BF5,0x14BFA,default,"部隊を決定して下さい",
+String,0x14BFA,0x14C04,default,"部隊が指定されていない",
+String,0x14C04,0x14C0B,default,"本当に訓練しますか？",
+String,0x14C0B,0x14C11,default,"訓練しました",
+,,,"//================================================="
+,,,"// Tactics menu: Rest"
+,,,"//================================================="
+
+FontPack,0x14D38,0x14D5A
+String,0x14D5A,0x14D5D,default,"部隊がいない",
+String,0x14D5D,0x14D62,default,"全部隊行動済みです",
+String,0x14D62,0x14D69,default,"休養する部隊がいない",
+String,0x14D69,0x14D6E,default,"部隊を決定して下さい",
+String,0x14D6E,0x14D78,default,"部隊が指定されていない",
+String,0x14D78,0x14D81,default,"本当に休養しますか？",
+String,0x14D81,0x14D87,default,"休養しました",
+,,,"//================================================="
+,,,"// Policy/Tactics menu: Delegate authority"
+,,,"//================================================="
+
+FontPack,0x14F34,0x14F77
+String,0x14F77,0x14F7B,default,"マスターがいない！",
+String,0x14F7B,0x14F80,default,"委任できるエリアがない",
+String,0x14F80,0x14F85,default,"委任　維持",
+String,0x14F85,0x14F8A,default,"軍備　軍事",
+String,0x14F8A,0x14F8F,default,"探索　指揮",
+String,0x14F8F,0x14F97,default,"ここを指揮します　",
+String,0x14F97,0x14F9F,default,"ここを委任します　",
+String,0x14F9F,0x14FA7,default,"ここを維持します　",
+String,0x14FA7,0x14FAF,default,"ここで軍備します　",
+String,0x14FAF,0x14FB7,default,"ここで軍事します　",
+String,0x14FB7,0x14FBF,default,"ここで探索します　",
+String,0x14FBF,0x14FC9,default,"上級ルールしかできない",
+String,0x14FC9,0x14FCF,default,"召集部隊がいない！",
+String,0x14FCF,0x14FD8,default,"このマスターはできない",
+String,0x14FD8,0x14FE2,default,"強制委任で指揮できない",
+FontPack,0x16064,0x1607C
+String,0x1607C,0x1607E,default,"英雄を発見した！",
+String,0x1607E,0x16080,default,"雇いますか？",
+String,0x16080,0x16084,default,"雇いました",
+String,0x16084,0x16089,default,"やめました",
+,,,"//================================================="
+,,,"// calls to 0x19C6:"
+,,,"//================================================="
+
+,,,"//============================================="
+,,,"// Phase 1: Round start events"
+,,,"//============================================="
+
+FontPack,0x606D,0x608D
+String,0x6069,0x606B,default,"開始",
+String,0xE1C6,0xE1C8,default,"地震が発生した！",
+String,0xE1C8,0xE1CF,default,"疫病が流行した！",
+String,0xE1CF,0xE1D3,default,"大嵐が発生した！",
+String,0xE1D3,0xE1D6,default,"ロック鳥襲撃！",
+String,0xE1D6,0xE1DC,default,"金脈を発見した！",
+String,0xE1DC,0xE1DF,default,"部隊成長！",
+String,0xE1DF,0xE1E4,default,"モンスター襲撃！",
+String,0xE1E4,0xE1E7,default,"襲撃！",
+,,,"//============================================="
+,,,"// Phase 2: Event phase"
+,,,"//============================================="
+
+FontPack,0x608D,0x60C2
+String,0x606B,0x606D,default,"イベント",
+String,0xE52E,0xE530,default,"イベントを受け取って下さい",
+String,0xE530,0xE534,default,"』を獲得した",
+String,0xE534,0xE539,default,"練金術に成功した！",
+String,0xE539,0xE53F,default,"祝福された！",
+String,0xE53F,0xE546,default,"不穏になった！",
+String,0xE546,0xE54C,default,"呪縛された！",
+String,0xE54C,0xE551,default,"部隊成長！",
+String,0xE551,0xE557,default,"襲撃された！",
+String,0xE557,0xE55B,default,"反乱が起きた！",
+String,0xE55B,0xE563,default,"これ以上、持てません！",
+String,0xE563,0xE56B,default,"イベントを１つ捨てて下さい",
+,,,"//============================================="
+,,,"// Phase 3: Policy phase"
+,,,"//============================================="
+
+FontPack,0x60C2,0x60CF
+,,,"// label for menu"
+,,,"// NOTE: string definition is shared with other"
+,,,"// labels, so some code needs to be altered"
+
+String,0x6069,0x606B,default,"政策",
+,,,"// version 1?"
+
+String,0xE7DA,0xE7DC,default,"情報",
+String,0xE7DC,0xE7DE,default,"外交",
+String,0xE7DE,0xE7E0,default,"委任",
+String,0xE7E0,0xE7E2,default,"機能",
+String,0xE7E2,0xE7E4,default,"終了",
+,,,"// version 2?"
+
+String,0xE7E6,0xE7E8,default,"情報",
+String,0xE7E8,0xE7EA,default,"外交",
+String,0xE7EA,0xE7EC,default,"策略",
+String,0xE7EC,0xE7EE,default,"委任",
+String,0xE7EE,0xE7F0,default,"機能",
+String,0xE7F0,0xE7F2,default,"終了",
+,,,"//============================================="
+,,,"// Phase 4: Tactics phase"
+,,,"//============================================="
+
+FontPack,0x60CF,0x60E5
+,,,"// label for menu"
+,,,"// NOTE: string definition is shared with other"
+,,,"// labels, so some code needs to be altered"
+
+String,0x6069,0x606B,default,"作戦",
+,,,"// version 1?"
+
+String,0xECC6,0xECC8,default,"情報",
+String,0xECC8,0xECCA,default,"移動",
+String,0xECCA,0xECCC,default,"侵攻",
+String,0xECCC,0xECCE,default,"召集",
+String,0xECCE,0xECD0,default,"委任",
+String,0xECD0,0xECD2,default,"機能",
+String,0xECD2,0xECD4,default,"終了",
+,,,"// version 2?"
+
+String,0xECD6,0xECD8,default,"情報",
+String,0xECD8,0xECDA,default,"移動",
+String,0xECDA,0xECDC,default,"偵察",
+String,0xECDC,0xECDE,default,"侵攻",
+String,0xECDE,0xECE0,default,"召集",
+String,0xECE0,0xECE2,default,"召喚",
+String,0xECE2,0xECE4,default,"策略",
+,,,"// version 3?"
+
+String,0xECE6,0xECE8,default,"訓練",
+String,0xECE8,0xECEA,default,"休養",
+String,0xECEA,0xECEC,default,"委任",
+String,0xECEC,0xECEE,default,"機能",
+String,0xECEE,0xECF0,default,"終了",
+String,0xECF0,0xECF1,default,"　",
+String,0xECF1,0xECF2,default,"　",
+,,,"// version 4?"
+
+String,0xECF4,0xECF6,default,"訓練",
+String,0xECF6,0xECF8,default,"休養",
+String,0xECF8,0xECFA,default,"探索",
+String,0xECFA,0xECFC,default,"英雄",
+String,0xECFC,0xECFE,default,"委任",
+String,0xECFE,0xED00,default,"機能",
+String,0xED00,0xED02,default,"終了",
+,,,"//============================================="
+,,,"// Territory names for domestic/foreign"
+,,,"// affairs options in information menu"
+,,,"// (split across 5 font packs)"
+,,,"//============================================="
+
+FontPack,0x383C2,0x38402
+String,0x382BC,0x382BE,default,"ローランド平原地帯",
+String,0x382BE,0x382C5,default,"ナースホルン平原地帯",
+String,0x382C5,0x382C9,default,"バッハム遺跡地帯",
+String,0x382C9,0x382CF,default,"レプラス平原地帯",
+String,0x382CF,0x382D8,default,"ムルバース密林地帯",
+String,0x382D8,0x382DF,default,"グライナス平原地帯",
+String,0x382DF,0x382E9,default,"北カルミスタ森林地帯",
+String,0x382E9,0x382F0,default,"テスカイア平原地帯",
+FontPack,0x38402,0x3844D
+String,0x382F0,0x382F2,default,"イジフミガト丘陵地帯",
+String,0x382F2,0x382F8,default,"北ガザ砂漠地帯",
+String,0x382F8,0x382FC,default,"ドラグーン火山地帯",
+String,0x382FC,0x38303,default,"パランニール島／森林",
+String,0x38303,0x38309,default,"ザクハルト丘陵地帯",
+String,0x38309,0x38313,default,"南カルミスタ森林地帯",
+String,0x38313,0x38319,default,"南ガザ砂漠地帯",
+String,0x38319,0x38323,default,"北ウンバール湿原地帯",
+FontPack,0x3844D,0x38492
+String,0x38323,0x38325,default,"北セレブラス森林地帯",
+String,0x38325,0x3832C,default,"モルガルド密林地帯",
+String,0x3832C,0x38331,default,"クロエルン城塞都市跡",
+String,0x38331,0x38337,default,"ウルハ砂漠地帯",
+String,0x38337,0x38341,default,"南ウンバール湿原地帯",
+String,0x38341,0x38344,default,"南セレブラス森林地帯",
+String,0x38344,0x3834E,default,"西グラファス山岳地帯",
+String,0x3834E,0x38358,default,"東グラファス山岳地帯",
+FontPack,0x38492,0x384D0
+String,0x38358,0x3835A,default,"ファミール平原地帯",
+String,0x3835A,0x38361,default,"カツーオ丘陵地帯",
+String,0x38361,0x38369,default,"シヤバカナ丘陵地帯",
+String,0x38369,0x38373,default,"バッシュラー火山地帯",
+String,0x38373,0x3837B,default,"ニタラク丘陵地帯",
+String,0x3837B,0x38382,default,"トスカニア平原地帯",
+String,0x38382,0x3838B,default,"モルソルン山岳地帯",
+String,0x3838B,0x3838F,default,"ワーグズ島／遺跡",
+FontPack,0x384D0,0x38515
+String,0x3838F,0x38393,default,"シュミシュミ森林地帯",
+String,0x38393,0x3839A,default,"マステンス平原地帯",
+String,0x3839A,0x3839F,default,"北ジャグ湿原地帯",
+String,0x3839F,0x383A5,default,"南ジャグ湿原地帯",
+String,0x383A5,0x383AB,default,"ギルフレイ平原地帯",
+String,0x383AB,0x383B3,default,"シュワルベ密林地帯",
+String,0x383B3,0x383BA,default,"ビスティッツ森林地帯",
+String,0x383BA,0x383C2,default,"ロンバニオ平原地帯",
+,,,"//================================================="
+,,,"// Simple battle: global messages"
+,,,"//================================================="
+
+FontPack,0x17AE8,0x17B10
+String,0x17B10,0x17B14,default,"第　ターン",
+String,0x17B14,0x17B16,default,"攻撃側",
+String,0x17B16,0x17B19,default,"防御側",
+String,0x17B19,0x17B1B,default,"配置",
+String,0x17B1B,0x17B1D,default,"策略",
+String,0x17B1D,0x17B1F,default,"行動",
+String,0x17B1F,0x17B21,default,"平地",
+String,0x17B21,0x17B23,default,"荒地",
+String,0x17B23,0x17B25,default,"林　",
+String,0x17B25,0x17B27,default,"森林",
+String,0x17B27,0x17B29,default,"密林",
+String,0x17B29,0x17B2B,default,"砂漠",
+String,0x17B2B,0x17B2D,default,"湿原",
+String,0x17B2D,0x17B2F,default,"沼地",
+String,0x17B2F,0x17B31,default,"湿林",
+String,0x17B31,0x17B33,default,"火口",
+String,0x17B33,0x17B35,default,"都市",
+String,0x17B35,0x17B37,default,"泉　",
+String,0x17B37,0x17B39,default,"海　",
+String,0x17B39,0x17B3B,default,"停止",
+String,0x17B3B,0x17B3D,default,"石化",
+String,0x17B3D,0x17B3F,default,"マヒ",
+String,0x17B3F,0x17B41,default,"待機",
+String,0x17B41,0x17B43,default,"移動",
+String,0x17B43,0x17B45,default,"攻撃",
+String,0x17B45,0x17B47,default,"突撃",
+String,0x17B47,0x17B49,default,"魔法",
+String,0x17B49,0x17B4B,default,"状態",
+String,0x17B4B,0x17B4D,default,"退却",
+String,0x17B4D,0x17B4F,default,"ご命令を",
+,,,"//================================================="
+,,,"// ? something from simple battle"
+,,,"//================================================="
+
+FontPack,0x1FF2C,0x1FF5A
+String,0x1FF5A,0x1FF5C,default,"終了しますか？",
+String,0x1FF5C,0x1FF5E,default,"終了します",
+String,0x1FF5E,0x1FF62,default,"どれを配置しますか？",
+String,0x1FF62,0x1FF67,default,"どれを戻しますか？",
+String,0x1FF67,0x1FF6E,default,"どこに配置しますか？",
+String,0x1FF6E,0x1FF75,default,"戦争を委任しますか？",
+String,0x1FF75,0x1FF7C,default,"戦争を指揮します",
+String,0x1FF7C,0x1FF83,default,"戦争を委任します",
+String,0x1FF83,0x1FF87,default,"指揮する",
+String,0x1FF87,0x1FF8B,default,"委任する",
+String,0x1FF8B,0x1FF94,default,"攻撃側に指揮官がいない！",
+String,0x1FF94,0x1FF9E,default,"防御側に指揮官がいない！",
+,,,"//================================================="
+,,,"// Simple battle status messages?"
+,,,"//================================================="
+
+FontPack,0x1A976,0x1A9A8
+String,0x1A9A8,0x1A9AD,default,"は再生した！",
+String,0x1A9AD,0x1A9B2,default,"は毒された！",
+String,0x1A9B2,0x1A9B5,default,"防御側の士気が低下！",
+String,0x1A9B5,0x1A9BD,default,"攻撃側は指揮官を失った！",
+String,0x1A9BD,0x1A9C4,default,"防御側は指揮官を失った！",
+,,,"//================================================="
+,,,"// Simple battle: Wait"
+,,,"//================================================="
+
+FontPack,0x1911E,0x19128
+String,0x19128,0x1912A,default,"待機しますか？",
+String,0x1912A,0x1912C,default,"待機します",
+,,,"//================================================="
+,,,"// Simple battle: Move"
+,,,"//================================================="
+
+FontPack,0x190B0,0x190C5
+String,0x190C5,0x190C7,default,"上へ移動",
+String,0x190C7,0x190CA,default,"下へ移動",
+String,0x190CA,0x190CC,default,"どれですか？",
+String,0x190CC,0x190D3,default,"もう移動できません！",
+,,,"//================================================="
+,,,"// Simple battle: Attack/Charge(?)"
+,,,"//================================================="
+
+FontPack,0x1923E,0x1928E
+String,0x1928E,0x19290,default,"は倒れた！",
+String,0x19290,0x19293,default,"格　闘",
+String,0x19293,0x19296,default,"射　撃",
+String,0x19296,0x19299,default,"火　炎",
+String,0x19299,0x1929B,default,"ブレス",
+String,0x1929B,0x1929F,default,"どれですか？",
+String,0x1929F,0x192A3,default,"敵がいない！",
+String,0x192A3,0x192A9,default,"突撃できません！",
+String,0x192A9,0x192B1,default,"ブレスが吐けない！",
+String,0x192B1,0x192B7,default,"突撃しますか？",
+String,0x192B7,0x192BC,default,"突撃します",
+String,0x192BC,0x192C4,default,"敵が範囲内にいない！",
+String,0x192C4,0x192C9,default,"攻撃します",
+String,0x192C9,0x192CE,default,"致命的命中！",
+String,0x192CE,0x192D1,default,"命中！",
+String,0x192D1,0x192D6,default,"効果なし！",
+String,0x192D6,0x192DA,default,"はずれ！",
+String,0x192DA,0x192E4,default,"敵と隣接してできない！",
+,,,"//================================================="
+,,,"// Simple battle: Magic"
+,,,"//================================================="
+
+FontPack,0x1B8B2,0x1B903
+,,,"// Spell categories"
+
+String,0x1B903,0x1B905,default,"地の魔法",
+String,0x1B907,0x1B90A,default,"水の魔法",
+String,0x1B90B,0x1B90E,default,"火の魔法",
+String,0x1B90F,0x1B912,default,"風の魔法",
+String,0x1B913,0x1B917,default,"精神魔法",
+String,0x1B917,0x1B91B,default,"暗黒魔法",
+,,,"// Messages"
+
+String,0x1B91B,0x1B91D,default,"どれですか？",
+String,0x1B91D,0x1B921,default,"魔法が使えない！",
+String,0x1B921,0x1B927,default,"移動してできない！",
+String,0x1B927,0x1B92E,default,"魔力がたりない！",
+String,0x1B92E,0x1B933,default,"敵がいない！",
+String,0x1B933,0x1B93A,default,"すでに実行した！",
+String,0x1B93A,0x1B943,default,"部隊が呪われてる！",
+String,0x1B943,0x1B948,default,"意味がない！",
+String,0x1B948,0x1B94C,default,"できない！",
+String,0x1B94C,0x1B953,default,"魔法をかけた！",
+String,0x1B953,0x1B958,default,"成功した！",
+String,0x1B958,0x1B95D,default,"失敗した！",
+String,0x1B95D,0x1B962,default,"を倒した！",
+String,0x1B962,0x1B969,default,"MPが回復した",
+,,,"//================================================="
+,,,"// Simple battle: Status 1"
+,,,"// Note that ALL status screens share string"
+,,,"// structure of 0x18E9D == current screen label"
+,,,"//================================================="
+
+FontPack,0x18DA2,0x18DD3
+String,0x18E9D,0x18E9F,default,"基本データ",
+String,0x18E9F,0x18EA5,default,"HP　　　　機敏",
+String,0x18EA5,0x18EAB,default,"移動　　　　士気",
+String,0x18EAB,0x18EB1,default,"技量　　　　再生",
+String,0x18EB1,0x18EB7,default,"装甲　　　　得点",
+String,0x18EB7,0x18EB9,default,"英雄",
+,,,"//================================================="
+,,,"// Simple battle: Status 2"
+,,,"//================================================="
+
+FontPack,0x18DD3,0x18E31
+String,0x18E9D,0x18E9F,default,"攻撃データ",
+,,,"// labels"
+
+String,0x18EB9,0x18EBA,default,"特",
+String,0x18EBA,0x18EBB,default,"格",
+String,0x18EBB,0x18EBC,default,"射",
+String,0x18EBC,0x18EBD,default,"回",
+,,,"// attack names"
+
+String,0x18EBD,0x18EBF,default,"騎搶",
+String,0x18EC1,0x18EC2,default,"剣",
+String,0x18EC5,0x18EC6,default,"斧",
+String,0x18EC9,0x18ECB,default,"戦斧",
+String,0x18ECD,0x18ECE,default,"杖",
+String,0x18ED1,0x18ED3,default,"フレイル",
+String,0x18ED5,0x18ED7,default,"こん棒",
+String,0x18ED9,0x18EDB,default,"ムチ",
+String,0x18EDD,0x18EDF,default,"蹴る",
+String,0x18EE1,0x18EE2,default,"爪",
+String,0x18EE5,0x18EE7,default,"噛む",
+String,0x18EE9,0x18EEA,default,"角",
+String,0x18EED,0x18EEF,default,"殴る",
+String,0x18EF1,0x18EF3,default,"くちばし",
+String,0x18EF5,0x18EF7,default,"尻尾",
+String,0x18EF9,0x18EFA,default,"弓",
+String,0x18EFD,0x18F00,default,"にらむ",
+String,0x18F01,0x18F03,default,"投岩",
+String,0x18F05,0x18F07,default,"投搶",
+String,0x18F09,0x18F0B,default,"冷凍刃",
+String,0x18F0D,0x18F0F,default,"火球",
+String,0x18F11,0x18F13,default,"電撃",
+String,0x18F15,0x18F17,default,"火炎",
+String,0x18F19,0x18F1C,default,"ブレス",
+,,,"//================================================="
+,,,"// Simple battle: Status 3"
+,,,"//================================================="
+
+FontPack,0x18E31,0x18E6E
+String,0x18E9D,0x18E9F,default,"魔法データ",
+String,0x18F1D,0x18F25,default,"魔法レベル　　MP",
+String,0x18F25,0x18F27,default,"属性",
+String,0x18F27,0x18F29,default,"魔力",
+String,0x18F29,0x18F2D,default,"精霊魔法",
+String,0x18F2D,0x18F2E,default,"地",
+String,0x18F2E,0x18F2F,default,"水",
+String,0x18F2F,0x18F30,default,"火",
+String,0x18F30,0x18F31,default,"風",
+String,0x18F31,0x18F35,default,"精神魔法",
+String,0x18F35,0x18F39,default,"暗黒魔法",
+String,0x18F39,0x18F3F,default,"この部隊は魔法が使えない",
+,,,"//================================================="
+,,,"// Simple battle: Status 4"
+,,,"//================================================="
+
+FontPack,0x18E6E,0x18E9D
+String,0x18E9D,0x18E9F,default,"特性データ",
+String,0x18F3F,0x18F41,default,"毒化しない",
+String,0x18F41,0x18F44,default,"石化しない",
+String,0x18F44,0x18F48,default,"マヒしない",
+String,0x18F48,0x18F4B,default,"火に強い",
+String,0x18F4B,0x18F50,default,"寒さに強い",
+String,0x18F50,0x18F55,default,"電撃に強い",
+String,0x18F55,0x18F5B,default,"EDされない",
+String,0x18F5B,0x18F60,default,"呑込まれない",
+String,0x18F60,0x18F65,default,"ありません",
+,,,"//================================================="
+,,,"// Simple battle: Retreat"
+,,,"//================================================="
+
+FontPack,0x19ACA,0x19AF7
+String,0x19AF7,0x19AF9,default,"退却しますか？",
+String,0x19AF9,0x19AFD,default,"次のターンに退却します",
+String,0x19AFD,0x19B03,default,"勝手に退却します！",
+String,0x19B03,0x19B08,default,"退却できるエリアがない！",
+String,0x19B08,0x19B11,default,"召喚部隊は退却できない！",
+String,0x19B11,0x19B19,default,"退却する気がない！",
+String,0x19B19,0x19B23,default,"濃霧で退却できない！",
+String,0x19B23,0x19B26,default,"は退却します",
+String,0x19B26,0x19B2F,default,"退却できなかった！",
+,,,"//============================================="
+,,,"// Simple battle: End 1?"
+,,,"//============================================="
+
+FontPack,0x1A9EC,0x1A9F5
+String,0x1A9F5,0x1A9F7,default,"は成長した！",
+,,,"//============================================="
+,,,"// Simple battle: End 2?"
+,,,"//============================================="
+
+FontPack,0x1A9D6,0x1A9E6
+String,0x1A9E6,0x1A9E8,default,"軍が勝利した",
+String,0x1A9E8,0x1A9EC,default,"モンスターどもが勝利した",
+,,,"//============================================="
+,,,"// Hex battle: ?"
+,,,"//============================================="
+
+FontPack,0x181B8,0x181E0
+String,0x181E0,0x181E2,default,"策略イベントを使いますか",
+String,0x181E2,0x181E6,default,"どれを使いますか",
+String,0x181E6,0x181EC,default,"策略イベントを実行します",
+String,0x181EC,0x181F4,default,"使える策略イベントがない",
+String,0x181F4,0x181FA,default,"意味がない！",
+String,0x181FA,0x18201,default,"策略イベントは使いません",
+,,,"//============================================="
+,,,"// Hex battle: Move"
+,,,"//============================================="
+
+FontPack,0x208E4,0x208F5
+String,0x208F5,0x208F7,default,"どこですか？",
+String,0x208F7,0x208FB,default,"いいですか？",
+String,0x208FB,0x20900,default,"移動済みです！",
+String,0x20900,0x20907,default,"移動できない！",
+,,,"//================================================="
+,,,"// calls to 0x11234"
+,,,"//================================================="
+
+FontPack,0x1144F,0x11466
+,,,"// *** RECYCLED ***"
+String,0x1138D,0x11390,default,"敵の策略だ！！",
+String,0x11466,0x1146B,default,"策略を無効にされた！",
+,,,"//================================================="
+,,,"// sequence handled by code at 1A298"
+,,,"//================================================="
+
+FontPack,0x1A8DC,0x1A8E5
+FontPack,0x1A8E5,0x1A8ED
+FontPack,0x1A8ED,0x1A8F6
+FontPack,0x1A8F6,0x1A907
+FontPack,0x1A907,0x1A910
+,,,"//================================================="
+,,,"// calls to 0x1B6E0"
+,,,"//================================================="
+
+,,,"//================================================="
+,,,"// Earth magic menu"
+,,,"//================================================="
+
+FontPack,0x1BE98,0x1BEB5
+String,0x1BEB5,0x1BEB9,default,"回　　復",
+String,0x1BEB9,0x1BEBB,default,"魔法の鎧",
+String,0x1BEBD,0x1BEC0,default,"魔法の失",
+String,0x1BEC1,0x1BEC5,default,"状態回復",
+String,0x1BEC5,0x1BEC9,default,"地　　震",
+String,0x1BEC9,0x1BECD,default,"全体回復",
+String,0x1BECD,0x1BED1,default,"復　　活",
+String,0x1BED1,0x1BED5,default,"精　　霊",
+,,,"//================================================="
+,,,"// Water magic menu"
+,,,"//================================================="
+
+FontPack,0x1C0BA,0x1C0E4
+String,0x1C0E4,0x1C0E8,default,"回　　復",
+String,0x1C0E8,0x1C0EA,default,"精神安定",
+String,0x1C0EC,0x1C0EE,default,"魔法の失",
+String,0x1C0F0,0x1C0F2,default,"火炎防御",
+String,0x1C0F4,0x1C0F8,default,"雪　　嵐",
+String,0x1C0F8,0x1C0FA,default,"再生停止",
+String,0x1C0FC,0x1C100,default,"氷　　結",
+String,0x1C100,0x1C104,default,"精　　霊",
+,,,"//================================================="
+,,,"// Fire magic menu"
+,,,"//================================================="
+
+FontPack,0x1C2A2,0x1C2CD
+String,0x1C2CD,0x1C2D1,default,"回　　復",
+String,0x1C2D1,0x1C2D3,default,"攻撃増強",
+String,0x1C2D5,0x1C2D7,default,"魔法の失",
+String,0x1C2D9,0x1C2DB,default,"装甲溶解",
+String,0x1C2DD,0x1C2E1,default,"火　　球",
+String,0x1C2E1,0x1C2E5,default,"再　　生",
+String,0x1C2E5,0x1C2E9,default,"流　　星",
+String,0x1C2E9,0x1C2ED,default,"精　　霊",
+,,,"//================================================="
+,,,"// Wind magic menu"
+,,,"//================================================="
+
+FontPack,0x1C45E,0x1C487
+String,0x1C487,0x1C48B,default,"回　　復",
+String,0x1C48B,0x1C48F,default,"技　　量",
+String,0x1C48F,0x1C491,default,"魔法の失",
+String,0x1C493,0x1C497,default,"飛　　行",
+String,0x1C497,0x1C49A,default,"魔真空刃",
+String,0x1C49B,0x1C49D,default,"高速移動",
+String,0x1C49F,0x1C4A3,default,"雷　　撃",
+String,0x1C4A3,0x1C4A7,default,"精　　霊",
+,,,"//================================================="
+,,,"// Spirit magic menu"
+,,,"//================================================="
+
+FontPack,0x1C713,0x1C73C
+String,0x1C73C,0x1C73E,default,"MP回復",
+String,0x1C740,0x1C744,default,"祝　　福",
+String,0x1C744,0x1C748,default,"気　　弾",
+String,0x1C748,0x1C74C,default,"解　　呪",
+String,0x1C74C,0x1C750,default,"停　　止",
+String,0x1C750,0x1C752,default,"魔力向上",
+String,0x1C754,0x1C758,default,"気弾掃射",
+String,0x1C758,0x1C75C,default,"召　　喚",
+,,,"//================================================="
+,,,"// Dark magic menu"
+,,,"//================================================="
+
+FontPack,0x1C9C6,0x1C9E8
+String,0x1C9E8,0x1C9EC,default,"恐　　慌",
+String,0x1C9EC,0x1C9F0,default,"毒　　化",
+String,0x1C9F0,0x1C9F4,default,"マ　　ヒ",
+String,0x1C9F4,0x1C9F8,default,"呪　　縛",
+String,0x1C9F8,0x1C9FC,default,"這　　虫",
+String,0x1C9FC,0x1CA00,default,"遅　　滞",
+String,0x1CA00,0x1CA04,default,"死の呪文",
+String,0x1CA04,0x1CA06,default,"悪魔召喚",
+,,,"//================================================="
+,,,"// calls to 1A24"
+,,,"//================================================="
+
+,,,"//================================================="
+,,,"// Game end message?"
+,,,"//================================================="
+
+FontPack,0xD86E,0xD894
+String,0xD894,0xD898,default,"戦いは決着のつかぬまま終わった…",
+String,0xD898,0xD89D,default,"☆ゲーム終了☆",
+String,0xD89D,0xD89F,default,"順位",
+String,0xD89F,0xD8A2,default,"マスター",
+String,0xD8A2,0xD8A4,default,"領地",
+String,0xD8A4,0xD8A6,default,"召集",
+String,0xD8A6,0xD8A8,default,"生存",
+String,0xD8A8,0xD8AA,default,"撃破",
+,,,"//================================================="
+,,,"// calls to CA2"
+,,,"//================================================="
+
+,,,"//================================================="
+,,,"// Rule selection screen prompts"
+,,,"//================================================="
+
+FontPack,0xA030,0xA088
+String,0xA10C,0xA114,default,"どのルールでゲームを？",
+String,0xA114,0xA11A,default,"どのシナリオで？",
+String,0xA11A,0xA121,default,"何人でゲームを？",
+String,0xA121,0xA126,default,"１人目は誰に？",
+String,0xA126,0xA12B,default,"２人目は誰に？",
+String,0xA12B,0xA130,default,"３人目は誰に？",
+String,0xA130,0xA135,default,"４人目は誰に？",
+String,0xA135,0xA13D,default,"ゲームの難しさは？",
+String,0xA13D,0xA147,default,"ゲームの設定を変更するか？",
+String,0xA147,0xA14E,default,"設定のご変更を",
+String,0xA14E,0xA157,default,"では健闘を祈る・・・",
+String,0xA157,0xA164,default,"どのルールでゲームをしますか？",
+String,0xA164,0xA16E,default,"どのシナリオにしますか？",
+String,0xA16E,0xA17A,default,"何人でゲームをしますか？",
+String,0xA17A,0xA183,default,"１人目は誰にしますか？",
+String,0xA183,0xA18C,default,"２人目は誰にしますか？",
+String,0xA18C,0xA195,default,"３人目は誰にしますか？",
+String,0xA195,0xA19E,default,"４人目は誰にしますか？",
+String,0xA19E,0xA1A9,default,"ゲームの難しさはどれくらい？",
+String,0xA1A9,0xA1B7,default,"ゲームの設定を変更しますか？",
+String,0xA1B7,0xA1BF,default,"設定を変更してね",
+String,0xA1BF,0xA1C5,default,"がんばってね！！",
+,,,"//================================================="
+,,,"// Rule selection screen options 1"
+,,,"//================================================="
+
+FontPack,0xA088,0xA0D7
+String,0xA1C5,0xA1C8,default,"基本ルール",
+String,0xA1C8,0xA1CD,default,"通常ルール",
+String,0xA1CD,0xA1D2,default,"上級ルール",
+String,0xA1D2,0xA1D6,default,"血に染まりしバハムート",
+String,0xA1D6,0xA1DC,default,"黄昏の秩序と暁の混沌と",
+String,0xA1DC,0xA1E3,default,"闇の時代の鎮魂歌",
+String,0xA1E3,0xA1EC,default,"聖戦士と狂戦士の戦い",
+,,,"//================================================="
+,,,"// Rule selection screen options 2"
+,,,"//================================================="
+
+FontPack,0xA0D7,0xA10C
+String,0xA1EC,0xA1EE,default,"１人でする",
+String,0xA1EE,0xA1F1,default,"２人でする",
+String,0xA1F1,0xA1F4,default,"３人でする",
+String,0xA1F4,0xA1F7,default,"４人でする",
+String,0xA1F7,0xA1FB,default,"観戦する",
+String,0xA1FB,0xA200,default,"レベル１（やさしい）",
+String,0xA200,0xA203,default,"レベル２",
+String,0xA203,0xA206,default,"レベル３",
+String,0xA206,0xA209,default,"レベル４",
+String,0xA209,0xA210,default,"レベル５（難しい）",
+String,0xA210,0xA215,default,"設定を変更しない",
+String,0xA215,0xA219,default,"設定を変更する",
+String,0xA219,0xA21F,default,"ゲームを始める",
+,,,"//================================================="
+,,,"// Rule selection screen options 3"
+,,,"//================================================="
+
+FontPack,0xA498,0xA4CB
+String,0xA4CB,0xA4CD,default,"召喚した部隊を",
+String,0xA4CD,0xA4D2,default,"イベントフェイズを",
+String,0xA4D2,0xA4D7,default,"領地の委任を強制",
+String,0xA4D7,0xA4DE,default,"　　ターンで終了する",
+String,0xA4DE,0xA4E2,default,"委任する",
+String,0xA4E2,0xA4E6,default,"指揮する",
+String,0xA4E6,0xA4EA,default,"しない　",
+String,0xA4EA,0xA4EE,default,"実行　　",
+String,0xA4EE,0xA4F2,default,"しない　",
+String,0xA4F2,0xA4F4,default,"する",
+,,,"//================================================="
+,,,"// calls to 193C"
+,,,"//================================================="
+
+,,,"//============================================="
+,,,"// Tactics menu: Move"
+,,,"//============================================="
+
+FontPack,0x1236E,0x123A9
+String,0x123A9,0x123AB,default,"部隊がいません",
+String,0x123AB,0x123B0,default,"全部隊行動済みです",
+String,0x123B0,0x123B7,default,"移動可能なエリアがない",
+String,0x123B7,0x123BF,default,"移動元のエリアです",
+String,0x123BF,0x123C8,default,"すでに１２部隊います",
+String,0x123C8,0x123D1,default,"大嵐で移動できない",
+String,0x123D1,0x123DB,default,"あと　部隊移動できます",
+String,0x123DB,0x123E3,default,"これ以上移動できません",
+String,0x123E3,0x123E8,default,"部隊を決定して下さい",
+String,0x123E8,0x123F2,default,"本当に移動しますか？",
+String,0x123F2,0x123F8,default,"移動しました",
+String,0x123F8,0x12402,default,"部隊が指定されていない",
+,,,"//============================================="
+,,,"// Load game menu"
+,,,"//============================================="
+
+FontPack,0xD9DC,0xD9F8
+String,0xD9F8,0xD9FA,default,"データが保存されてない！",
+String,0xD9FA,0xDA03,default,"データが破壊されている！",
+String,0xDA03,0xDA08,default,"ゲームの続きを始めます！",
+,,,"//============================================="
+,,,"// Game victory message"
+,,,"//============================================="
+
+FontPack,0xDC54,0xDC5F
+String,0xDC5F,0xDC61,default,"が勝利した！",
+,,,"//============================================="
+,,,"// enemy reinforcements"
+,,,"//============================================="
+
+FontPack,0x1889E,0x188A9
+String,0x188A9,0x188AB,default,"後方部隊が来た！",
+,,,"//============================================="
+,,,"// ?"
+,,,"//============================================="
+
+FontPack,0x188AB,0x188C0
+String,0x188C0,0x188C2,default,"これ以上攻撃できません",
+String,0x188C2,0x188C9,default,"攻撃側は退却します！",
+,,,"//================================================="
+,,,"// unit names -- sequence handled by code at 1F63C"
+,,,"//================================================="
+
+FontPack,0x37FB2,0x37FBB
+String,0x3824D,0x3824F,default,"ジーク",
+FontPack,0x37FBB,0x37FC8
+String,0x38251,0x38253,default,"バストラル",
+FontPack,0x37FC8,0x37FD5
+String,0x38251,0x38253,default,"シェルファ",
+FontPack,0x37FD5,0x37FE2
+String,0x38251,0x38253,default,"エル＝モア",
+FontPack,0x37FE2,0x37FED
+String,0x3824F,0x38251,default,"ガイラム",
+FontPack,0x37FED,0x37FFC
+String,0x38253,0x38255,default,"ベルフレイム",
+FontPack,0x37FFC,0x38003
+String,0x3824F,0x38251,default,"クリムト",
+FontPack,0x38003,0x3800E
+String,0x3824F,0x38251,default,"バルマー",
+FontPack,0x3800E,0x3801D
+String,0x38253,0x38255,default,"エル＝ウィン",
+FontPack,0x3801D,0x38024
+String,0x3824B,0x3824D,default,"戦士",
+FontPack,0x38024,0x38029
+String,0x3824B,0x3824D,default,"騎命",
+FontPack,0x38029,0x3802F
+String,0x3824D,0x3824F,default,"黒騎命",
+FontPack,0x3802F,0x38038
+String,0x3824D,0x3824F,default,"聖戦士",
+FontPack,0x38038,0x38044
+String,0x38255,0x3825A,default,"バーバリアン",
+FontPack,0x38044,0x3804F
+String,0x3825A,0x3825F,default,"バーサーカー",
+FontPack,0x3804F,0x3805A
+String,0x3824F,0x38251,default,"魔法使い",
+FontPack,0x3805A,0x38063
+String,0x3824D,0x3824F,default,"魔道士",
+FontPack,0x38063,0x3806C
+String,0x3824D,0x3824F,default,"魔術士",
+FontPack,0x3806C,0x38075
+String,0x3824D,0x3824F,default,"エルフ",
+FontPack,0x38075,0x38084
+String,0x38253,0x38255,default,"エルフロード",
+FontPack,0x38084,0x3808F
+String,0x3824F,0x38251,default,"ゴブリン",
+FontPack,0x3808F,0x3809E
+String,0x38253,0x38255,default,"ミノタウルス",
+FontPack,0x3809E,0x380AB
+String,0x38253,0x38255,default,"ジャイアント",
+FontPack,0x380AB,0x380B9
+String,0x38253,0x38255,default,"リザードマン",
+FontPack,0x380B9,0x380C5
+String,0x38251,0x38253,default,"バシリスク",
+FontPack,0x380C5,0x380D0
+String,0x3824F,0x38251,default,"ドラゴン",
+FontPack,0x380D0,0x380D9
+String,0x3824D,0x3824F,default,"小悪魔",
+FontPack,0x380D9,0x380E2
+String,0x3824D,0x3824F,default,"大悪魔",
+FontPack,0x380E2,0x380F1
+String,0x38253,0x38255,default,"デビルロード",
+FontPack,0x380F1,0x38100
+String,0x38253,0x38255,default,"ケンタウルス",
+FontPack,0x38100,0x3810D
+String,0x38251,0x38253,default,"ユニコーン",
+FontPack,0x3810D,0x3811C
+String,0x38253,0x38255,default,"マンティコア",
+FontPack,0x3811C,0x38129
+String,0x38251,0x38253,default,"サーペント",
+FontPack,0x38129,0x38135
+String,0x3825F,0x38262,default,"スフインクス",
+FontPack,0x38135,0x38142
+String,0x38253,0x38255,default,"フェニックス",
+FontPack,0x38142,0x3814F
+String,0x38251,0x38253,default,"ガーゴイル",
+FontPack,0x3814F,0x3815A
+String,0x3824F,0x38251,default,"ゴーレム",
+FontPack,0x3815A,0x38160
+String,0x3824D,0x3824F,default,"タロス",
+FontPack,0x38160,0x38169
+String,0x3824D,0x3824F,default,"オーガ",
+FontPack,0x38169,0x38174
+String,0x3824F,0x38251,default,"トロウル",
+FontPack,0x38174,0x38181
+String,0x38251,0x38253,default,"ワイバーン",
+FontPack,0x38181,0x3818C
+String,0x3824F,0x38251,default,"ヒュドラ",
+FontPack,0x3818C,0x38199
+String,0x38251,0x38253,default,"グリフォン",
+FontPack,0x38199,0x381A8
+String,0x38253,0x38255,default,"サイクロプス",
+FontPack,0x381A8,0x381B7
+String,0x38253,0x38255,default,"ヘルハウンド",
+FontPack,0x381B7,0x381C6
+String,0x38253,0x38255,default,"サラマンダー",
+FontPack,0x381C6,0x381D1
+String,0x3824F,0x38251,default,"キマイラ",
+FontPack,0x381D1,0x381DD
+String,0x38251,0x38253,default,"スケルトン",
+FontPack,0x381DD,0x381E8
+String,0x3824F,0x38251,default,"ゾンビー",
+FontPack,0x381E8,0x381F1
+String,0x3824D,0x3824F,default,"マミー",
+FontPack,0x381F1,0x381FE
+String,0x38251,0x38253,default,"バンパイア",
+FontPack,0x381FE,0x38209
+String,0x3824F,0x38251,default,"リッチー",
+FontPack,0x38209,0x3820E
+String,0x3824F,0x38251,default,"ロック鳥",
+FontPack,0x3820E,0x3821D
+String,0x38253,0x38255,default,"ガーディアン",
+FontPack,0x3821D,0x3822A
+String,0x38251,0x38253,default,"大地の精霊",
+FontPack,0x3822A,0x38235
+String,0x3824F,0x38251,default,"水の精霊",
+FontPack,0x38235,0x38240
+String,0x3824F,0x38251,default,"炎の精霊",
+FontPack,0x38240,0x3824B
+String,0x3824F,0x38251,default,"風の精霊",

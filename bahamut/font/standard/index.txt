@@ -1,0 +1,130 @@
+[Properties]
+numChars=128
+charsPerRow=16
+gridW=8
+gridH=16
+autoKerningOffset=0
+
+
+# period
+[char0035]
+noKerningIfSecond=1
+
+# comma
+[char0036]
+noKerningIfSecond=1
+
+# question mark
+[char0038]
+noKerningIfSecond=1
+
+# apostrophe
+[char0039]
+noKerningIfSecond=1
+#firstKerningAgainstShortChars=-1
+#secondKerningAgainstShortChars=-1
+
+# semicolon
+[char003A]
+noKerningIfFirst=1
+noKerningIfSecond=1
+
+# open quote
+[char0040]
+noKerningIfFirst=1
+
+# close quote
+[char0041]
+noKerningIfSecond=1
+
+# space
+[char0000]
+glyphWidth=0
+advanceWidth=4
+# kerning is special-cased for this anyway,
+# so this doesn't really matter
+noKerningIfFirst=1
+noKerningIfSecond=1
+
+# hyphen
+[char003E]
+noKerningIfFirst=1
+noKerningIfSecond=1
+
+# colon
+[char003B]
+noKerningIfFirst=1
+noKerningIfSecond=1
+
+# open single quote
+[char0042]
+noKerningIfFirst=1
+
+# close single quote
+[char0043]
+noKerningIfSecond=1
+
+# moomin face
+
+[char005B]
+noKerningIfFirst=1
+noKerningIfSecond=1
+glyphWidth=8
+advanceWidth=8
+
+[char005C]
+noKerningIfFirst=1
+noKerningIfSecond=1
+glyphWidth=8
+advanceWidth=8
+
+# fixed-width spaces
+
+[char0070]
+glyphWidth=0
+advanceWidth=1
+
+[char0071]
+glyphWidth=0
+advanceWidth=2
+
+[char0072]
+glyphWidth=0
+advanceWidth=3
+
+[char0073]
+glyphWidth=0
+advanceWidth=4
+
+[char0074]
+glyphWidth=0
+advanceWidth=5
+
+[char0075]
+glyphWidth=0
+advanceWidth=6
+
+[char0076]
+glyphWidth=0
+advanceWidth=7
+
+[char0077]
+glyphWidth=0
+advanceWidth=8
+
+[char0078]
+glyphWidth=0
+advanceWidth=16
+
+[char0079]
+glyphWidth=8
+advanceWidth=8
+
+[char007A]
+glyphWidth=16
+advanceWidth=16
+
+[char007F]
+glyphWidth=0
+advanceWidth=0
+

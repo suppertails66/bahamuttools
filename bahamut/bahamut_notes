@@ -1,0 +1,434 @@
+
+intro:
+  0x400+
+title screen:
+  0x780+
+main gameplay:
+  VRAM patterns 0x380-??? are reserved for "free" menu
+  characters
+  - goes up to at least 0x4B0, probably all the way to 0x580 (0x80 4-tile
+    characters)
+  - it'll almost certainly be easiest to just load a single English font and
+    disable the dynamic font loading
+  patterns 0x580-0x600 are used for a fixed font for always-displayed stuff
+  also, 8x8 font is permanently loaded to 0x000-0x0AA?
+tactical mode:
+  0x400+?
+battle mode:
+  8x8 only
+
+
+sample intro string: 97E4
+
+sample ??? (compressed):
+  intro = 32039
+  
+??? compression (see 8C8):
+  * high bit set = new high nybble needed: low nybble is new X in "0XYY" index
+  * copy ???
+  * FF = terminator
+  
+stuff:
+  1B3C = pixel compression table for text with FG F, BG E
+  1B5C = pixel compression table for text with FG F, BG 0
+  A284 = pixel compression table for text with FG 1, BG 3
+  77880 = 16x16 character table
+    * 0x20 bytes each
+    * each nybble, high to low, corresponds to a word in the 0x20-byte table at
+      1B3C, which contains all possible arrangements of a set of 4 pixels;
+      each corresponding word is copied directly to the VDP
+      (format: UL, UR, LL, LR)
+    * ultimately this is just 1bpp
+    * character packs load a set of characters from this table
+
+font pack decompression:
+  CA2 = decompress font pack (or any sequence of words?) to FFF800
+    !!!
+    * A0 = pack data address
+    * sample pack data: A030
+  1944 = font pack loader (to VRAM) -- A0 = compressed pack pointer
+    !!! most menus and such seem to call this
+  19C6 = decompress font pack in A0, then load font to VRAM
+    !!! 
+    
+font packs:
+  calls to 0x19C6:
+0x00000A8E: 0x41FA 0x00C2                       LEA      (0xC2,PC) [0xB52],A0
+0x0000192A: 0x41FA 0x0230                       LEA      (0x230,PC) [0x1B5C],A0
+!!!!!! whatever is happening at 5D74
+{
+  0x000065E0: 0x41FA 0x0066                       LEA      (0x66,PC) [0x6648],A0
+  0x000065E4: 0x0838 0x0005 0xF00C                BTST     #0x5,0xF00C
+  0x000065EA: 0x6704                              BEQ.S    *+0x6 [0x65F0]
+  0x000065EC: 0x41FA 0x00C4                       LEA      (0xC4,PC) [0x66B2],A0
+}
+{
+  ; table of 8-byte structs starting at 6046; bytes 4-7 are font pack address
+  0x000068C0: 0x41F9 0x0000 0x6046                LEA      0x6046,A0
+  0x000068C6: 0x3038 0xF058                       MOVE.W   0xF058,D0
+  0x000068CA: 0xE748                              LSL.W    #3,D0
+  0x000068CC: 0x2070 0x0004                       MOVEA.L  (0x4,A0,D0.W),A0
+  0x000068D0: 0x3A3C 0x7000                       MOVE.W   #0x7000,D5
+}
+0x00006BA8: 0x41F9 0x0000 0x606D                LEA      0x606D,A0
+0x0000A362: 0x41FA 0x0134                       LEA      (0x134,PC) [0xA498],A0
+0x0000B56E: 0x41FA 0x0C14                       LEA      (0xC14,PC) [0xC184],A0
+{
+  0x0000B8CC: 0x45FA 0x00E2                       LEA      (0xE2,PC) [0xB9B0],A2
+  0x0000B8D0: 0x3038 0xF238                       MOVE.W   0xF238,D0
+  0x0000B8D4: 0xE548                              LSL.W    #2,D0
+  0x0000B8D6: 0xD4C0                              ADDA.W   D0,A2
+  0x0000B8D8: 0x204A                              MOVEA.L  A2,A0
+  0x0000B8DA: 0xD0DA                              ADDA.W   (A2)+,A0
+  0x0000B8DC: 0x2F0A                              MOVE.L   A2,-(A7)
+  0x0000B8DE: 0x4EB8 0x19C6                       JSR      0x19C6
+}
+0x0000C71C: 0x41FA 0x0173                       LEA      (0x173,PC) [0xC891],A0
+0x0000D978: 0x41F9 0x0000 0x606D                LEA      0x606D,A0
+!!!!!! whatever is happening at D8C0
+{
+  ; word table
+  0x00011758: 0x49F9 0x0003 0x8262                LEA      0x38262,A4
+  0x0001175E: 0x3006                              MOVE.W   D6,D0
+  0x00011760: 0xE648                              LSR.W    #3,D0
+  0x00011762: 0xD040                              ADD.W    D0,D0
+  0x00011764: 0x41F4 0x0000                       LEA      (0x0,A4,D0.W),A0
+  0x00011768: 0xD0D0                              ADDA.W   (A0),A0
+  0x0001176A: 0x3A38 0xF03C                       MOVE.W   0xF03C,D5
+  0x0001176E: 0x48E7 0x0608                       MOVEM.L  D5-D6/A4,-(A7)
+  0x00011772: 0x5845                              ADDQ.W   #4,D5
+  0x00011774: 0xEB4D                              LSL.W    #5,D5
+  0x00011776: 0x4EB8 0x19C6                       JSR      0x19C6
+}
+0x00017636: 0x41FA 0x04B0                       LEA      (0x4B0,PC) [0x17AE8],A0
+    0xB52
+    0x1B5C
+    
+    0x6648
+    0x66B2
+      ; table at 604A, 6052, ...
+      0x606D
+      0x608D
+      0x60C2
+      0x60CF
+    0x606D <-- also in table
+      ; table at 95DE
+      95DE + 000A
+      95E0 + 0077
+      95E2 + 00E0
+      95E4 + 013B
+      95E6 + 01A5
+    0xA498
+    0xC184
+      ;!!!! table at b9b0, b9b4, ...
+      B9B0 + 0024
+      B9B4 + 009C
+      B9B8 + 0118
+      B9BC + 0188
+      B9C0 + 01FE
+      B9C4 + 026F
+      B9C8 + 02E2
+      B9CC + 0349
+      B9D0 + 03BC
+    0xC891
+    0x606D <-- also in table
+      ; table at 38262
+      38262 + 0160
+      38264 + 019E
+      38266 + 01E7
+      38268 + 022A
+      3826A + 0266
+    0x17AE8
+    
+    
+  direct calls to 0x1944 with a hardcoded value:
+0x0000DA18: 0x41FA 0x0247                       LEA      (0x247,PC) [0xDC61],A0
+0x0000E5D2: 0x41FA 0x00B4                       LEA      (0xB4,PC) [0xE688],A0
+0x0000EF48: 0x41FA 0x0034                       LEA      (0x34,PC) [0xEF7E],A0
+0x0000FDDC: 0x41FA 0x061B                       LEA      (0x61B,PC) [0x103F9],A0
+0x00010850: 0x41FA 0x0A50                       LEA      (0xA50,PC) [0x112A2],A0
+{
+  0x00010886: 0x41FA 0x0A3A                       LEA      (0xA3A,PC) [0x112C2],A0
+  0x0001088A: 0x7002                              MOVEQ    #0x2,D0
+  0x0001088C: 0xB078 0xF058                       CMP.W    0xF058,D0
+  0x00010890: 0x6704                              BEQ.S    *+0x6 [0x10896]
+  0x00010892: 0x41FA 0x0A91                       LEA      (0xA91,PC) [0x11325],A0
+  0x00010896: 0x4E75                              RTS
+}
+0x0001147C: 0x41FA 0x01CE                       LEA      (0x1CE,PC) [0x1164C],A0
+0x00011C7E: 0x41FA 0x036A                       LEA      (0x36A,PC) [0x11FEA],A0
+0x000120EC: 0x41FA 0x0280                       LEA      (0x280,PC) [0x1236E],A0
+0x00012410: 0x41FA 0x056E                       LEA      (0x56E,PC) [0x12980],A0
+0x00012AEA: 0x41FA 0x0777                       LEA      (0x777,PC) [0x13263],A0
+0x00013376: 0x41FA 0x0468                       LEA      (0x468,PC) [0x137E0],A0
+0x00013880: 0x41FA 0x03DC                       LEA      (0x3DC,PC) [0x13C5E],A0
+0x00013D7C: 0x41FA 0x0434                       LEA      (0x434,PC) [0x141B2],A0
+0x00014244: 0x41FA 0x0290                       LEA      (0x290,PC) [0x144D6],A0
+0x00014580: 0x41FA 0x044A                       LEA      (0x44A,PC) [0x149CC],A0
+0x00014A92: 0x41FA 0x013A                       LEA      (0x13A,PC) [0x14BCE],A0
+0x00014C1A: 0x41FA 0x011C                       LEA      (0x11C,PC) [0x14D38],A0
+0x00014D96: 0x41FA 0x019C                       LEA      (0x19C,PC) [0x14F34],A0
+0x00016000: 0x41FA 0x0062                       LEA      (0x62,PC) [0x16064],A0
+    0xDC61
+    0xE688
+    0xEF7E
+    0x103F9
+    0x112A2
+    0x112C2
+    0x11325
+    0x1164C
+    0x11FEA
+    0x1236E
+    0x12980
+    0x13263
+    0x137E0
+    0x13C5E
+    0x141B2
+    0x144D6
+    0x149CC
+    0x14BCE
+    0x14D38
+    0x14F34
+    0x16064
+  calls to 11234:
+0x00010A8A: 0x41FA 0x09C3                       LEA      (0x9C3,PC) [0x1144F],A0
+    0x1144F
+  sequence handled by code at 1A298:
+    1A8D2 + 000A == 1A8DC
+    1A8D4 + 0011 == 1A8E5
+    1A8D6 + 0017 == 1A8ED
+    1A8D8 + 001E == 1A8F6
+    1A8DA + 002D == 1A907
+  calls to 1B6E0:
+0x0001B970: 0x41FA 0x0526                       LEA      (0x526,PC) [0x1BE98],A0
+0x0001BEDC: 0x41FA 0x01DC                       LEA      (0x1DC,PC) [0x1C0BA],A0
+0x0001C10A: 0x41FA 0x0196                       LEA      (0x196,PC) [0x1C2A2],A0
+0x0001C2F4: 0x41FA 0x0168                       LEA      (0x168,PC) [0x1C45E],A0
+0x0001C4AE: 0x41FA 0x0263                       LEA      (0x263,PC) [0x1C713],A0
+0x0001C762: 0x41FA 0x0262                       LEA      (0x262,PC) [0x1C9C6],A0
+    0x1BE98
+    0x1C0BA
+    0x1C2A2
+    0x1C45E
+    0x1C713
+    0x1C9C6
+  sequence handled by code at 1F63C:
+    37ECA + 00E8 == 37FB2
+    ...
+    !!! this is absurdly long (0x3A entries), generate a table later
+        (followed by 0x3A string offsets, one per entry)
+  calls to 1A24:
+0x0000B8BC: 0x41FA 0x04CE                       LEA      (0x4CE,PC) [0xBD8C],A0
+0x0000D5A4: 0x41FA 0x02C8                       LEA      (0x2C8,PC) [0xD86E],A0
+  calls to CA2:
+0x00009D22: 0x41FA 0x030C                       LEA      (0x30C,PC) [0xA030],A0
+  calls to 193C???
+0x000182D0: 0x41F9 0x0001 0xFF2C                LEA      0x1FF2C,A0
+!!!!!!!!!!!! {
+  0x00018D74: 0x285F                              MOVEA.L  (A7)+,A4
+  0x00018D76: 0x204C                              MOVEA.L  A4,A0
+  0x00018D78: 0xD0DC                              ADDA.W   (A4)+,A0
+  0x00018D7A: 0x3A3C 0x83FC                       MOVE.W   #0x83FC,D5
+  0x00018D7E: 0x4EF8 0x193C                       JMP      0x193C
+}
+!!!!!!!!!!!! {
+  0x0001F58C: 0x205F                              MOVEA.L  (A7)+,A0
+  0x0001F58E: 0x3A3C 0x83FC                       MOVE.W   #0x83FC,D5
+  0x0001F592: 0x4EF8 0x193C                       JMP      0x193C
+}
+0x0001F980: 0x41FA 0x05AA                       LEA      (0x5AA,PC) [0x1FF2C],A0
+
+
+ROUTINES:
+  4EA = toVdpDstCmd
+  BCE = probably tilemap decompression
+  BD4 = probably also tilemap decompression
+  DFE = print 8x16 number?
+  1AFA = print stratagem list?
+  38E2 = send area of tilemap to vdp?
+  5AA2 = draw e.g. "[x] invaded" message?
+  1F638 = load and draw unit name?
+
+    
+routines that load font packs:
+  CA2 (primary)
+  193C
+  19C6 (secondary)
+  1944
+  1A24
+  11234
+  1B6E0
+  1F584
+routines that load 16x16 strings:
+  1A3A
+  1A40
+  1A4A
+  1A56
+  1A62 (primary)
+routines that load 8x8 strings:
+  200A
+  23A4 -- for those +3A structs at FF9400
+  3812 (primary)
+also called to get specially prepared text to screen:
+  19CE
+  
+6046 = set of 4 structs:
+  2b ???
+  2b string offset?
+  4b font pack pointer
+  * see 5C9A / 5D48
+  * string offset is only for first string -- where are the rest?
+
+code:
+  4EA = convert VDP address to VRAM write command
+  8C8 = convert compressed byte strings to uncompressed word strings, sending
+        to buffer at FFF800
+  89c = decompress graphics?
+  ~19EA = character graphic load
+    * source pack is written to FFF800(?)
+      format:
+        2b numchars
+        2b*numchars character indices
+  1A62 = string decompression to tilemap
+  1AA2 = intro character tilemap generator loop
+  302E = prep advisor messages with "linebreaks" for printing
+  3812 = 8x8 string -> tilemap conversion
+  ~3902 = write character in intro
+  5AC8 = load/print "item" name with opening quote
+  5AD6 = alt entry point for 5AC8 with no opening quote
+
+data:
+  7CAE0 = compressed 8x8 font
+  7D0F6 = standard icons
+
+8x8 font:
+  222FC = ふつうのこうげき
+    86 = け
+    E3 = げ
+    5B = ハ
+    B0 = パ
+    
+8x8 text:
+  ~3e040 = some strings (names?) mixed in with other stuff
+  ~0x3E4B3 = ???
+
+strings TODO:
+  1B70 = linked list of raw words (using master table)
+            2b numwords - 1
+            (numwords + 1)*2: series of 16-bit master table indices
+  modify routine at 5AC8 to fix hardcoded open quote, etc.
+  deal with implicit string structure sharing in victory message at DBC2
+    - also current phase labels
+  deal with hardcoded? "を" for attacks with multiple attacks (code around 18B88)
+  advisor messages are composed in RAM and must be worked around
+    - see ~3034 for advisor name
+    - see 1287C for message
+
+memory:
+  9400 = array of 0x80-byte structs?
+    * 3A = string pointer?
+    see ab62
+  AA08? = tilemaps for intro text line 1, top row
+    - from 5F8A (blank)
+    - from 1AAA (content)
+      - raw content comes from FFF800
+  AA88? = tilemaps for intro text line 1, bottom row
+  AC12 = tilemaps for intro text line 2, top row
+  AC92 = tilemaps for intro text line 2, bottom row
+  DA00 = ??? struct?
+    DA24 = ???
+  F00C = if bit 5 set, do programmer easter egg credits
+  F03A = pointer to current window's font heap?
+  F047 = intro/in-game text printing speed
+  F164 = current ruler ID? for purpose of ?? battle?
+  F238 = current ruler ID? at least for purpose of ending
+  F800 = buffer for decompression, etc.
+    * raw intro character indices are copied here (word per index)
+    
+implementing 16x16 translation:
+  - put strings in a table for translation
+    - col 0 = command (fontpack or string)
+      - fontpack rows: srcaddr
+      - string rows: srcaddr, pack method, jp, en
+        - pack methods can be:
+          default         -- add to font pack using 8x16 font
+          img <imagename> -- convert the referenced 1bpp image to a series of
+                             8x16 characters and add them to the fontpack
+  - the script inserter regenerates the master character table by converting
+    each input character to a code from a table file (corresponding to a
+    character in a set of 1bpp graphics somewhere), then from that to a newly
+    generated local code.
+    this mapping is stored so characters aren't duplicated in the master table
+  - generate a hashmap of old font pack addresses to new ones.
+    take ((oldaddr % 0x1000) * 4) or something, and add to base address to get
+      a pointer to a pointer to an array of { oldAddr, newAddr } structs
+      (terminate each pseudo-list with 0xFFFFFFFF entry so code can tell if not
+      found)
+  - also generate a hashmap of old string addresses to new ones
+  - alter the font pack loading code and string -> tilemap conversion code to
+      use 8x16 instead of 16x16
+  - alter the base font pack loading code at CA2 to look up the new address
+      of each font pack using the hash map before decompressing it
+  - alter the base string decompression code at 1A62 to look up the new address
+      of each string using the hash map before decompressing it
+
+*** T O D O ***
+  - aaaaaaaaaaaaaa
+  - update font builder to allow different foreground/background colors.
+    this is needed for at least the rule selection screen.
+  - update render rules to allow for multiple fonts (normal, narrow, etc.)
+  - char-by-char 16x8 font printing for intro + ending.
+    i don't want to implement true rendering for this, so maybe we can
+    use a sprite cover to do fake pixel-by-pixel printing.
+  - add 8x8 vwf.
+    needed for unit names (must fit 6-tile width).
+    worst case is probably 24 unit names simultaneously (tactic test mode setup
+    screen) = 144 tiles.
+    we should keep the existing non-vwf english character set + symbols for
+    use in menus. (printing code will need special exception for these)
+    tiles 0x35-0xAA are available = 118 tiles.
+    we should be able to dip into unused plane A nametable space at DC20-DFFF
+    for an extra 31 tiles (on that screen only -- used in tactical battle!)
+    or maybe tiles 0xF8-0xFF (not used?)
+  - track down any 8x8 "strings" that are actually parts of tilemaps and make
+    sure they get replaced.
+        - りょうち on ? status screen
+  - rule selection screen uses separate 16x16 printing which needs to be fixed
+  - check 後方部隊が来た！
+  - "spear throw" is probably too long to fit status screen.
+    check others too
+        
+done
+  - fix count of turns left in alliance on map
+
+
+
+spell names = 4dc-52f
+permanent = 530-5ff
+
+ffa08e
+ffa9b0
+
+need 8
+remove Z Q 
+
+- compose entire message.
+  to save space, use call commands for all non-dynamic content.
+  - when adding content via 302E, check if source is from memory
+    (which is probably how e.g. dynamic numbers added)
+    and copy instead of calling if so.
+- evaluate number of lines required
+  (accounting for short initial line(s))
+- use line count to set height of message window
+- print actual message with special routine that does auto-line breaks
+  - write a unified routine that conditionally prints, so it can be used for
+    both the height calculation and the actual printing
+    
+ffb600 = target for title logo tilemap
+
+for raymond's death event to occur after beating klimt, bit 6 of FFF00D must be
+set. why won't this occur?????
+  - logic at 1A462?
+  - ...oh, raymond has to actually die. yeah, guess that makes sense.
+
+17472 = true ending check?

@@ -1,0 +1,9 @@
+1. Start game under Advanced Rules on scenario "The Bloodthirsty Bahamut" as Sieg. Any difficulty level is fine.
+2. Play until turn 15 with Balmer, Klimt, and Vastral still alive.
+3. Agree to Raymond's request to go on a journey to defeat Balmer alone; he will do so after a few turns. Make sure no one else kills Balmer before this happens.
+4. Play until turn 40, leaving Klimt and Vastral alive.
+5. Agree to Raymond's request to fight as a Hero.
+6. Assign Raymond to a squadron and send him into battle against Klimt; in this battle, you need to get Raymond's squadron killed directly by Klimt himself. If you did it correctly, you'll get a special message from Raymond at the start of the next turn after the battle.
+   As a tip here: Raymond is absurdly overpowered, so the easiest thing here is to assign him to a Holy Warrior squadron and just send him alone into battle, regardless of how many troops Klimt has with him. Klimt's demons are basically incapable of dealing anything beyond chip damage to Raymond, so use Raymond's magic to keep him healed and the enemy will basically just run up to him and get killed by his counterattacks. Once everyone except Klimt is dead, take him on in single combat and lose on purpose.
+7. Defeat all remaining Masters except for Vastral.
+8. Have Sieg, and only Sieg, invade the area where Vastral is.

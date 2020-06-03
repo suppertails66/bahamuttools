@@ -1,0 +1,1032 @@
+cmd,addr,end,rendercmd,jp,en
+,,,"//================================================="
+,,,"// File save/load"
+,,,"//================================================="
+
+String,0x2B70,0x2B75,default,"データ1",
+String,0x2B75,0x2B7A,default,"データ2",
+String,0x2B7A,0x2B7F,default,"データ3",
+String,0x2B7F,0x2B84,default,"データ4",
+String,0x2B84,0x2B8C,default,"NO DATA",
+String,0x2B8C,0x2B90,default,"ターン",
+,,,"//================================================="
+,,,"// ? "LP/SP""
+,,,"//================================================="
+
+String,0x2B22,0x2B25,default,"LP",
+String,0x2B25,0x2B28,default,"SP",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+String,0x2AC4,0x2AD2,default,"ぶたい    HP/MPR",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+String,0x37D0,0x37DA,default,"レイモンドはいう。",
+String,0x37DA,0x37E3,default,"ディーンはいう。",
+String,0x37E3,0x37E9,default,"ぜんぶたい",
+String,0x37E9,0x37F3,default,"だれもおらんぞ!。",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+String,0x4594,0x4598,default,"HP:",
+String,0x4598,0x459C,default,"MP:",
+String,0x459C,0x45A0,default,"LV:",
+,,,"//================================================="
+,,,"// invasion"
+,,,"//================================================="
+
+String,0x1325D,0x13260,default,"S:",
+String,0x13260,0x13263,default,"M:",
+,,,"//================================================="
+,,,"// Tactical battle test menu"
+,,,"//================================================="
+
+String,0x769B,0x76B7,default,"TACTICAL SCREEN MODE SELECT",
+String,0x76B7,0x76C1,default,"MODE    :",
+String,0x76C1,0x76CB,default,"BATTLE  :",
+String,0x76CB,0x76D5,default,"SUMMONER:",
+String,0x76D5,0x76E4,default,"ATTACKER AREA:",
+String,0x76E4,0x76EA,default,"SIDE:",
+String,0x76EA,0x76F9,default,"DEFENDER AREA:",
+String,0x76F9,0x76FF,default,"SIDE:",
+String,0x76FF,0x7706,default,"SIMPLE",
+String,0x7706,0x770A,default,"HEX",
+String,0x770A,0x770D,default,"NO",
+String,0x770D,0x7716,default,"REALTIME",
+String,0x7716,0x771B,default,"AUTO",
+String,0x771B,0x7723,default,"CONTROL",
+String,0x7723,0x7727,default,"COM",
+String,0x7727,0x772B,default,"PLY",
+,,,"//================================================="
+,,,"// Battle test menu"
+,,,"//================================================="
+
+String,0x7ACE,0x7AE8,default,"BATTLE SCREEN MODE SELECT",
+String,0x7AE8,0x7AF1,default,"ATTACKER",
+String,0x7AF1,0x7AFA,default,"DEFENDER",
+String,0x7AFA,0x7AFD,default,"T:",
+String,0x7AFD,0x7B00,default,"T:",
+String,0x7B00,0x7B04,default,"HP:",
+String,0x7B04,0x7B08,default,"HP:",
+String,0x7B08,0x7B0C,default,"MP:",
+String,0x7B0C,0x7B10,default,"MP:",
+String,0x7B10,0x7B13,default,"C:",
+String,0x7B13,0x7B16,default,"C:",
+String,0x7B16,0x7B19,default,"F:",
+String,0x7B19,0x7B21,default,"へいげん   ",
+String,0x7B21,0x7B29,default,"あれち    ",
+String,0x7B29,0x7B31,default,"はやし    ",
+String,0x7B31,0x7B39,default,"しんりん   ",
+String,0x7B39,0x7B41,default,"みつりん   ",
+String,0x7B41,0x7B49,default,"さばく    ",
+String,0x7B49,0x7B51,default,"しつげん   ",
+String,0x7B51,0x7B59,default,"ぬまち    ",
+String,0x7B59,0x7B61,default,"ジャングル  ",
+String,0x7B61,0x7B69,default,"かざんこう  ",
+String,0x7B69,0x7B71,default,"しがいち   ",
+String,0x7B71,0x7B79,default,"オアシス   ",
+String,0x7B79,0x7B81,default,"うみ     ",
+String,0x7B81,0x7B89,default,"こおったうみ ",
+String,0x7B89,0x7B90,default,"PLAYER",
+String,0x7B90,0x7B95,default,"COM*",
+,,,"//================================================="
+,,,"// Attacker won battle"
+,,,"//================================================="
+
+String,0x7B96,0x7BA3,default,"ATTACKERのかち!",
+,,,"//================================================="
+,,,"// Defender won battle"
+,,,"//================================================="
+
+String,0x7BA4,0x7BB1,default,"DEFENDERのかち!",
+,,,"//================================================="
+,,,"// Tie battle"
+,,,"//================================================="
+
+String,0x7BB2,0x7BBE,default,"おっと、ひきわけだぜ!",
+,,,"//================================================="
+,,,"// Credits"
+,,,"//================================================="
+
+String,0xC0CB,0xC0D7,default,"GAME DESIGN",
+String,0xC0D7,0xC0D8,default,"",
+String,0xC0D8,0xC0E0,default,"PROGRAM",
+String,0xC0E0,0xC0E1,default,"",
+String,0xC0E1,0xC0F0,default,"GRAPHIC DESIGN",
+String,0xC0F1,0xC0F7,default,"SOUND",
+String,0xC0F7,0xC0F8,default,"",
+String,0xC0F8,0xC107,default,"PROJECT MANAGE",
+String,0xC107,0xC108,default,"",
+String,0xC108,0xC115,default,"HELP PROGRAM",
+String,0xC115,0xC116,default,"",
+String,0xC116,0xC11D,default,"GUNSHI",
+String,0xC11E,0xC12A,default,"DATA ADJUST",
+String,0xC12B,0xC132,default,"MANUAL",
+String,0xC133,0xC13B,default,"PACKAGE",
+String,0xC13B,0xC13C,default,"",
+String,0xC13C,0xC14B,default,"SPECIAL THANKS",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+String,0xD8AA,0xD8AE,default,"ターン",
+String,0xD8AE,0xD8B1,default,"/M",
+,,,"//================================================="
+,,,"// raymond messages"
+,,,"//================================================="
+
+String,0xEFCF,0xEFF1,default,"よろしいでしょうか? (いいならAかCボタン、だめならBボタン)。",
+String,0xEFF1,0xF00B,default,"ふたたび、ぐんしとして、はたらきたいとおもいます。",
+String,0xF00B,0xF025,default,"バルマーをたおしに、ひとりでたびにでたいのですが、",
+String,0xF025,0xF039,default,"みごとバルマーをたおしてまいりました。",
+String,0xF039,0xF056,default,"ざんねんなことに、バルマーはすでに、たおされていました。",
+String,0xF056,0xF074,default,"わたしも、えいゆうとして、ぜんせんでたたかいたいのですが、",
+String,0xF074,0xF0F5,default,"わたしはもうだめだ、ジークよ。よいか、バハムートをめざめさせてはならん。おおいなるじゃきは、やつのハラをみたしてしまう。さいあくのときは、やつのしんぞうを、このけんベサルスネーガでつらぬけ。さいごに、わしのいのちをおまえにたくす。ジーク=フォーリア・・・・",
+,,,"//================================================="
+,,,"// ?"
+,,,"//================================================="
+
+String,0x103EA,0x103EE,default,"ターン",
+String,0x103EE,0x103F3,default,"MAX=",
+String,0x103F3,0x103F6,default,"[LP])",
+,,,"//================================================="
+,,,"// Title screen"
+,,,"//================================================="
+
+String,0xB2F1,0xB2FA,default,"NEW GAME",
+String,0xB2FA,0xB303,default,"CONTINUE",
+String,0xB303,0xB30B,default,"OPTIONS",
+String,0xB30C,0xB317,default,"CONTROLLER",
+String,0xB317,0xB31F,default,"TACTICS",
+String,0xB31F,0xB326,default,"BATTLE",
+String,0xB326,0xB32C,default,"MUSIC",
+String,0xB32C,0xB332,default,"SOUND",
+String,0xB333,0xB343,default,"1 CONTROL PAD  ",
+String,0xB343,0xB352,default,"2 CONTROL PADS",
+String,0xB353,0xB35A,default,"BGM00:",
+String,0xB35B,0xB364,default,"SOUND 00",
+,,,"//================================================="
+,,,"// Sound test track names"
+,,,"//================================================="
+
+String,0xB396,0xB3AC,default,"RESURRECTION OF CHAOS",
+String,0xB3AC,0xB3B4,default,"BAHAMUT",
+String,0xB3B4,0xB3BC,default,"MUSAFIR",
+String,0xB3BC,0xB3C6,default,"SPECTATER",
+String,0xB3C6,0xB3D3,default,"HOLY DESTINY",
+String,0xB3D3,0xB3E5,default,"KING OF BERSERKER",
+String,0xB3E5,0xB3EF,default,"SORCERESS",
+String,0xB3EF,0xB3F8,default,"ELF LAND",
+String,0xB3F8,0xB406,default,"DUM DUM DUM !",
+String,0xB406,0xB418,default,"AN ANCIENT DRAGON",
+String,0xB418,0xB428,default,"DEATH MESSENGER",
+String,0xB428,0xB433,default,"FROM HADES",
+String,0xB433,0xB43D,default,"INTRUDERS",
+String,0xB43D,0xB446,default,"DIE HARD",
+String,0xB446,0xB452,default,"BAD FIGHTER",
+String,0xB452,0xB45B,default,"MUSTAPHA",
+String,0xB45B,0xB467,default,"ELVES MARCH",
+String,0xB467,0xB475,default,"BRUTAL GIANTS",
+String,0xB475,0xB487,default,"MURDER IN THE SKY",
+String,0xB487,0xB495,default,"CRACK OF DOOM",
+String,0xB495,0xB49E,default,"DARKNESS",
+String,0xB49E,0xB4A9,default,"BEAT'EM UP",
+String,0xB4A9,0xB4B3,default,"GOOD DAYS",
+String,0xB4B3,0xB4C7,default,"AN OMINOUS DAY(666)",
+String,0xB4C7,0xB4CE,default,"REGRET",
+,,,"//================================================="
+,,,"// Header for hero info screen"
+,,,"//================================================="
+
+String,0x14A6E,0x14A86,default,"なまえ    [LP]  エリア  パワー  まほう",
+String,0x14A86,0x14A89,default,"なし",
+,,,"//================================================="
+,,,"// Spell types"
+,,,"//================================================="
+
+String,0x1E9D8,0x1E9E1,default,"ALL HEAL",
+String,0x1E9E0,0x1E9E9,default,"MAGIC UP",
+String,0x1E9E8,0x1E9F1,default,"REGENERT",
+String,0x1E9F0,0x1E9F9,default,"RES FIRE",
+String,0x1E9F8,0x1EA01,default,"FLY     ",
+String,0x1EA00,0x1EA09,default,"HEAL    ",
+String,0x1EA08,0x1EA11,default,"BLESS   ",
+String,0x1EA10,0x1EA19,default,"SKILL UP",
+String,0x1EA18,0x1EA21,default,"ARMOR UP",
+String,0x1EA20,0x1EA29,default,"POWER UP",
+,,,"//================================================="
+,,,"// Conjoining text for requests from other rulers."
+,,,"// Format: "[name] ga [##] turn no [request text]""
+,,,"//================================================="
+
+String,0x1082E,0x10830,default,"が",
+String,0x10830,0x10835,default,"ターンの",
+,,,"//================================================="
+,,,"// Ruler names"
+,,,"//================================================="
+
+String,0x27000,0x27004,default,"ジーク",
+String,0x2700A,0x27010,default,"バストラル",
+String,0x27014,0x2701A,default,"シェルファ",
+String,0x2701E,0x27024,default,"エル=モア",
+String,0x27028,0x2702D,default,"ガイラム",
+String,0x27032,0x27039,default,"ベルフレイム",
+String,0x2703C,0x27041,default,"クリムト",
+String,0x27046,0x2704B,default,"バルマー",
+String,0x27050,0x27057,default,"エル=ウィン",
+,,,"//================================================="
+,,,"// Names?"
+,,,"//================================================="
+
+String,0x3E060,0x3E067,default,"レンヘーゲン",
+String,0x3E070,0x3E076,default,"バレンチン",
+String,0x3E080,0x3E087,default,"ファラウィン",
+String,0x3E090,0x3E097,default,"シュタイナー",
+String,0x3E0A0,0x3E0A6,default,"アリーシャ",
+String,0x3E0B0,0x3E0B5,default,"ガジール",
+String,0x3E0C0,0x3E0C7,default,"インディーナ",
+String,0x3E0D0,0x3E0D6,default,"イスタリス",
+String,0x3E0E0,0x3E0E6,default,"ライザール",
+String,0x3E0F0,0x3E0F5,default,"カターユ",
+String,0x3E100,0x3E105,default,"イクスド",
+String,0x3E110,0x3E116,default,"アルディス",
+String,0x3E120,0x3E125,default,"タケチヨ",
+String,0x3E130,0x3E135,default,"ヤマザー",
+String,0x3E140,0x3E146,default,"ボボタック",
+String,0x3E150,0x3E156,default,"ファンブル",
+String,0x3E160,0x3E166,default,"アラムート",
+String,0x3E170,0x3E177,default,"エルテメイト",
+String,0x3E180,0x3E185,default,"モヘップ",
+String,0x3E190,0x3E194,default,"レント",
+String,0x3E1A0,0x3E1A5,default,"ニードル",
+String,0x3E1B0,0x3E1B6,default,"ハナリリム",
+String,0x3E1C0,0x3E1C4,default,"チスケ",
+String,0x3E1D0,0x3E1D5,default,"イギナベ",
+String,0x3E1E0,0x3E1E7,default,"ムーミンクラ",
+String,0x3E1F0,0x3E1F5,default,"ダイアナ",
+String,0x3E200,0x3E206,default,"イースリー",
+String,0x3E210,0x3E217,default,"ハインリッヒ",
+String,0x3E220,0x3E225,default,"リューク",
+String,0x3E230,0x3E236,default,"キイチロー",
+String,0x3E240,0x3E243,default,"ボン",
+String,0x3E250,0x3E255,default,"サブチン",
+String,0x3E260,0x3E264,default,"ヒルト",
+String,0x3E270,0x3E274,default,"ケンチ",
+String,0x3E280,0x3E285,default,"パパゾウ",
+String,0x3E290,0x3E295,default,"ハムスタ",
+String,0x3E2A0,0x3E2A6,default,"フェアリス",
+String,0x3E2B0,0x3E2B6,default,"ニステール",
+String,0x3E2C0,0x3E2C6,default,"ケイキダー",
+String,0x3E2D0,0x3E2D7,default,"ナン=ヤマト",
+String,0x3E2E0,0x3E2E7,default,"ブライアーム",
+String,0x3E2F0,0x3E2F5,default,"ヨネサン",
+String,0x3E300,0x3E306,default,"リュンター",
+String,0x3E310,0x3E317,default,"オギアッシー",
+String,0x3E320,0x3E327,default,"サー=サキン",
+String,0x3E330,0x3E337,default,"タテカンタツ",
+String,0x3E340,0x3E347,default,"サージ・ブー",
+String,0x3E350,0x3E356,default,"アルジュナ",
+String,0x3E360,0x3E366,default,"ラルフォン",
+String,0x3E370,0x3E376,default,"フュージー",
+String,0x3E380,0x3E387,default,"エル=フォス",
+String,0x3E390,0x3E394,default,"ヨーマ",
+String,0x3E3A0,0x3E3A6,default,"フェザーン",
+String,0x3E3B0,0x3E3B5,default,"イェード",
+String,0x3E3C0,0x3E3C7,default,"ナイアラート",
+String,0x3E3D0,0x3E3D5,default,"アレック",
+String,0x3E3E0,0x3E3E5,default,"ライカス",
+String,0x3E3F0,0x3E3F5,default,"アゾート",
+String,0x3E400,0x3E407,default,"ミーア=マス",
+String,0x3E410,0x3E416,default,"フラウォン",
+String,0x3E420,0x3E427,default,"キュベリオス",
+String,0x3E430,0x3E434,default,"ランツ",
+String,0x3E440,0x3E446,default,"ギルバード",
+String,0x3E450,0x3E456,default,"カイザード",
+String,0x3E460,0x3E466,default,"レイモンド",
+,,,"//================================================="
+,,,"// Battle: spell list"
+,,,"//================================================="
+
+String,0x222FB,0x22307,default," ふつうのこうげき  ",
+String,0x22307,0x22313,default," パワーアップ---1",
+String,0x22313,0x2231F,default," よろいをまとう--1",
+String,0x2231F,0x2232B,default," かいふくする---1",
+String,0x2232B,0x22337,default," バリアをはる/0-1",
+String,0x22337,0x22343,default," スピードアップ--1",
+String,0x22343,0x2234F,default," かえんぼうぎょ--1",
+String,0x2234F,0x2235B,default," むてきになる---1",
+String,0x2235C,0x22368,default,"*まほうのこうげき-1",
+,,,"//================================================="
+,,,"// Unit names"
+,,,"//================================================="
+
+String,0x2D0B6,0x2D0BC,default,"ちゅうりつ",
+String,0x2D0BC,0x2D0C0,default,"ジーク",
+String,0x2D0C0,0x2D0C6,default,"バストラル",
+String,0x2D0C6,0x2D0CC,default,"シェルファ",
+String,0x2D0CC,0x2D0D2,default,"エル=モア",
+String,0x2D0D2,0x2D0D7,default,"ガイラム",
+String,0x2D0D7,0x2D0DE,default,"ベルフレイム",
+String,0x2D0DE,0x2D0E3,default,"クリムト",
+String,0x2D0E3,0x2D0E8,default,"バルマー",
+String,0x2D0E8,0x2D0EF,default,"エル=ウィン",
+String,0x2D0EF,0x2D0F3,default,"せんし",
+String,0x2D0F3,0x2D0F6,default,"きし",
+String,0x2D0F6,0x2D0FB,default,"くろきし",
+String,0x2D0FB,0x2D101,default,"せいせんし",
+String,0x2D101,0x2D108,default,"バーバリアン",
+String,0x2D108,0x2D10F,default,"バーサーカー",
+String,0x2D10F,0x2D116,default,"まほうつかい",
+String,0x2D116,0x2D11B,default,"まどうし",
+String,0x2D11B,0x2D121,default,"まじゅつし",
+String,0x2D121,0x2D125,default,"エルフ",
+String,0x2D125,0x2D12C,default,"エルフロード",
+String,0x2D12C,0x2D131,default,"ゴブリン",
+String,0x2D131,0x2D138,default,"ミノタウルス",
+String,0x2D138,0x2D13F,default,"ジャイアント",
+String,0x2D13F,0x2D146,default,"リザードマン",
+String,0x2D146,0x2D14C,default,"バシリスク",
+String,0x2D14C,0x2D151,default,"ドラゴン",
+String,0x2D151,0x2D156,default,"こあくま",
+String,0x2D156,0x2D15C,default,"おおあくま",
+String,0x2D15C,0x2D163,default,"デビルロード",
+String,0x2D163,0x2D16A,default,"ケンタウルス",
+String,0x2D16A,0x2D170,default,"ユニコーン",
+String,0x2D170,0x2D177,default,"マンティコア",
+String,0x2D177,0x2D17D,default,"サーペント",
+String,0x2D17D,0x2D184,default,"スフインクス",
+String,0x2D184,0x2D18B,default,"フェニックス",
+String,0x2D18B,0x2D191,default,"ガーゴイル",
+String,0x2D191,0x2D196,default,"ゴーレム",
+String,0x2D196,0x2D19A,default,"タロス",
+String,0x2D19A,0x2D19E,default,"オーガ",
+String,0x2D19E,0x2D1A3,default,"トロウル",
+String,0x2D1A3,0x2D1A9,default,"ワイバーン",
+String,0x2D1A9,0x2D1AE,default,"ヒュドラ",
+String,0x2D1AE,0x2D1B4,default,"グリフォン",
+String,0x2D1B4,0x2D1BB,default,"サイクロプス",
+String,0x2D1BB,0x2D1C2,default,"ヘルハウンド",
+String,0x2D1C2,0x2D1C9,default,"サラマンダー",
+String,0x2D1C9,0x2D1CE,default,"キマイラ",
+String,0x2D1CE,0x2D1D4,default,"スケルトン",
+String,0x2D1D4,0x2D1D9,default,"ゾンビー",
+String,0x2D1D9,0x2D1DD,default,"マミー",
+String,0x2D1DD,0x2D1E3,default,"バンパイア",
+String,0x2D1E3,0x2D1E8,default,"リッチー",
+String,0x2D1E8,0x2D1EC,default,"ロック",
+String,0x2D1EC,0x2D1F3,default,"ガーディアン",
+String,0x2D1F3,0x2D1FA,default,"だいちのせい",
+String,0x2D1FA,0x2D200,default,"みずのせい",
+String,0x2D200,0x2D207,default,"ほのおのせい",
+String,0x2D207,0x2D20D,default,"かぜのせい",
+,,,"//================================================="
+,,,"// short location names"
+,,,"//================================================="
+
+String,0x2CDB3,0x2CDB9,default,"ローランド",
+String,0x2CDC2,0x2CDC9,default,"ナースホルン",
+String,0x2CDD2,0x2CDD7,default,"バッハム",
+String,0x2CDE0,0x2CDE5,default,"レプラス",
+String,0x2CDF0,0x2CDF6,default,"ムルバース",
+String,0x2CE00,0x2CE06,default,"グライナス",
+String,0x2CE10,0x2CE17,default,"カルミスタN",
+String,0x2CE23,0x2CE29,default,"テスカイア",
+String,0x2CE34,0x2CE3B,default,"イジフミガト",
+String,0x2CE43,0x2CE47,default,"ガザN",
+String,0x2CE52,0x2CE58,default,"ドラグーン",
+String,0x2CE61,0x2CE68,default,"パランニール",
+String,0x2CE70,0x2CE76,default,"ザクハルト",
+String,0x2CE84,0x2CE8B,default,"カルミスタS",
+String,0x2CE96,0x2CE9A,default,"ガザS",
+String,0x2CEA4,0x2CEAB,default,"ウンバールN",
+String,0x2CEB4,0x2CEBB,default,"セレブラスN",
+String,0x2CEC4,0x2CECA,default,"モルガルド",
+String,0x2CED4,0x2CEDA,default,"クロエルン",
+String,0x2CEE5,0x2CEE9,default,"ウルハ",
+String,0x2CEF5,0x2CEFC,default,"ウンバールS",
+String,0x2CF06,0x2CF0D,default,"セレブラスS",
+String,0x2CF18,0x2CF1F,default,"グラファスW",
+String,0x2CF2A,0x2CF31,default,"グラファスE",
+String,0x2CF3D,0x2CF43,default,"ファミール",
+String,0x2CF4F,0x2CF54,default,"カツーオ",
+String,0x2CF5F,0x2CF65,default,"シヤバカナ",
+String,0x2CF6F,0x2CF76,default,"バッシュラー",
+String,0x2CF82,0x2CF87,default,"ニタラク",
+String,0x2CF93,0x2CF99,default,"トスカニア",
+String,0x2CFA5,0x2CFAB,default,"モルソルン",
+String,0x2CFB6,0x2CFBB,default,"ワーグズ",
+String,0x2CFC2,0x2CFC9,default,"シュミシュミ",
+String,0x2CFD1,0x2CFD7,default,"マステンス",
+String,0x2CFE2,0x2CFE7,default,"ジャグN",
+String,0x2CFF1,0x2CFF6,default,"ジャグS",
+String,0x2CFFF,0x2D005,default,"ギルフレイ",
+String,0x2D011,0x2D017,default,"シュワルベ",
+String,0x2D022,0x2D029,default,"ビスティッツ",
+String,0x2D031,0x2D037,default,"ロンバニオ",
+,,,"//================================================="
+,,,"// Advisor message intros?"
+,,,"//================================================="
+
+String,0x37D0,0x37DA,default,"レイモンドはいう。",
+String,0x37DA,0x37E3,default,"ディーンはいう。",
+String,0x37E3,0x37E9,default,"ぜんぶたい",
+String,0x37E9,0x37F3,default,"だれもおらんぞ!。",
+,,,"//================================================="
+,,,"// Commentary messages from advisors?"
+,,,"//================================================="
+
+String,0x12A23,0x12A33,default,"かばうらぎってはなりませんぞ!",
+String,0x12A33,0x12A3F,default,"うらぎりもやもえまい。",
+String,0x12A3F,0x12A4E,default,"てきがいないから、らくだな。",
+String,0x12A4E,0x12A5A,default,"らくにかてるでしょう。",
+String,0x12A5A,0x12A65,default,"がんばってくだされ。",
+String,0x12A65,0x12A72,default,"なかなかてごわいですぞ。",
+String,0x12A72,0x12A7D,default,"やめたほうがいいぞ!",
+String,0x12A7D,0x12A8F,default,"ほう、このぶたいをしょぶんですか?",
+String,0x12A8F,0x12AA2,default,"やめい! しににいくようなものだ!!",
+String,0x12AA2,0x12AB8,default,"ばかもーん! ぜったいにいかせはせんぞ!!",
+String,0x12AB8,0x12AC2,default,"ぜひ、きしゅうを。",
+String,0x12AC2,0x12ACC,default,"ぜひ、ばくれつを。",
+String,0x12ACC,0x12AE1,default,"だが、なにか、おそろしいよかんが・・・。",
+,,,"//================================================="
+,,,"// more advice"
+,,,"//================================================="
+,,,"//"
+String,0x1680A,0x1681A,default,"とくにめだったエリアはないな。",
+String,0x1681A,0x16824,default,"だれもおらんぞ!。",
+String,0x16824,0x16834,default,"とくにひつようないとおもうが。",
+String,0x16834,0x16838,default,"あと、",
+String,0x16838,0x16840,default,"このエリアでは",
+String,0x16840,0x16846,default,"わたしなら",
+String,0x16846,0x1684E,default,"やすませよう。",
+String,0x1684E,0x1685C,default,"くんれんはさいごにしよう。",
+String,0x1685C,0x1686E,default,"くんれんはじどうになっていますぞ。",
+String,0x1686E,0x16878,default,"ここにはえいゆうが",
+String,0x16878,0x16880,default,"いませんぞ!。",
+String,0x16880,0x16888,default,"ひとりいるぞ。",
+String,0x16888,0x16890,default,"ふたりいるぞ。",
+String,0x16890,0x16898,default,"3にんいるぞ。",
+String,0x16898,0x168A4,default,"4にんいじょういるぞ。",
+String,0x168A4,0x168A7,default,"に、",
+String,0x168A7,0x168B1,default,"しゅうにんですな。",
+String,0x168B1,0x168B7,default,"はクビだ。",
+String,0x168B7,0x168C2,default,"えいゆうがいないぞ。",
+String,0x168C2,0x168CA,default,"がてごわいな。",
+String,0x168CA,0x168D1,default,"がてうすだ。",
+String,0x168D1,0x168DA,default,"がガラあきだぞ。",
+String,0x168DA,0x168E2,default,"すべてのエリア",
+String,0x168E2,0x168EF,default,"まわりにてきはいないぞ。",
+String,0x168EF,0x168FF,default,"となりにてきがいますが・・・・",
+String,0x168FF,0x1690B,default,"テレポートをつかって、",
+String,0x1690B,0x16915,default,"へむかいましょう。",
+String,0x16915,0x16924,default,"しんこうするエリアがない!。",
+String,0x16924,0x16934,default,"せめるよゆうがありませんぞ!。",
+String,0x16934,0x1693D,default,"へせめこもう!。",
+String,0x1693D,0x16945,default,"がやとえるな。",
+String,0x16945,0x1694E,default,"もうやとえない。",
+String,0x1694E,0x16957,default,"をやといますが。",
+String,0x16957,0x16960,default,"やといませんが。",
+String,0x16960,0x16968,default,"このちけいだと",
+String,0x16968,0x16971,default,"がよびだせます。",
+String,0x16971,0x1697B,default,"をよびだしたいな。",
+String,0x1697B,0x16982,default,"やらないが。",
+String,0x16982,0x1698D,default,"でしょうかんするが。",
+String,0x1698D,0x1699A,default,"にぶたいをはけんするが。",
+String,0x1699A,0x169A4,default,"にいどうさせるが。",
+String,0x169A4,0x169AB,default,"やらないで、",
+String,0x169AB,0x169C9,default,"さいこうどうをつかえば、すべてのぶたいがこうどうできます。",
+String,0x169C9,0x169E3,default,"せんりがんをつかえば、すべてのエリアがみれますぞ。",
+String,0x169E3,0x169F2,default,"にガーディアンをよびだそう。",
+String,0x169F2,0x16A01,default,"でぶたいをしょうかんしよう。",
+String,0x16A01,0x16A10,default,"こうげきまえにはきしゅうを。",
+String,0x16A10,0x16A26,default,"こうげきまえにばくれつこうげきをしかけよ。",
+String,0x16A26,0x16A2F,default,"にテレポートだ。",
+String,0x16A2F,0x16A39,default,"をこうかんしよう。",
+String,0x16A39,0x16A3C,default,"ここ",
+,,,"//================================================="
+,,,"// even more advice"
+,,,"//================================================="
+,,,"//"
+String,0xFCE2,0xFCED,default,"とくにありませんな。",
+String,0xFCED,0xFCF1,default,"まず、",
+String,0xFCF1,0xFCFB,default,"きょうりょくして、",
+String,0xFCFB,0xFD02,default,"をせめよう。",
+String,0xFD02,0xFD08,default,"とうぜん、",
+String,0xFD08,0xFD15,default,"のどうめいをわすれずに。",
+String,0xFD15,0xFD19,default,"また、",
+String,0xFD19,0xFD2B,default,"のどうめいきかんをのばしたほうが。",
+String,0xFD2B,0xFD2F,default,"あと、",
+String,0xFD2F,0xFD35,default,"きけんだ。",
+String,0xFD35,0xFD40,default,"におおあらしですな。",
+String,0xFD40,0xFD4A,default,"をじゅばくしよう。",
+String,0xFD4A,0xFD52,default,"をれいぞくだ。",
+String,0xFD52,0xFD5D,default,"にすいしょうだまを。",
+String,0xFD5D,0xFD6E,default,"かいふくしたほうがよろしいかと。",
+String,0xFD6E,0xFD7C,default,"のえいゆうをあんさつせよ。",
+String,0xFD7C,0xFD8A,default,"のえいゆうをりはんさせよ。",
+String,0xFD8A,0xFD99,default,"に、はんらんをしかけようぜ。",
+String,0xFD99,0xFDA7,default,"さくりゃくがありませんぞ。",
+String,0xFDA7,0xFDBD,default,"イベントフェイズがじっこうされてませんぞ。",
+String,0xFDBD,0xFDCC,default,"にぬすっとをおくりましょう。",
+String,0xFDCC,0xFDDC,default,"にようせいをしのびこませよう。",
+,,,"//================================================="
+,,,"// Dialogue for something (cutscene, ending?)."
+,,,"// Probably related to Jeek's scenario, since that"
+,,,"// one seems to involve Raymond."
+,,,"// see code at C298"
+,,,"//================================================="
+
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E48F,0x3E4B3,default," ジークとバストラルとの、はけんをかけた、さいごのたたかいがはじまる。",
+String,0x3E4B3,0x3E4D8,default," おおぜいのぐんたいのなか、たたかいはふたりのいっきうちできまろうとして",
+String,0x3E4D8,0x3E4DC,default,"いた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E4DE,0x3E500,default,"「どうやら、いきのこったのは、おれたちだけのようだな。わかぞうよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E501,0x3E526,default,"「きしどうのならわしに、きでんがれいをもってくれたことにかんしゃする。バ",
+String,0x3E526,0x3E52D,default,"ストラルよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E52E,0x3E553,default,"「なぁに、おれはこのでんせつのバトルアックス'ウィンドバーグ'をてにして",
+String,0x3E553,0x3E578,default,"から、いちども、いっきうちでまけたことがないんでな。このたたかいでも、お",
+String,0x3E578,0x3E57F,default,"なじことよ。",
+String,0x3E57F,0x3E59D,default," ディーンよ、おれのたたかいをみてるがよい。みんなもだ!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E59F,0x3E5A8,default,"「・・・・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E5AA,0x3E5B3,default,"「いざ、まいる」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E5B6,0x3E5DB,default," ふたりのたたかいはごぶとごぶであった。しかし、ときがたつにつれて、ジー",
+String,0x3E5DB,0x3E600,default,"クがゆうせいになってきた。バストラルはあせった。いままで、むてきをほこっ",
+String,0x3E600,0x3E619,default,"たバトルアックスがジークのけんにはきかないのだ。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E61B,0x3E636,default,"「ディーンよ。わがおとうとよ、おれをたすけてくれ!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E638,0x3E641,default,"「・・・・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E643,0x3E64D,default,"「ディーンよ!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E64E,0x3E673,default," ディーンはうごかない。しかし、しずかにまほうのスペルをとなえはじめた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E674,0x3E699,default,"「そうだ、ディーンよ。このこぞうをおまえのまりょくで、ほうむってしまえ!",
+String,0x3E699,0x3E6A2,default,"はっはっはっ!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E6A4,0x3E6C9,default,"「きさま、このいっきうちをけがそうというのか、バストラル。きたないぞ!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E6CA,0x3E6DA,default,"「こぞう、まだまだあおいのぉ。",
+String,0x3E6DA,0x3E6FF,default," たたかいとは、かったものがせいぎよ。ディーン、こいつにとどめをさせ!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E702,0x3E727,default," これをみて、ジークのぐんぜいは、いかりをあらわにし、みまもるのをやめ、",
+String,0x3E727,0x3E735,default,"そうこうげきをかいしした。",
+String,0x3E735,0x3E752,default," これにつづいて、バストラルのぐんぜいも、うごきだした。",
+String,0x3E752,0x3E76B,default," いかりが、にくしみが、きょうきがぞうふくした。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E76D,0x3E78E,default," ジークはこれをみて、レイモンドのさいごのことばをおもいだした。",
+String,0x3E78E,0x3E7B3,default," ・・・・バハムートをふっかつさせてはならん。おおいなるじゃきは、やつの",
+String,0x3E7B3,0x3E7C2,default,"ハラをみたしてしまう・・・・",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E7C3,0x3E7D5,default,"「いかん、あらそってはいかん!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E7D7,0x3E7E4,default,"「とき、すでにみちたり」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E7E6,0x3E80B,default," いちめん、ひかりかがやき、ここにたいようがおちてきたような、しょうげき",
+String,0x3E80B,0x3E830,default,"がひびいた。せんこうがもどると、おおぜいのぐんたいはしょうめつし、このへ",
+String,0x3E830,0x3E847,default,"いげんにはすでに3にんのすがたしかなかった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E849,0x3E86C,default,"「おれさまのぐんたいはどこにいったんだ? ディーンよ、なにをした!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E86E,0x3E877,default,"「・・・・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E878,0x3E887,default,"「ディーンよ、こたえろ!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E888,0x3E8A6,default,"「にいさん。いや、バストラルよ。おまえのやくめはおわった」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E8A7,0x3E8C3,default," そして、ディーンはふたたび、まほうをとなえはじめた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E8C4,0x3E8E8,default,"「ディーン、わがおとうとよ。こんどはおれをころすのか? あにのおれを」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E8E9,0x3E90A,default,"「いや、わたしがころさなくても、まもなく、おまえはしぬであろう」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E90B,0x3E920,default,"「しぬまえにおしえてやろう、バストラル。",
+String,0x3E920,0x3E945,default," ほんとうのバカなおとうとは、とっくのむかしにしんだよ。そう、このわたし",
+String,0x3E945,0x3E950,default,"がころしたんだがな」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E951,0x3E975,default," バストラルはいままでのきょうふをふりはらい、ディーンにとっしんした。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E976,0x3E983,default,"「おとうとのかたき!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E985,0x3E98F,default,"「うおぉぉぉー!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E993,0x3E9AB,default," バストラルのすがたが、とつぜん、きえうせた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E9AC,0x3E9C5,default,"「ようやく、バハムートがめざめはじめたか・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E9C7,0x3E9E4,default," このじょうきょうをジークはただ、みまもるしかなかった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3E9E6,0x3EA0B,default,"「バーサーカーとは、よくいったものだ。バストラルもしょせんは、きのあらい",
+String,0x3EA0B,0x3EA20,default,"ただのにんげんにすぎん。なぁ、ジークよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EA22,0x3EA47,default," ジークはこんわくした。じぶんのたちばをみうしなっていた。じぶんのいまま",
+String,0x3EA47,0x3EA66,default,"でのたたかいとはなんなのか? ふあんだけがたかまっていった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EA68,0x3EA8D,default,"「いま、おまえはじぶんのそんざいについて、じもんしていることだろう。ジー",
+String,0x3EA8D,0x3EAA2,default,"クよ、レイモンドがほれこんだにんげんよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EAA4,0x3EAC9,default,"「バハムートのめざめが、そんなにうれしいか? レイモンドさえ、けいこくし",
+String,0x3EAC9,0x3EACF,default,"たことを。",
+String,0x3EACF,0x3EAED,default," きさまはいったい、なにものだ! バハムートのめざめとは?",
+String,0x3EAED,0x3EAFB,default," こたえろ、ディーン!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EAFC,0x3EB21,default," ジークはディーンにどなりつけ、レイモンドよりあずかったけん'ベサルスネ",
+String,0x3EB21,0x3EB32,default,"ーガ'を、かれにむけてかまえた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EB34,0x3EB59,default,"「レイモンドがほれこんだわりには、かんじょうてきだな。ジークよ、わたしは",
+String,0x3EB59,0x3EB7E,default,"おまえらとちがい、にんげんでも、あくまでもない。かみだ。ほんとうはディー",
+String,0x3EB7E,0x3EBA3,default,"ンというなまえではなく、ちゃんとしたなまえがある。もっとも、おまえになの",
+String,0x3EBA3,0x3EBAD,default,"るほどでもないが」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EBAE,0x3EBD3,default," かみ。このせかいには、かみがあらわれるとき、このよがおわるというでんせ",
+String,0x3EBD3,0x3EBF3,default,"つがある。しかも、かみには、いかなるこうげきもきかないことも。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EBF4,0x3EC19,default,"「かつて、さいこうのかみは、せかいのおわりに、きよきこころのにんげんたち",
+String,0x3EC19,0x3EC3E,default,"のたべものをかくほするため、バハムートをそうぞうした。ただ、このいきもの",
+String,0x3EC3E,0x3EC63,default,"は、あまりにもおおきすぎ、われらのせかいにおいておくことができない。そこ",
+String,0x3EC63,0x3EC88,default,"で、われらのせかいのおわりのひまで、このせかいにねむらせておくひつようが",
+String,0x3EC88,0x3EC8D,default,"あった」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EC8E,0x3ECB3,default,"「しかし、ねむっているとはいえ、やつはたくさんのものをたべる。うえすぎる",
+String,0x3ECB3,0x3ECD8,default,"と、しんでしまう。また、あたえすぎると、あばれだし、かみがみでさえ、てを",
+String,0x3ECD8,0x3ECFD,default,"やくしまつだ。そこで、かみはやつのせなかに、ありとあらゆるいきものをそう",
+String,0x3ECFD,0x3ED10,default,"ぞうした。にんげんを、モンスターを」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3ED11,0x3ED37,default,"「やつのたべものはオーラだ。しかも、いきおいのあるオーラをこのむ。だから、",
+String,0x3ED37,0x3ED5C,default,"せんそうなどはやつのハラをみたす、かっこうのばしょとなる。しかし、せんそ",
+String,0x3ED5C,0x3ED81,default,"うばかりさせてしまうと、やつがつよくなってしまう。あんのじょう、やつはじ",
+String,0x3ED81,0x3EDA6,default,"ぶんのちからで、あくまをつくりだし、せんそうをけしかけようとした。クリム",
+String,0x3EDA6,0x3EDAF,default,"トがいいれいだ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EDB0,0x3EDD5,default,"「そこで、われわれはここにレイモンドをはけんし、やつをわれらのせかいのさ",
+String,0x3EDD5,0x3EDFA,default,"いごのひまで、おとなしくさせることにした。やがて、せかいのおわりがちかづ",
+String,0x3EDFA,0x3EE1F,default,"きつつあるころ、わたしはおうごんのドラゴンにまたがり、バハムートをわれら",
+String,0x3EE1F,0x3EE3A,default,"のせかいへみちびくよう、レイモンドにしらせにいった」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EE3B,0x3EE60,default,"「ところがだ、おどろいたことにレイモンドは、ここでやつをうえさせようとし",
+String,0x3EE60,0x3EE85,default,"ていた。へいわすぎていたのである。かれのわけをきいて、さらにおどろいた。",
+String,0x3EE85,0x3EEAA,default,"かれは、ここのにんげんとしたしむうちに、ここのにんげんたちこそが、きよき",
+String,0x3EEAA,0x3EECB,default,"こころをもつひとびとだといいはったのである。わたしはあきれたよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EECC,0x3EEF2,default,"「かれは、わたしとたたかってまでもバハムートをひきわたさないことをいった。",
+String,0x3EEF2,0x3EF17,default,"わたしのもくてきは、バハムートをうごかし、われらのせかいへみちびいて、し",
+String,0x3EF17,0x3EF3C,default,"ょくりょうにすることである。しかし、いまのじょうたいでは、やつはうごける",
+String,0x3EF3C,0x3EF61,default,"どころではなかった。そこでわたしは、かくちにじゃあくをふっかつさせ、せん",
+String,0x3EF61,0x3EF76,default,"そうをおこし、やつをうごかすことにした」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3EF77,0x3EF9C,default,"「わたしは、やみのじだいをまきおこし、にんげんをだらくさせ、きょうふと、",
+String,0x3EF9C,0x3EFC1,default,"さつりくをおこすことに、みごとにせいこうした。クリムトやベルフレイムをふ",
+String,0x3EFC1,0x3EFE6,default,"っかつさせ、さらには、レイモンドのしんゆうとなったバルマーをじゃあくなア",
+String,0x3EFE6,0x3F008,default,"ンデッドにもした。そして、みごとにバハムートがめざめはじめたのだ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F00A,0x3F01B,default," 「バハムートとはもしや・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F01D,0x3F042,default,"「ふっ、おまえもこのことばをしっていよう。・・えいごうのときのかなたにわ",
+String,0x3F042,0x3F067,default,"れはだいちとなり、ほとばしるなみだは、おおうなばらをかたちづくる・・と。",
+String,0x3F067,0x3F08C,default," そう、このたいりくこそ、バハムートじしんなのだ。おまえたちはやつのせの",
+String,0x3F08C,0x3F0A7,default,"うえで、れきしをかたちづくっていたにすぎないのだよ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F0A8,0x3F0CD,default,"「そして、バハムートがめざめたいま、おまえたちのれきしのまくは、とじよう",
+String,0x3F0CD,0x3F0F2,default,"としている。バストラルのように、どんどんきえていくのだ。はっはっはっ。し",
+String,0x3F0F2,0x3F111,default,"かし、レイモンドのこころをうけついだおまえをのぞいてだがな」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F113,0x3F11B,default,"「このおれが?",
+String,0x3F11B,0x3F140,default," このせかいをあいし、このせかいでちったレイモンドのおかげで、おれはいき",
+String,0x3F140,0x3F14D,default,"のびることができるのか」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F14F,0x3F174,default,"「そうよ、ジーク。それとも、レイモンドとでも、なのるか? かみによってえ",
+String,0x3F174,0x3F199,default,"らばれ、にんげんからかみになったものよ。われとともに、わがせかいのたみを",
+String,0x3F199,0x3F1A4,default,"すくおうではないか」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F1A6,0x3F1CB,default,"「ことわる! おれはここにのこり、バハムートをふたたび、ねむらせる。それ",
+String,0x3F1CB,0x3F1E4,default,"がレイモンドのいしであり、おれのいしでもある!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F1E5,0x3F20A,default," ジークはきっぱりいい、めには、かみにたいするいかりがこめられ、ベサルス",
+String,0x3F20A,0x3F220,default,"ネーガをディーンにむけて、かまえなおした。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F222,0x3F247,default,"「なるほど、ベサルスネーガをもっているのか。バハムートのしんぞうをうちく",
+String,0x3F247,0x3F26C,default,"だく、かみすらもきりさく、おそるべきかみがみのけん。ふつうのにんげんがも",
+String,0x3F26C,0x3F290,default,"てば、そのオーラをすいとるが、かみになったおまえには、かんけいないか。",
+String,0x3F290,0x3F2B1,default," しかし、このわたしをたおせるかな? おまえにはしんでもらう!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F2B5,0x3F2DA,default,"「かみがみのぶきをもったものに、かみのわざはつうようしない。さっきのひか",
+String,0x3F2DA,0x3F300,default,"りのわざで、おまえとバストラルがいきのこったのはそのためだ。めんどうだが、",
+String,0x3F300,0x3F319,default,"ちょくせつ、わたしがおまえのくびをはねてやろう」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F31B,0x3F340,default," フルそうびのディーンのまえに、ジークはくせんをしいられた。ジークはおい",
+String,0x3F340,0x3F358,default,"つめられ、ディーンはしょうりのえみをうかべた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F35A,0x3F37A,default,"「ふん、もとはにんげん。きっすいのかみにかとうなど、あまいな」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F37B,0x3F3A0,default," が、このとき、ディーンのはいごより、バストラルのバトルアックスをふりお",
+String,0x3F3A0,0x3F3AF,default,"ろすひとりのじんぶつがいた。",
+String,0x3F3AF,0x3F3C6,default," ジークはもとより、ディーンすらおどろいた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F3C7,0x3F3EA,default,"「きさま、なぜ、いきている。しんだはずではなかったのか? バルマー」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F3EC,0x3F411,default,"「レイモンドどのは、このひをよけんしておられた。そう、あの2000ねんま",
+String,0x3F411,0x3F436,default,"えのクリムトそうとうせんのときに。クリムトをほうむったわたしは、レイモン",
+String,0x3F436,0x3F45B,default,"ドどのに、すべてをうちあけられ、わがたましいをじゃあくからまもるため、そ",
+String,0x3F45B,0x3F480,default,"のけんにたくし、わたしをクリムトとあいうちになったことにみせかけてくれた",
+String,0x3F480,0x3F484,default,"のだ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F485,0x3F4AA,default,"「アンデッドにされたあと、レイモンドどのは、けんより、わがたましいをかい",
+String,0x3F4AA,0x3F4CF,default,"ほうし、こともあろうに、わたしをそせいさせるため、じぶんのちからのはんぶ",
+String,0x3F4CF,0x3F4F4,default,"んをつかいきった。そして、かんぜんにかいふくするまで、せいれいのきょうり",
+String,0x3F4F4,0x3F50C,default,"ょくをえて、だいちのおくで、ねむっていたのだ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F50D,0x3F532,default,"「レイモンドどのは、さいごにジークというわかものをたすけてくれ、かれはお",
+String,0x3F532,0x3F557,default,"まえのしそんだとおしえてくれた。せいれいのしらせで、かれがクリムトにたお",
+String,0x3F557,0x3F57C,default,"されたのをきいて、なみだがとまらなかった。わたしのせいで、ちからをはんぶ",
+String,0x3F57C,0x3F5A1,default,"んにしていなければ、らくにたおせたものを・・・ わたしのせいでしんだレイ",
+String,0x3F5A1,0x3F5B7,default,"モンドどののためにも、おまえをたおす!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F5B8,0x3F5D8,default,"「しょうしな。そんなおもちゃでわたしをたおせるとおおもいか?」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F5D9,0x3F5EF,default,"「そんなことは、ひゃくもしょうちのうえだ」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F5F0,0x3F615,default," バルマーはディーンにむかってとっしんし、つかみかかった。ディーンはすば",
+String,0x3F615,0x3F63A,default,"やくけんをかまえ、かれのむねをふかくつらぬいた。しかし、つかんだバルマー",
+String,0x3F63A,0x3F649,default,"はディーンをはなさなかった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F64A,0x3F66F,default,"「ジーク、いまだ。はやくディーンをたたききれ! わがいのちがつきるまえに",
+String,0x3F66F,0x3F674,default,"・・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F675,0x3F68A,default,"「はなせ! このやろう、はなさんか!!」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F68D,0x3F6B2,default," ジークはいきおいよくディーンにとっしんし、しんぞうをつらぬいた。ディー",
+String,0x3F6B2,0x3F6D0,default,"ンはせんけつをはくと、だんまつまをあげ、そのばでくずれた。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F6D2,0x3F6F7,default," すべてがおわった。ディーンはきえさり、あとには、しにかけたバルマーだけ",
+String,0x3F6F7,0x3F718,default,"がのこった。ジークはかいふくのまほうをとなえたが、きかなかった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F71A,0x3F73F,default,"「よくやってくれた。ほこりたかい、わがしそんよ。あとのことはたのんだぞ・",
+String,0x3F73F,0x3F743,default,"・・」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F744,0x3F769,default,"「わがせんぞよ。わたしはあなたのような、すばらしいえいゆうのちをうけつい",
+String,0x3F769,0x3F77B,default,"でいることを、ほこりにおもいます」",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F77D,0x3F7A3,default," バルマーはもういちど、まんぞくそうなえみをうかべると、しずかにめをとじ、",
+String,0x3F7A3,0x3F7C8,default,"きえていった。ジークのめからは、あついなみだが、とまることはなかった。ゆ",
+String,0x3F7C8,0x3F7E8,default,"っくりとたちあがったジークはそらをみあげると、あるきはじめた。",
+String,0x3F7E8,0x3F7FA,default," すべてにしゅうしふをうつために。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F7FE,0x3F823,default," ジークはバハムートのしんぞうのあるしんでんにたどりついた。めのまえに、",
+String,0x3F823,0x3F848,default,"せいかくなこどうをつづけるしんぞうが、あざやかにみえた。ジークはけんをか",
+String,0x3F848,0x3F86D,default,"まえ、これをつらぬくべく、つきすすんだ。ジークののうりには、いままでいき",
+String,0x3F86D,0x3F887,default,"てきたきおくが、そうまとうのようにながれていった。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F889,0x3F8A2,default," おさないころ、ちちバーフにだきあげられたころを",
+String,0x3F8A2,0x3F8C5,default," レイモンドにせいせんしになるため、きたえあげれたしょうねんじだいを",
+String,0x3F8C5,0x3F8E4,default," クロエルンのじょうかまちで、ミーサにはじめてしりあったひを",
+String,0x3F8E4,0x3F906,default," やみのじだいに、せいきしだんをひきい、じゃあくとたたかったひびを",
+String,0x3F906,0x3F92B,default," そして、あいするもの、しんらいするものをうしなっていくかなしみを・・・",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F92E,0x3F953,default," しかし、かれのまえにいっぴきのおうごんのドラゴンがたちはだかってきたの",
+String,0x3F953,0x3F958,default,"である。",
+,,,"//========="
+,,,"// section"
+,,,"//========="
+
+String,0x3F95A,0x3F96B,default," おうごんのドラゴンはかたった。",
+String,0x3F96B,0x3F990,default,"「わたしはディーンとともにこのちにきた。が、わたしのもくてきはちがう。わ",
+String,0x3F990,0x3F9B5,default,"たしは、さいこうのかみのみつめいをうけてきた。おまえにすべてをはなそう・",
+String,0x3F9B5,0x3F9B9,default,"・・」",

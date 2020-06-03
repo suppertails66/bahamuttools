@@ -1,0 +1,3626 @@
+				FRONT COVER
+				
+				
+	バハムート戦記
+	
+	キャラクターカタログ
+	
+	
+	Record of the Bahamut War
+	
+	Character Catalogue
+			
+			
+------------------------------------------------
+
+			PAGE 2
+			
+			
+「バハムート戦記」では、騎士や魔法使い、モンスターな
+ど、たくさんのキャラクターたちをあやつり、魔法や策
+略を駆使して、ゲームを進めます。
+この本は、それら登場キャラクターのデータと簡単な紹
+介、および、魔法や策略（イベント）の説明を掲載してい
+ます。また、巻末には付録として、キャラクターの能力
+値一覧表を載せました。バハムート制覇にあたっての手
+助けにしてください。
+
+
+
+	　登場マスター					3
+		　軍師						 7
+			部隊リスト				  8
+				部隊表データの見方	   8
+				　召集部隊				9
+				　召喚部隊				 16
+				　バルマーの召喚部隊	 24
+					英雄				 26
+					部隊召集表			 27
+					部隊召喚表			 29
+				　イベント				 31
+				　不特定なイベント		 31
+				　事件イベント			32
+				策略イベント		   33
+			　魔法リスト			  37
+		　戦闘画面の魔法			 43
+	　付録　～能力値一覧表～	   44
+	
+	
+In "Record of the Bahamut War" you will control a
+large variety of characters, such as knights,
+wizards, and monsters, as well as use magic spells
+and Schemes to your advantage.
+This book will introduce the various characters
+with their data, as well as explain the various
+spells and Schemes of the game.
+At the end of this book you will find a table
+summarizing the stats of all the characters.
+We hope this information will assist you in your
+mission to conquer the continent of Bahamut.
+
+
+
+	The Masters						3
+		Tacticians					 7
+			List of Squadrons		  8
+			    View of the Squadrons
+				Data Table			   8
+				  Mustered Squadrons	9
+				  Summoned Squadrons	 16
+				  Balmer's Summoned
+				  Squadrons				 24
+					Heroes				 26
+					Squadrons' Mustering
+					Chart				 27
+					Squadrons' Summoning
+					Chart				 29
+				  Events				 31
+				  Random Events			 31
+				  Accident Events		32
+				Scheme Events	   33
+			  Magic Spell List		  37
+		  Battle Screen Spells		 43
+	  Appendix: Stats Table		   44
+			
+			
+------------------------------------------------
+
+			PAGE 3
+			
+			
+登場マスター
+
+大陸制覇をめぐって争う８人のマスターの紹介です。
+
+
+◆データ表の見方◆
+
+(再)：再生能力あり
+
+
+		●		48/28		３/(地)(精)
+
+
+(1)	マスターの旗印		(2)	ＨＰ
+(3)	ＭＰ				(4)	魔法レベル
+(5)	使える魔法のタイプ
+	(地)：地の魔法	(水)：水の魔法	(火)：火の魔法
+	(風)：風の魔法	(精)：精神魔法	(黒)：暗黒魔法
+	
+	
+聖戦士ジーク＝フォーリア（善）―――――――地上部隊
+
+
+[sword]	72/36	４/(地)(火)(精)
+
+							バハムートの法と秩序を２
+							千年にわたって守ってきた
+							フォーリア家の若き王。闇
+							の時代以降父王バーフの
+							後を継ぎ、忠臣レイモンド
+							卿とともに王家復興と大
+							陸の平和を目指して立ち
+							上がった。幼少より剣士
+							の訓練を受けた彼は、す
+							でに聖戦士の称号を持ち、
+							剣の腕はレイモンド卿に
+							勝るとも劣らないという。
+							また槍の使い手でもある。
+							
+							
+The Masters
+
+Here we will introduce the 8 Masters vying for
+supremacy of the continent.
+
+
+◆View of the Information Table◆
+
+(Rg): Can regenerate
+
+
+		●		48/28		3/(Et)(Md)
+
+
+(1)	Master's Flag		(2)	HP
+(3)	MP					(4)	Magic Level
+(5)	Usable Magic Types
+	(Et): Earth Magic	(Wt): Water Magic	(Fr): Fire Magic
+	(Wn): Wind Magic	(Md): Mind Magic	(Dk): Dark Magic
+	
+	
+Holy Warrior Sieg Pholia (Lawful)		Ground Squadron
+
+
+[sword]	72/36	4/(Et)(Fr)(Md)
+
+							The young king of the Pholia
+							royal line, keepers of law
+							and order of Bahamut for the
+							last 2000 years.
+							Following in the footsteps of
+							his father, King Bakh, he
+							seeks to restore the royal
+							line and bring an end to the
+							Age of Darkness, restoring
+							peace to the continent.
+							He is assisted by his loyal
+							retainer, Sir Raymond.
+							Having trained in the art of
+							the sword from an early age,
+							he has already earned the
+							title of Holy Warrior. His
+							skills are comparable to
+							those of Sir Raymond himself.
+							He is also skilled in the
+							use of spears.
+			
+			
+------------------------------------------------
+
+			PAGE 4
+			
+			
+狂戦士バストラル＝バインドアウト（中立）―地上部隊
+
+
+[axe]	86/0
+
+							闇の時代の到来前、フォ
+							ーリア王家に対抗し、蛮
+							人たちの帝国が築かれた。
+							皇帝ボルマンは、その後
+							フォーリアの討伐軍によ
+							って倒されたが、落ちの
+							びた残党が密かに皇帝の
+							血を引く子供を連れ出し
+							た。それがバストラルで
+							ある。成人後、真実を知
+							った彼は、帝国再建を誓
+							い、闇の時代の混乱に乗
+							じて挙兵。ジークと反目
+							することになる。
+							
+							
+大魔術師シェルファ＝フレイア（悪）――――地上部隊
+
+
+[staff]	32/98	４/(地)(水)(火)
+				   (風)(黒)(精)
+				   
+							闇の時代とともに、流星
+							のように現れた混沌の女
+							魔術師。かつてフォーリ
+							ア王家に背いて弾圧され
+							た魔術士たちの末裔を率
+							い、大魔術士団を結成。
+							永遠の魔術王国をつくる
+							ため戦陣に立ったといわ
+							れるが、真相はわからな
+							い。彼女に関しては謎が
+							多く、その氏素性も不明。
+							彼女自身、悪魔の化身で
+							はという噂もある。
+							
+							
+Berserker Vastral Bindout (Neutral)		Ground Squadron
+
+
+[axe]	86/0
+
+							Before the beginning of
+							the Age of Darkness, there
+							was a Barbarian Empire which
+							rose up against the Pholian
+							royal line.
+							While Emperor Bormann had
+							been killed by the Pholian
+							army, a few survivors
+							managed to hide a baby in
+							a secure location: that
+							baby was Vastral, the only
+							descendant of the Emperor.
+							After coming of age, he
+							found out the truth of his
+							origins, and swore to
+							restore his Empire. Taking
+							advantage of the Age of
+							Darkness, he managed to
+							raise an army, and now
+							opposes Sieg directly.
+							
+							
+Great Sorceress Shelpha Freja (Chaotic)	Ground Squadron
+
+
+[staff]	32/98	4/(Et)(Wt)(Fr)
+				  (Wn)(Dk)(Md)
+				   
+							A sorceress of chaos, who
+							showed up out of nowhere
+							as soon as the Age of
+							Darkness began.
+							She is the leader of the
+							Sorcery Sect, descendants
+							of the sorcerers suppressed
+							by the Pholian royal line
+							in the past.
+							It is rumored that her goal
+							is to establish the Eternal
+							Sorcery Kingdom, but nobody
+							knows whether that is true.
+							Everything about Shelpha is
+							shrouded in mystery,
+							including her lineage.
+							Some say she might not be
+							human at all, but an avatar
+							of the Devil.
+			
+			
+------------------------------------------------
+
+			PAGE 5
+			
+			
+エル＝モア（善）エルフ族――――地上部隊
+
+
+[bow] 60/68		３/(地)(風)(精)
+
+							大陸の東の森に古くから
+							住むエルフ族の勇者。森
+							一番の弓の腕と魔法の力
+							を見込まれて、エルフ元
+							老院の勅命を受けた彼は、
+							闇の時代の邪悪と混沌に
+							終止符をうつため、軍勢
+							とともに森を出た。妹の
+							エル＝ウィンは、彼の心
+							の支えであり、他のエル
+							フたちは、エル＝モア兄
+							妹が必ず、世界を救って
+							くれると信じている。
+							
+							
+ガイラム＝グリンダム	巨人族―――(再)・地上部隊
+
+[helm]	96/０				
+							
+							巨人族のモットーは「世
+							界の中心は俺たちだ」で
+							ある。だが、欲のない彼
+							らは、自分たちの領域さ
+							え守られればそれで満足
+							する種族だった。しかし
+							巨人族の土地の資源に目
+							をつけたドワーフが、フ
+							ォーリア王家をだまして
+							彼らを地下に閉じこめさ
+							せてからは、ドワーフと
+							人間を憎悪する凶暴な集
+							団へと変化した。復活し
+							た彼らの怒りはもう誰に
+							も止められない。
+							
+							
+Ell Moir (Lawful) Elves			Ground Squadron
+
+
+[bow] 60/68		3/(Et)(Wn)(Md)
+
+							The hero of the elves
+							living in the easternmost
+							forests of the continent
+							since ancient times.
+							His skill with the bow
+							and magical talent are
+							second to none among the
+							elves. The Elven Council
+							tasked him with stopping
+							the evil and chaos of the
+							Age of Darkness; thus, he
+							set out of the forest
+							with his army, with his
+							beloved sister Ell Wynn
+							at his side. The elves
+							are confident that the
+							two siblings will be able
+							to save the world.
+							
+							
+Gailum Grindam	Giants 			(Rg)-Ground Squadron
+
+[helm]	96/0				
+							
+							The Giants always had a
+							motto: "We are the heart
+							of the world". Without any
+							sort of ambition, they
+							were content in defending
+							their own domain. However,
+							the Dwarves, who had their
+							eyes on the Giants' lands,
+							rich in resources,
+							deceived the Pholian royal
+							family, who proceeded to
+							seal the Giants deep
+							underground. This was the
+							trigger to an undying
+							hatred for the Dwarves
+							and the humans. Now, the
+							Giants have returned,
+							and no one can quell
+							their fury.
+										
+			
+------------------------------------------------
+
+			PAGE 6
+			
+			
+巨龍ベルフレイム
+ドラゴン族――(再)・飛行部隊	[dragon] 80/40 ３/(火)(風)
+
+かつて、大魔王クリムトと対立し、激しい戦いの末に命
+を落とした、ドラゴン族の女王。クリムトを呪い、復讐
+を誓って死んだ彼女の怨念は、闇の時代の暗黒の力に呼
+応して、再びその姿を天空に示すこととなった。
+
+
+
+
+大魔王クリムト　悪魔族―――(再)・飛行部隊
+
+
+[star]	78/48	４/(火)(黒)(精)
+
+							最も古くから大陸に存在
+							する悪魔族の王。強大な
+							暗黒の力を使って、一度
+							は大陸支配に成功したが、
+							フォーリア王家の英雄バ
+							ルマー卿によって、葬ら
+							れた。しかし、今、大陸
+							に暗黒の力が蘇るとクリ
+							ムトもまた、亡霊のよう
+							に地の底から復活し邪悪
+							な野心のもとに殺戮を開
+							始した。一説では、暗黒
+							の力とクリムトは同じ起
+							源を持つともいわれてい
+							るが定かではない。
+							
+							
+Great Dragon Velfraim
+Dragons		(Rg)-Flying Squadron	[dragon] 80/40 3/(Fr)(Wn)
+
+The Queen of the Dragons, who once lost her life at
+the end of a fierce battle against Devil King Klimt.
+With her dying breath, she cursed Klimt, swearing
+revenge; and now, called back by the dark powers of
+the Age of Darkness, the Great Dragon soars the
+skies once again.
+
+
+
+
+Devil King Klimt	Demons		(Rg)-Flying Squadron
+
+
+[star]	78/48	４/(Fr)(Dk)(Md)
+
+							The king of the demons, who
+							has roamed the continent
+							since time immemorial.
+							Thanks to his dark powers,
+							he was once able to
+							subjugate the entire
+							continent, until he was
+							defeated by Sir Balmer,
+							the hero of the Pholian
+							royal family. But now he,
+							too, has been resurrected
+							by the dark powers of the
+							Age of Darkness, and his
+							only goal seems to be
+							slaughtering every other
+							living creature.
+							Some theorize that the
+							mysterious dark power and
+							Klimt himself share the
+							same origin.
+			
+			
+------------------------------------------------
+
+			PAGE 7
+			
+			
+バルマー卿　アンデッド―――(再)・地上部隊
+
+
+[skull]	50/68	４/(黒)(精)
+
+							フォーリア王家の創始者バ
+							ルマー＝フォーリアはクリム
+							トと戦って絶命した後、王
+							家の城の地下で妖刀ベサ
+							ルスネーガとともに長い
+							眠りについていた。だが、
+							闇の時代、彼は暗黒の力
+							にあやつられ恐怖のアン
+							デッドと化して、自らの
+							王家を滅亡に追い込み、
+							王城を死者の群れで埋め
+							つくした。死者たちの目
+							的を知る者はいない。
+							
+							
+軍師…ジークとバストラルの軍師たち。
+
+
+				レイモンド卿
+				
+				バルマー卿が生きていたころからフ
+				ォーリア王家とかかわり、王家の繁
+				栄に貢献してきた。善なる白き力を
+				究めている彼は、永遠の命を得てい
+				るといわれるが、その白き力の正体
+				は知られていない。
+				
+				
+				ディーン＝レスティア
+				
+				バストラルの義弟ディーンは、闇の
+				時代到来と同時に、あたかも生まれ
+				変わったかのように頭角をあらわし
+				た。ある意味でバストラル以上の実
+				力を持つ彼だが、なぜか義兄の補佐
+				に徹している。
+				
+				
+Sir Balmer	Undeads		(Rg)-Ground Squadron
+
+
+[skull]	50/68	4/(Dk)(Md)
+
+							After giving his life to
+							defeat Klimt, Balmer Pholia,
+							the founder of the Pholian
+							royal family, was laid to
+							rest in the catacombs of the
+							royal castle, alongside the
+							magic sword Betharusnega.
+							However, the dark powers of
+							the Age of Darkness brought
+							him back... as the Undead.
+							Leading an army of living
+							dead, he is now set on
+							destroying the family he
+							once swore to protect.
+							With that said, nobody
+							knows his true intentions.
+							
+							
+Tacticians -- The advisors of Sieg and Vastral.
+
+
+				Sir Raymond
+				
+				A great hero who has been contributing
+				to the prosperity of the Pholian royal
+				family since the times of Sir Balmer. 
+				Apparently, his mastery of the white
+				powers of good give him eternal life,
+				but no one but him knows the truth
+				behind this power.
+				
+				
+				Dean Restia
+				
+				Vastral's step-brother, who seemingly
+				had a complete change of personality
+				at the very beginning of the Age of
+				Darkness. He is most likely superior
+				to Vastral in terms of talent, but
+				for some reason he has decided to
+				serve him as his advisor.
+			
+			
+------------------------------------------------
+
+			PAGE 8
+			
+			
+部隊リスト
+
+◆部隊表データの見方◆
+
+部隊の基本的なデータを表にまとめてあります。
+（例）大悪魔――飛行部隊
+
+
+			[star]		48/28	３/(黒)(精)
+			
+			(再)	剣
+			
+			
+(1)	雇えるマスター
+
+[sword]	：ジーク		[axe]	：バストラル	[staff]	：シェルファ
+
+ [bow]	：エル＝モア	[star]	：クリムト		[helm]	：ガイラム
+
+[dragon]：ベルフレイム	[skull]	：バルマー
+
+  (全)	：バルマーを除く全マスター
+  
+(2)	ＨＰ
+
+(3)	ＭＰ
+
+(4)	魔法レベル
+
+(5)	使える魔法のタイプ
+
+	(地)：地の魔法	(水)：水の魔法	(火)：火の魔法
+	
+	(風)：風の魔法	(精)：精神魔法	(黒)：暗黒魔法
+	
+(6)	(再)：再生能力あり
+
+(7)	主な攻撃方法
+
+
+List of Squadrons
+
+◆View of the Squadron Data Table◆
+
+First, let us explain how to read the Squadrons'
+basic data tables.
+
+(Example)	Archdemon		Flying Squadron
+
+
+			[star]		48/28	3/(Dk)(Md)
+			
+			(Rg)	Sword
+			
+			
+(1)	Employable Master
+
+[sword]	: Sieg			[axe]	: Vastral		[staff]	: Shelpha
+
+ [bow]	: Ell Moir		[star]	: Klimt			[helm]	: Gailum
+
+[dragon]: Velfraim		[skull]	: Balmer
+
+  (All)	: Every Master excluding Balmer
+  
+(2)	HP
+
+(3)	MP
+
+(4)	Magic Level
+
+(5)	Usable Magic Types
+
+	(Et): Earth Magic	(Wt): Water Magic	(Fr): Fire Magic
+
+	(Wn): Wind Magic	(Md): Mind Magic	(Dk): Dark Magic
+	
+(6)	(Rg): Can regenerate
+
+(7)	Main attack method
+			
+			
+------------------------------------------------
+
+			PAGE 9
+			
+
+	召集部隊（ＬＰで雇う）
+	
+
+戦士――地上部隊
+
+			[sword][staff]		32/０
+			
+				剣
+				
+			いわゆる一兵卒。修行中の身な
+			ので、失敗も多いし根性もでき
+			ていない。
+			
+			
+騎士――地上部隊
+
+[sword][staff]		48/０
+
+	槍
+	
+プライドが高く、それぞれ自分
+の主義にしたがって仕える主人
+を決めている。
+
+
+聖戦士
+――地上部隊		[sword]		60/20	３/(地)(精)
+
+						剣と槍
+						
+					フォーリア聖騎士団を構成する
+					ナイト。剣術も射撃も優秀で、
+					回復魔法が得意。１人いれば頼
+					りになるし２人以上いれば怖い
+					ものはない。
+					
+					
+	Mustered Squadrons (hired with LP)
+	
+
+Warrior		Ground Squadron
+
+			[sword][staff]		32/0
+			
+				Sword
+				
+			Foot soldiers, fresh out
+			of training. Very likely
+			to commit mistakes, and
+			not particularly brave.
+			
+			
+Knight		Ground Squadron
+
+[sword][staff]		48/0
+
+	Spear
+	
+Proud warrior who will only
+serve a Master aligned to their
+personal beliefs.
+
+
+Holy Warrior
+	Ground Squadron		[sword]		60/20	３/(Et)(Md)
+
+							Sword, Spear
+						
+						Members of the Pholian
+						Holy Knights. Expert fencers
+						and marksmen, they specialize
+						in healing spells.
+						With one at your side,
+						you'll feel safe; with two
+						at your side, you'll have
+						nothing to fear.
+			
+			
+------------------------------------------------
+
+			PAGE 10
+			
+			
+小悪魔――飛行部隊
+
+						[star]		32/12	２/(黒)(精)
+						
+						(再)	ツメと牙で攻撃
+						
+							狡猾で用心深く、弱いながらも
+							魔法を使え、しつこい攻撃をか
+							ける。
+							
+							
+大悪魔――飛行部隊
+
+[star]		48/28	３/(黒)(精)
+
+(再)	剣
+
+悪魔族の中でも残虐性が強い。
+この世に毒をふりまく破壊の大
+天使である。
+
+
+デビルロード――飛行部隊
+
+						[star]		64/44	３/(黒)(精)
+						
+						(再)	ムチでマヒ攻撃
+						
+							冷酷非道な悪魔貴族。強力な魔
+							法を確実に使って敵を死に追い
+							やるのが趣味。レベル４の暗黒魔
+							法を使えば、誰でも呼び出せる。
+							
+							
+Imp		Flying Squadron
+
+						[star]		32/12	2/(Dk)(Md)
+						
+						(Rg)	Claws, Fangs
+						
+							Sly and cunning. Though the
+							weakest among demons, they are
+							still capable of using magic
+							to attack relentlessly.
+														
+							
+Archdemon	Flying Squadron
+
+[star]		48/28	3/(Dk)(Md)
+
+(Rg)	Sword
+
+Some of the most savages of
+demons. Fallen angels,
+intent on spreading chaos
+and death upon the world.
+
+
+Devil Lord		Flying Squadron
+
+						[star]		64/44	３/(Dk)(Md)
+						
+						(Rg)	Paralyzing whip
+						
+							The cruelest demon aristocrats.
+							They enjoy tormenting their targets
+							to death with their powerful magic
+							spells. They can be summoned by
+							anyone who has access to Level 4
+							Dark Spells.
+			
+			
+------------------------------------------------
+
+			PAGE 11
+			
+			
+魔法使い――地上部隊
+
+					[sword][staff][axe]	26/20	２/(水)(火)(精)
+					
+									杖
+									
+								魔法修行の入門者クラス。した
+								がって、強力な魔法は使えない。
+								体力にも不安がある。要修行。
+						
+						
+魔道士――地上部隊
+
+[sword][staff][axe]	28/36	３/(水)(火)(精)
+
+	杖
+	
+魔法の腕はよく、機敏に立ち回
+るが、体力がないのでムリはさ
+せられない。
+
+
+魔術士――地上部隊
+
+							[staff]		32/68	４/(水)(火)(精)
+							
+									杖
+
+								非常に強力な魔法を自由に使い
+								こなす。直接雇えるのはシェル
+								ファだけだが、魔道士が成長す
+								ればジークやバストラルでも持
+								てる。
+								
+								
+Magician	Ground Squadron
+
+					[sword][staff][axe]	26/20	2/(Wt)(Fr)(Md)
+					
+									Staff
+									
+								Inexperienced magicians in training.
+								They cannot cast any powerful spells,
+								and are weak of constitution.
+								They need more training.
+						
+						
+Sorcerer	Ground Squadron
+
+[sword][staff][axe]	28/36	3/(Wt)(Fr)(Md)
+
+	Staff
+	
+While they have good magical talent
+and are quite agile, their constitution
+is low, and they cannot take much punishment.
+
+
+Wizard		Ground Squadron
+
+							[staff]		32/68	4/(Wt)(Fr)(Md)
+							
+									Staff
+
+								They can easily cast very powerful spells.
+								Only Shelpha can hire them directly, but 
+								Sieg and Vastral have access to them by
+								growing them from Sorcerers.
+			
+			
+------------------------------------------------
+
+			PAGE 12
+			
+			
+黒騎士――地上部隊
+
+							[staff]		60/20	３/(黒)(精)
+							
+									剣と槍
+								
+								シェルファ軍の騎士が成長した、
+								いってみれば闇の聖戦士である。
+								直接雇うことはできない。
+								
+								
+エルフ――地上部隊
+
+[bow]	30/12	２/(地)(風)(精)
+
+	剣と弓
+	
+密林の住人たちである。本来は
+おとなしい民なのだが、一度戦
+いになると一致団結する。
+
+
+エルフロード――地上部隊
+
+								[bow]		48/28	３/(地)(風)(精)
+								
+										剣と弓
+										
+									エルフ族の貴族的な存在。戦場
+									では勇敢な騎士になる。弓矢の
+									あつかいにすぐれ、集団になれ
+									ばドラゴンをも倒す。
+									
+									
+Black Knight		Ground Squadron
+
+							[staff]		60/20	3/(Dk)(Md)
+							
+									Sword, Spear
+								
+								Shelpha's army's Knights will grow
+								to this Class. In simple terms,
+								they are a dark version of Holy
+								Warriors. They cannot be hired
+								directly.
+								
+								
+Elf		Ground Squadron
+
+[bow]	30/12	2/(Et)(Wn)(Md)
+
+	Sword, Bow
+	
+Forest dwellers. They are usually
+peaceful folks, but they have now
+banded together to fight.
+
+
+Elf Lord		Ground Squadron
+
+								[bow]		48/28	3/(Et)(Wn)(Md)
+								
+										Sword, Bow
+										
+									The noblest and bravest of
+									Elven warriors. Their skill
+									with the bow is second to
+									none: when banded together,
+									they can even take down a
+									dragon.
+			
+			
+------------------------------------------------
+
+			PAGE 13
+			
+			
+ゴブリン――地上部隊
+
+								[helm]		36/０
+								
+										棍棒
+										
+									巨人族としては動きが機敏で、
+									マメに動くが、その機敏さを戦
+									いに生かす気はあまりない。
+									
+									
+ミノタウルス――地上部隊
+
+	[helm]	60/０
+	
+		オノ
+
+オノを持たせればかなりの腕前
+で、見かけよりも凶暴。ただし
+小回りがきかない。
+
+
+ジャイアント――地上部隊
+
+								[helm]		80/０
+								
+										棍棒と投石で攻撃
+										
+									力技にかけては超一流。体力に
+									も自信がある。敵の魔法にもあ
+									るていど耐えられ、ガイラム軍
+									の大黒柱として、マスターを補
+									佐している。
+									
+									
+Goblin		Ground Squadron
+
+								[helm]		36/0
+								
+										Club
+										
+									Though they are the fastest
+									and most agile among the Giants,
+									they do not care about applying
+									such talent for battle.
+									
+									
+Minotaur		Ground Squadron
+
+	[helm]	60/0
+	
+		Axe
+
+Fearsome axe-wielding creatures,
+as brutal as they look.
+However, they are also very slow.
+
+
+Giant		Ground Squadron
+
+								[helm]		80/0
+								
+										Club, Throwing boulders
+										
+									Their strength is first-rate,
+									and they have incredible
+									constitution, capable even of
+									resisting magical spells.
+									They are the backbone of
+									Gailum's army, serving him
+									faithfully.
+			
+			
+------------------------------------------------
+
+			PAGE 14
+			
+			
+リザードマン――地上部隊
+
+								[dragon]		40/０
+								
+										剣
+										
+									密林や砂漠に強いが、実力はい
+									まひとつ。夢はドラゴンに成長
+									することだというのだが…
+									
+									
+バシリスク――地上部隊
+
+[dragon]	60/０
+
+	にらむ・牙で攻撃
+	
+密林や砂漠に強い。また、バシ
+リスクの視線にあたったものは
+石化する。
+
+
+ドラゴン――飛行部隊
+
+								[dragon]		72/０
+								
+										ツメやブレスで攻撃
+										
+									火山や砂漠に強く体力があり、
+									炎の息を吐く太古の大怪獣。も
+									とはドラゴン族として、全部ベ
+									ルフレイム配下にいたが、現在
+									は、はぐれ者もいるらしい。
+									
+									
+Lizardman		Ground Squadron
+
+								[dragon]		40/0
+								
+										Sword
+										
+									While they are stronger in forests
+									and deserts, they are not particularly
+									talented. Apparently, they all dream
+									of growing into dragons, one day...
+									
+									
+Basilisk		Ground Squadron
+
+[dragon]	60/0
+
+	Gaze, Fangs
+	
+Stronger in forests and deserts.
+The gaze of a basilisk has a
+petrifying effect.
+
+
+Dragon		Flying Squadron
+
+								[dragon]		72/0
+								
+										Claws, Breath
+										
+									Ancient, fire-breathing monsters.
+									Stronger in volcanoes and deserts.
+									Originally, all dragons were
+									followers of Velfraim, but it
+									seems some of them have gone
+									astray.
+			
+			
+------------------------------------------------
+
+			PAGE 15
+			
+			
+バーバリアン――地上部隊
+
+								[axe]		40/０
+								
+										オノ
+										
+									やる気は充分なのだが、あまり
+									パワーがない。基本的に野蛮人
+									なので魔法が苦手である。
+									
+									
+バーサーカー――地上部隊
+
+[axe]		72/０
+
+	オノ
+	
+勇猛で恐れを知らず、決して自
+ら退却することはない。命つき
+るまで猪突猛進する。
+
+
+Barbarian		Ground Squadron
+
+								[axe]		40/0
+								
+										Axe
+										
+									Very eager to fight, but not
+									particularly strong.
+									Little more than savages, they
+									have a hard time dealing with
+									magic.
+									
+									
+Berserker		Ground Squadron
+
+[axe]		72/0
+
+	Axe
+	
+Daring warriors who know no fear.
+They will never retreat on their own,
+rather opting to recklessly charge
+to their deaths.
+			
+			
+------------------------------------------------
+
+			PAGE 16
+			
+			
+	召喚部隊（ＳＰで雇う）
+	
+	
+ケンタウルス――地上部隊
+
+						(全)		32/０
+						
+								蹴りつけるか弓で攻撃
+								
+							上半身が人間のため、モンスタ
+							ーにしては器用で、弓を使える。
+							ただし、かなり臆病なので、不
+							利になるとさっさと逃げる。
+							
+							
+オーガ――地上部隊
+
+	(全)		40/０
+	
+		棍棒
+		
+きわめて原始的で、単純なモン
+スター。とりあえずなにも考え
+ていない。
+
+ユニコーン
+――地上部隊
+
+						(全)		40/０
+						
+								蹴りつけるか角で攻撃
+								
+							本来、森の奥深くにひっそりと
+							住むやさしい幻獣だが、現在は
+							凶暴化し、人間も襲う。
+							
+							
+	Summoned Squadrons (hired with SP)
+	
+	
+Centaur		Ground Squadron
+
+						(All)		32/0
+						
+								Kick, Bow
+								
+							As their top halves are human,
+							they can make use of tools such
+							as bows. However, they are
+							cowardly creatures, and will
+							run away if the situation is
+							overly dangerous.
+							
+							
+Ogre		Ground Squadron
+
+	(All)		40/0
+	
+		Club
+		
+Primitive, simple monsters.
+They act on instinct rather
+than thought.
+
+Unicorn
+		Ground Squadron
+
+						(All)		40/0
+						
+								Kick, Horn
+								
+							These mythical beasts used to
+							live peacefully deep inside
+							forests, but they are now filled
+							with rage and will attack humans.
+			
+			
+------------------------------------------------
+
+			PAGE 17
+			
+			
+トロウル――地上部隊
+
+						(全)		48/０
+						
+					(再)	棍棒
+					
+						丘の民と呼ばれる、とても古い
+						存在。本人たちは高度な文明人
+						のつもりらしいのだが…
+						
+						
+ワイバーン――飛行部隊
+
+	(全)	60/０
+	
+	ツメと牙で攻撃
+	
+湿原に住む翼を持った二足龍。毒
+を含む尾を武器に、敵の頭上を
+うるさく飛び回る。
+
+
+ヒュドラ――地上部隊
+
+						(全)		80/０
+						
+								牙で攻撃
+								
+							暗くてジメジメしたところをこ
+							よなく愛する５つ頭の大毒蛇。
+							
+							
+Troll		Ground Squadron
+
+						(All)		48/0
+						
+					(Rg)	Club
+					
+						Ancient creatures, also known as
+						hill dwellers. Apparently, they
+						see themselves as sophisticated,
+						civilized people...
+						
+						
+Wyvern		Flying Squadron
+
+	(All)	60/0
+	
+	Claws, Fangs
+	
+Bipedal, winged dragons who live
+in marshes. They swoop in from
+above and attack their preys
+with their venomous tails.
+
+
+Hydra		Ground Squadron
+
+						(All)		80/0
+						
+								Fangs
+								
+							A large, five-headed venomous
+							snake who loves dark and humid
+							places.
+			
+			
+------------------------------------------------
+
+			PAGE 18
+			
+			
+ガーゴイル――飛行部隊
+
+						(全)		40/０
+						
+								ツメと牙で攻撃
+								
+							古城を守護する石のモンスター。
+							鋭い石のツメによる攻撃はかな
+							り強力。
+							
+							
+ゴーレム――地上部隊
+
+	(全)	60/０
+	
+	敵を殴りつける
+	
+岩の大怪人。大抵の攻撃をはね
+返し、魔法にも強い抵抗力を持
+っている。
+
+
+タロス――地上部隊
+
+						(全)		96/０
+						
+								敵を殴りつける
+								
+							遺跡の巨人タロスを倒すのは、
+							並大抵ではない。岩山を相手に
+							戦うがごとしである。
+							
+							
+Gargoyle	Flying Squadron
+
+						(All)		40/0
+						
+								Claws, Fangs
+								
+							Stone monsters who guard old
+							castles.
+							Their sharp stone claws make
+							them particularly dangerous.
+							
+							
+Golem		Ground Squadron
+
+	(All)	60/0
+	
+	Strike
+	
+Large rock monsters. They will
+repel most ordinary attacks,
+and are highly resistant to
+magic spells.
+
+
+Talos		Ground Squadron
+
+						(All)		96/0
+						
+								Strike
+								
+							Few can encounter Talos, the
+							colossus of the ruins, and live
+							to tell the tale. It is like
+							facing a veritable mountain.
+			
+			
+------------------------------------------------
+
+			PAGE 19
+			
+			
+ヘルハウンド――地上部隊
+
+						(全)		48/０
+						
+								ツメと牙で攻撃
+								
+							炎の息を吐く地獄の番犬。なぜ
+							かバハムートの火山地帯に生息
+							している。
+							
+							
+サラマンダー――地上部隊
+
+	(全)	60/32		３/(火)
+
+(再)	ツメと牙で攻撃
+
+燃えさかる炎の中で生まれ育ち
+火を自在にあやつることができ
+る。
+
+
+キマイラ――地上部隊
+
+最強の火炎モンス		(全)		80/０
+ター。マヒ・毒・
+火球など見かけど	(再)	ツメと牙で攻撃
+おりの多彩な攻撃
+が得意。
+
+
+Hell Hound		Ground Squadron
+
+						(All)		48/0
+						
+								Claws, Fangs
+								
+							Fire-breathing watchdogs of Hell.
+							For whatever reason, they inhabit
+							Bahamut's volcanic regions.
+							
+							
+Salamander		Ground Squadron
+
+	(All)	60/32		3/(Fr)
+
+(Rg)	Claws, Fangs
+
+Born and raised within scorching
+flames, these creatures can
+naturally control fire.
+
+
+Chimera		Ground Squadron
+
+The strongest fire monsters.		(All)		80/0
+They can paralyze, poison
+and launch fire balls to		(Rg)	Claws, Fangs
+fight their enemies.
+			
+			
+------------------------------------------------
+
+			PAGE 20
+			
+
+マンティコア――飛行部隊
+
+						(全)		50/０
+						
+								ツメで攻撃
+								
+							気が荒く、怒ると手がつけられ
+							ない。尾の先から飛ばす毒針に
+							は注意が必要。
+							
+							
+サーペント――地上部隊
+
+	(全)	96/０
+
+	牙で攻撃
+	
+密林の大蛇。人間ぐらいひと呑
+みにしてしまうが、大きすぎて
+動きは鈍い。
+
+
+スフィンクス――飛行部隊
+
+						(全)		56/20	３/(火)(精)
+						
+								ツメで攻撃
+								
+							魔法を使う砂漠の実力者。モン
+							スターの中でも知性があり、プ
+							ライドも高い。
+							
+							
+Manticore		Flying Squadron
+
+						(All)		50/0
+						
+								Claws
+								
+							Ill-tempered creatures who are
+							easily angered. Beware the
+							venom stinger on their tails.
+							
+							
+Serpent		Ground Squadron
+
+	(All)	96/0
+
+	Fangs
+	
+Great snakes of the forests.
+Large enough to swallow a
+human whole, but their size
+also makes them very slow.
+
+
+Sphinx		Flying Squadron
+
+						(All)		56/20	3/(Fr)(Md)
+						
+								Claws
+								
+							Highly intelligent, proud
+							monsters who live in deserts.
+							They are capable of casting
+							spells.
+			
+			
+------------------------------------------------
+
+			PAGE 21
+			
+			
+フェニックス――飛行部隊
+
+						(全)		64/０
+						
+								ツメとクチバシで攻撃
+								
+							砂漠に現れる火の鳥。昔は、永
+							遠の時の象徴として、人々に崇
+							められていたらしい。
+							
+							
+グリフォン――飛行部隊
+
+	(全)	60/０
+	
+	ツメとクチバシで攻撃
+	
+山あいに潜む伝説の霊獣。大陸
+に動乱が起こると、必ず姿を現
+すといわれていた。
+
+
+サイクロプス――地上部隊
+
+						(全)		84/０
+						
+								棍棒と投石で攻撃
+								
+							山岳の原始的な１ツ目巨人。野
+							蛮で知性は低いが、その分、力
+							自慢とのこと。
+							
+							
+Phoenix		Flying Squadron
+
+						(All)		64/0
+						
+								Claws, Beak
+								
+							Fire birds who appear in
+							deserts. In ancient times,
+							they were worshiped as
+							symbols of eternal life.
+							
+							
+Griffon		Flying Squadron
+
+	(All)	60/0
+	
+	Claws, Beak
+	
+Legendary beasts who hide in
+ravines. It is said that they
+come out of hiding whenever
+the continent is in chaos.
+
+
+Cyclops		Ground Squadron
+
+						(All)		84/0
+						
+								Club, Throwing boulders
+								
+							Primitive, one-eyed giants who
+							dwell in mountains.
+							These savage creatures make up
+							for their lack of intellect
+							with their enormous strength.
+			
+			
+------------------------------------------------
+
+			PAGE 22
+			
+			
+ロック鳥――飛行部隊
+
+						(全)		80/０
+						
+								ツメとクチバシで攻撃
+								
+							平地などに出没する怪鳥で、象
+							も一つかみにする大きさ。策略
+							イベントで召喚できる。
+							
+							
+ガーディアン――地上部隊
+
+(全)[skull]		96/０
+	
+	剣
+	
+策略イベントで呼び出せる、最
+強の巨神。その力は地を裂き山
+を砕くと恐れられている。
+
+
+地の精霊――地上部隊
+
+										82/52		３/(地)
+										
+						(再)		敵を殴りつける
+						
+								レベル４の地の魔法で呼び出せ
+								る。大地のエネルギーを活力に
+								する不屈の精霊だが、動きも大
+								地のごとく鈍い。
+								
+								
+Roc		Flying Squadron
+
+						(All)		80/0
+						
+								Claws, Beak
+								
+							Monster birds who frequently appear
+							over the plains. Large enough to
+							be able to capture elephants.
+							They can be summoned through a
+							Scheme Event.
+							
+							
+Guardian		Ground Squadron
+
+(All)[skull]		96/0
+	
+	Sword
+	
+Summoned through a Scheme
+Event. Feared and respected as
+the strongest of guardian
+deities. As the legend goes,
+they will rend the ground
+asunder and tear mountains
+apart with but their presence.
+
+
+Spirit of Earth		Ground Squadron
+
+										82/52		3/(Et)
+										
+						(Rg)		Strike
+						
+								They can be summoned through a
+								Level 4 Earth Spell.
+								Indomitable Spirits channeling
+								the energy of the ground itself;
+								however, just like the ground,
+								they are very, very slow.
+			
+			
+------------------------------------------------
+
+			PAGE 23
+			
+			
+水の精霊――地上部隊
+
+										72/52		３/(水)
+								
+						(再)		敵を殴りつける
+						
+								レベル４の水の魔法で呼び出せ
+								る。生命の源である水から活力
+								を得、その冷気で攻撃する。
+								
+								
+炎の精霊――地上部隊
+
+			72/52		３/(火)
+			
+(再)	敵を殴りつける
+
+レベル４の火の魔法で呼び出せ
+る。触れただけで相手に火傷を
+負わせてしまう。
+
+
+風の精霊――飛行部隊
+
+										60/52		３/(風)
+								
+						(再)		敵を殴りつける
+						
+								レベル４の風の魔法で呼び出せ
+								る。旋風とともに空を駆け、敵
+								に雷撃を加える。
+								
+								
+Spirit of Water		Ground Squadron
+
+										72/52		3/(Wt)
+								
+						(Rg)		Strike
+						
+								They can be summoned through a
+								Level 4 Water spell.
+								Channeling the power of water,
+								source of life, they attack with
+								cold-imbued strikes.
+								
+								
+Spirit of Flame		Ground Squadron
+
+			72/52		3/(Fr)
+			
+(Rg)	Strike
+
+They can be summoned through a
+Level 4 Fire spell.
+Their scorching-hot bodies will
+burn their opponents with a
+simple touch.
+
+
+Spirit of Wind		Flying Squadron
+
+										60/52		3/(Wn)
+								
+						(Rg)		Strike
+						
+								They can be summoned through a
+								Level 4 Wind spell.
+								They generate whirlwinds to
+								soar through the skies, and
+								attack their opponents with
+								lightnings.
+			
+			
+------------------------------------------------
+
+			PAGE 24
+			
+			
+	バルマーの召喚部隊
+	
+バルマーの部隊は、バルマー専属の特別な召喚部隊のみ
+で構成されます。通常の召集部隊やモンスターは雇えま
+せん。
+
+
+スケルトン――地上部隊
+
+								[skull]		28/０
+								
+										剣
+										
+									単独では貧弱だが、死を恐れな
+									い突撃兵なので、集団になると
+									思わぬ力を発揮することも…
+									
+									
+ゾンビー――地上部隊
+
+	[skull]		40/０
+	
+	ツメでマヒ攻撃
+	
+生ける屍たちは、いかなる野心
+も欲望もなく、ひたすら命令に
+従うことしか知らない。
+
+
+	Balmer's Summoned Squadrons
+	
+Balmer's army is composed of Summoned Squadrons
+exclusive to him. He cannot employ normal Mustered
+Squadrons or Monsters.
+
+
+Skeleton	Ground Squadron
+
+								[skull]		28/0
+								
+										Sword
+										
+									Though not particularly impressive
+									on their own, they do not fear death.
+									When banded together, they will
+									display an unexpected might.
+									
+									
+Zombie		Ground Squadron
+
+	[skull]		40/0
+	
+	Paralyzing claws
+	
+Living corpses without any sort
+of ambitions or desires.
+They can only blindly follow
+orders, without question.
+			
+			
+------------------------------------------------
+
+			PAGE 25
+			
+			
+マミー――地上部隊
+
+								[skull]		56/０
+								
+								(再)	敵を殴りつける・マヒ
+							
+									来世を約束された死者たちが蘇
+									った姿。迷いがないので、ゾン
+									ビーよりもしぶとい。
+									
+									
+バンパイア――地上部隊
+
+	[skull]		40/20	３/(精)
+	
+(再)	剣と牙で攻撃
+
+もともとは吸血鬼なのだが、
+バルマー配下のバンパイアは
+相手の精気を吸いとる。
+
+
+リッチー――地上部隊
+
+								[skull]		40/52	４/(黒)(精)
+								
+								(再)	杖でマヒ攻撃
+								
+									死者の群れの中にあって、自分
+									の意志を持ち、それゆえに魔法
+									を使える冥界の僧侶。
+									
+									
+Mummy		Ground Squadron
+
+								[skull]		56/0
+								
+								(Rg)	Strike, Paralysis
+							
+									They were promised life after death,
+									and have now been brought back.
+									They will never falter, and are much
+									tougher than mere zombies.
+									
+									
+Vampire		Ground Squadron
+
+	[skull]		40/20	3/(Md)
+	
+(Rg)	Sword, Fangs
+
+After becoming Balmer's followers,
+these blood-sucking monsters have
+gained the ability to absorb their
+opponent's spiritual energy.
+
+
+Lich		Ground Squadron
+
+								[skull]		40/52	4/(Dk)(Md)
+								
+								(Rg)	Paralyzing staff
+								
+									Unique among the undead, these
+									creatures have retained their
+									own free will. Capable of casting
+									spells, they could be considered
+									priests of the underworld.
+			
+			
+------------------------------------------------
+
+			PAGE 26
+			
+			
+	英雄
+	
+上級ルールでは大陸の各地で、英雄と呼ばれる強者たち
+が旅をしています。英雄を雇い入れると、その英雄を自
+分の１部隊に就任させることで英雄個人の能力と、部隊
+の能力が、合わせて活用できるようになります。
+英雄には善(Ｌ)・悪(Ｃ)・中立(Ｎ)の3種類の性格の英雄
+がいて、中立の英雄は雇用可能な全マスターに仕えます
+が、善か悪の英雄は同じ性格のマスターにしか仕えませ
+ん。
+
+
+	例		英雄名	ヨーマ		性格　悪(Ｃ)
+	
+			ＭＰ36	3レベルの精神魔法と暗黒魔法を
+			使う。雇えるマスターは、中立のバストラ
+			ル、または悪のシェルファ。
+			
+この英雄を、シェルファの魔術士１部隊に就任させると、
+本来、４レベルの水の魔法・火の魔法・精神魔法のみを使
+う魔術士が、４レベルの暗黒魔法も使えるようになり、
+							ＭＰも増えます。（最大
+							ＭＰ99まで増加可能）
+							なお、ＭＰの他、攻撃力・
+							技量値・装甲値・機敏値・
+							魔力も加算されます。
+							（ただし、魔力は最大255
+							まで）
+							英雄は全部で60人以上い
+							ます。こまめに探索し、
+							有能な英雄を雇ってくだ
+							さい。
+							
+							
+	Heroes
+	
+When playing under Advanced Rules, powerful people
+known as "Heroes" will roam the continent.
+Once hired, Heroes can be assigned to a Squadron,
+adding their individual talents and making them
+that much stronger.
+Heroes can be one of three dispositions: Lawful (L),
+Chaotic (C), or Neutral (N). Neutral Heroes can be
+hired by any Master, while Lawful and Chaotic Heroes
+can only be hired by a Master of their disposition.
+
+
+	Example		Hero Name	Yoma	Disposition		Chaotic (C)
+	
+			MP 36	Can cast Level 3 Mind and Dark Spells.
+			Employable by the Neutral Vastral or the
+			Chaotic Shelpha.
+			
+Shelpha's Wizard Squadrons can usually only cast up to
+Level 4 Water, Fire, and Mind Spells; when this Hero is
+assigned to them however, they will also be able to cast
+							Level 4 Dark Spells, while
+							also increasing their MP
+							(up to a maximum of MP 99).
+							Furthermore, they will also
+							receive a bonus to their
+							Attack, Skill, Armor, Speed
+							and Magic stats (Magic can
+							reach up to 255).
+							There are over 60 different
+							Heroes in total.
+							Keep searching until you
+							find those who suit you
+							the most.
+			
+			
+------------------------------------------------
+
+			PAGE 27
+			
+			
+	部隊召集表
+	
+
+部隊を召集するときは、マスターによって、召集できる
+部隊とそれに必要なＬＰが異なります。
+それぞれの部隊は戦うか、イベントによって、１つ上の
+クラスの部隊に成長することができます。
+
+
+	[sword]		ジークが召集できる部隊
+
+戦士………………２ＬＰ			〈成長過程〉
+騎士………………10ＬＰ		戦士→騎士→聖戦士
+聖戦士……………75ＬＰ		魔法使い→魔道士→魔術士
+魔法使い…………５ＬＰ
+魔道士……………25ＬＰ
+
+
+	[axe]		バストラルが召集できる部隊
+	
+バーバリアン……１ＬＰ			〈成長過程〉
+バーサーカー……15ＬＰ		バーバリアン→バーサーカー
+魔法使い…………８ＬＰ		魔法使い→魔道士→魔術士
+魔道士……………48ＬＰ
+
+	
+	[bow]		エル＝モアが召集できる部隊
+	
+エルフ……………４ＬＰ			〈成長過程〉
+エルフロード……36ＬＰ		エルフ→エルフロード
+
+
+	[staff]		シェルファが召集できる部隊
+	
+戦士………………５ＬＰ		魔術士………………80ＬＰ
+騎士………………30ＬＰ			〈成長過程〉
+魔法使い…………２ＬＰ		戦士→騎士→黒騎士
+魔道士……………10ＬＰ		魔法使い→魔道士→魔術士
+
+
+	Squadrons' Mustering Chart
+	
+
+The Squadrons you can Muster, as well as the required
+LP to do so, change depending on the Master.
+Each of them will be able to grow to the next Class
+through fighting or through Events.
+
+
+	[sword]		Squadrons available to Sieg
+
+Warrior .......	 2 LP				[Growth]
+Knight ........	10 LP		Warrior -> Knight -> Holy Warrior
+Holy Warrior ..	75 LP		Magician -> Sorcerer -> Wizard
+Magician ......	 5 LP
+Sorcerer ......	25 LP
+
+
+	[axe]		Squadrons available to Vastral
+	
+Barbarian .....	 1 LP				[Growth]
+Berserker .....	15 LP			Barbarian -> Berserker
+Magician ......	 8 LP		Magician -> Sorcerer -> Wizard
+Sorcerer ......	48 LP
+
+	
+	[bow]		Squadrons available to Ell Moir
+	
+Elf ...........	 4 LP				[Growth]
+Elf Lord ......	36 LP			Elf -> Elf Lord
+
+
+	[staff]		Squadrons available to Shelpha
+
+Warrior .......	 5 LP		Wizard ........	80 LP
+Knight ........	30 LP				[Growth]
+Magician ......	 2 LP		Warrior -> Knight -> Black Knight
+Sorcerer ......	25 LP		Magician -> Sorcerer -> Wizard
+			
+			
+------------------------------------------------
+
+			PAGE 28
+
+
+
+
+
+	[helm]		ガイラムが召集できる部隊
+	
+ゴブリン…………１ＬＰ			〈成長過程〉
+ミノタウルス……５ＬＰ		ゴブリン→ミノタウルス
+ジャイアント……30ＬＰ		→ジャイアント
+
+	
+	[dragon]	ベルフレイムが召集できる部隊
+	
+リザードマン……１ＬＰ			〈成長過程〉
+バシリスク………19ＬＰ		リザードマン→バシリスク
+ドラゴン…………95ＬＰ		→ドラゴン
+	
+	[star]		クリムトが召集できる部隊
+	
+小悪魔……………５ＬＰ			〈成長過程〉
+大悪魔……………30ＬＰ		小悪魔→大悪魔
+デビルロード……90ＬＰ		→デビルロード
+
+★バルマーは部隊を召集できません。
+
+
+	[helm]		Squadrons available to Gailum
+
+Goblin ........	 1 LP				[Growth]
+Minotaur ......	 5 LP		Goblin -> Minotaur -> Giant
+Giant .........	30 LP
+
+	
+	[dragon]	Squadrons available to Velfraim
+	
+Lizardman .....	 1 LP				[Growth]
+Basilisk ......	19 LP		Lizardman -> Basilisk -> Dragon
+Dragon ........	95 LP
+	
+	[star]		Squadrons available to Klimt
+	
+Imp ...........	 5 LP				[Growth]
+Archdemon .....	30 LP		Imp -> Archdemon -> Devil Lord
+Devil Lord ....	90 LP
+
+★ Balmer cannot Muster Squadrons.
+			
+			
+------------------------------------------------
+
+			PAGE 29
+			
+			
+	部隊召喚表
+	
+
+部隊を召喚するときは、召喚をおこなうエリアの地形と
+召喚させる部隊によって、さまざまなモンスターを召喚
+することができます。
+
+
+	[skull]		バルマーが召喚できる部隊
+	
+	
+召集部隊を持たないバルマーは、独自の召喚部隊を、地
+形に関係なく、どこででも召喚することができますが部
+隊の成長はありません。（イベントの「部隊成長」では、
+成長可能。）
+最低クラスのスケルトンは召喚させる部隊がいなくても
+雇えますが、それ以外は、同種の１部隊か１つ下のクラ
+スの２部隊に召喚させなければなりません。ただしバル
+マーは単独で全部隊を召喚できます。
+
+スケルトン…………０ＳＰ	バンパイア…………32ＳＰ
+ゾンビー……………０ＳＰ	リッチー……………72ＳＰ
+マミー………………18ＳＰ
+
+
+●モンスター部隊
+
+召喚できるモンスターには、ケンタウルスから始まる系
+統と、オーガから始まる系統があります。
+ケンタウルスとオー
+ガは、召喚させる部
+隊がいなくても雇え
+ますが、それ以外の
+モンスターは、同種
+の１部隊か１つ下の
+クラスの２部隊を召
+喚に必要とします。
+
+
+	Squadrons' Summoning Chart
+	
+
+The Squadrons you can Summon change depending on the
+Area where the Summoning is performed, as well as the
+Squadron performing the Summoning.
+
+
+	[skull]		Squadrons available to Balmer
+	
+	
+Balmer cannot Muster Squadrons, and can only Summon his
+unique set of Monsters. They can be summoned from any
+Area, regardless of the terrain; however, his Squadrons
+are unable to grow (unless the "Squadron Growth" Event
+has been triggered).
+Skeletons, the lowest Class available, can be hired
+even without another Squadron present; otherwise,
+a Squadron will be able to Summon 1 other Squadron
+of the same Class, or 2 Squadrons of a Class below
+theirs. However, Balmer himself will be able to
+Summon any Squadron he has access to.
+
+Skeleton ......	 0 SP	Vampire .......	32 SP
+Zombie ........	 0 SP	Lich ..........	72 SP
+Mummy .........	18 SP
+
+
+● Monster Squadrons
+
+Summoning Monsters can be split into two main lines,
+one starting from Centaurs, and one starting from Ogres.
+Centaurs and Ogres
+can be hired even
+without another
+Squadron present;
+otherwise, a
+Squadron will be
+able to Summon 1
+other Squadron of
+the same Class, or
+2 Squadrons of a
+Class below theirs.
+			
+			
+------------------------------------------------
+
+			PAGE 30
+			
+			
+						ケンタウルス　12ＳＰ
+							平原・森林
+							
+								||
+								Ｖ
+								
+						ユニコーン　24ＳＰ
+							   森林
+												＼＼
+												  ___|
+			／／				||				  
+		  |___					Ｖ					ガーゴイル28ＳＰ
+												
+														||
+														Ｖ
+													
+スフィンクス44ＳＰ		マンティコア36ＳＰ			ゴーレム48ＳＰ
+													
+		||						||						||
+		Ｖ						Ｖ						Ｖ
+														
+フェニックス72ＳＰ		サーペント64ＳＰ			タロス92ＳＰ
+													
+		砂漠				   密林						遺跡
+		
+		
+		
+		
+							オーガ　12ＳＰ
+							 平原・丘陵
+							 
+								 ||
+								 Ｖ
+								 
+							トロウル　24ＳＰ
+								丘陵
+												＼＼
+												  ___|
+			／／				||				  
+		  |___					Ｖ					ヘルハウンド36ＳＰ
+												
+														||
+														Ｖ
+													
+ワイバーン40ＳＰ			グリフォン40ＳＰ		サラマンダー56ＳＰ
+													
+		||						||						||
+		Ｖ						Ｖ						Ｖ
+														
+ヒュドラ72ＳＰ				サイクロプス64ＳＰ		キマイラ92ＳＰ
+													
+	  湿原						  山岳					火山
+	  
+	  
+	  
+★	策略イベントの「部隊召喚」や、４レベルの精神魔法
+	の「召喚」を平原・森林・丘陵で使うと、ロック鳥を呼
+	ぶこともできます。
+	
+	
+						   Centaur 12 SP
+						  Plains - Forests
+							
+								||
+								Ｖ
+								
+						   Unicorn 24 SP
+							  Forests
+												＼＼
+												  ___|
+			／／				||				  
+		  |___					Ｖ					Gargoyle 28 SP
+												
+														||
+														Ｖ
+													
+   Sphinx 44 SP			  Manticore 36 SP			 Golem 48 SP
+													
+		||						||						||
+		Ｖ						Ｖ						Ｖ
+														
+   Phoenix 72 SP		   Serpent 64 SP			 Talos 92 SP
+													
+	  Deserts				  Thickets				Ruins
+		
+		
+		
+		
+							Ogre 12 SP
+						   Plains - Hills
+							 
+								 ||
+								 Ｖ
+								 
+							Troll 24 SP
+							   Hills
+												＼＼
+												  ___|
+			／／				||				  
+		  |___					Ｖ					Hell Hound 36 SP
+												
+														||
+														Ｖ
+													
+  Wyvern 40 SP				Griffon 40 SP			Salamander 56 SP
+													
+		||						||						||
+		Ｖ						Ｖ						Ｖ
+														
+  Hydra 72 SP				Cyclops 64 SP			 Chimera 92 SP
+													
+	  Marshes				  Mountains				  Volcanoes
+	  
+	  
+	  
+★	Rocs can be Summoned through the use of the Scheme
+	Event "Squadron Summon", or by casting the Mind Spell
+	"Summon" from Plains, Forests, or Hills terrains.
+
+
+------------------------------------------------
+
+			PAGE 31
+			
+			
+	イベント
+	
+	◆不特定なイベント◆
+	
+ターン開始のとき不特定に起きます。
+
+					発生エリアと、それに隣接するエリア
+	地　　震		の部隊に被害。ただし、飛行できる部
+					隊はダメージが少なくてすむ。
+					
+					発生エリアと、それに隣接するエリア
+	疫　　病		の部隊に被害。毒に強い部隊とマヒし
+					ない部隊を除いて、ＨＰ1・ＭＰ0になる。
+					また、そのターンは行動できない。
+					
+					発生エリアと、それに隣接するエリア
+					で、１ターンの間一切の行動をとれな
+	大　　嵐		くなり、そこからのＬＰも受けられない。
+					また、その間は外からそのエリアへの
+					移動・侵攻もできなくなる。
+					
+					襲撃されたエリアは戦争状態になり、
+	ロック鳥		ロック鳥に占領されると、中立エリア
+	襲　　撃		になる。
+	
+					その後しばらくの間、そのエリアから
+	金脈発見		受けとるＬＰが増える。
+	
+					特定エリアの部隊が成長し、その１つ
+	部隊成長		上のクラスの部隊になる。ただし、召
+					喚部隊は、召喚するときの地形条件を
+					満たしていないと成長しない。
+					
+					
+	Events
+	
+	◆Random Events◆
+	
+These Events can occur randomly at the start of each Turn.
+
+					Cause damage to all Squadrons in the Event
+   Earthquake		Area, as well as neighboring Areas.
+					Flying Squadrons will take reduced damage.
+					
+					Cause damage to all Squadrons in the Event
+					Area, as well as neighboring Areas.
+	 Plague			Excluding those resistant to Poison and
+					Paralysis, Squadrons will be reduced to
+					1 HP and 0 MP. Additionally, they will be
+					unable to act during that Turn.
+					
+					The Event Area, as well as neighboring
+					Areas, will be inoperable for 1 Turn,
+   Raging Storm		and will not generate LP.
+					Squadrons cannot be moved to the
+					affected Areas, and they cannot be
+					invaded.
+					
+					Combat will initiate in the affected
+	   Roc			Area. If Rocs are victorious, the
+	  Assault		Area will become Neutral.
+	
+	Gold Vein		The Event Area will generate more LP
+	Discovery		for a limited period.
+
+					The Squadrons in the Event Area will grow
+	Squadron		to their next Class. However, Summoned
+	 Growth			Squadrons will not grow if they are not
+					located in their favored terrain.
+			
+			
+------------------------------------------------
+
+			PAGE 32
+			
+			
+	モンスター		特定エリアで、その地形に応じてモン
+	襲　　　撃		スターが発生し、荒らし回る。
+	
+	
+	
+	◆事件イベント◆
+	
+「イベント」で、マスターに配られ、その場で実行されま
+す。
+
+	錬 金 術		ＬＰが増える。
+	
+	祝　　福		ＳＰが増える。
+	
+					呪縛されたマスターは、そのターンの
+	呪　　縛		間、一切なにもできなくなる。
+	
+	不　　穏		１ターンの間、ＬＰを受けられない。
+	
+					自分の支配下のうち、１エリアの部隊
+	部隊成長		が、１クラス上の部隊に成長する。た
+					だし、バルマー以外の召喚部隊は、地
+					形条件を満たしていないと成長しない。
+					
+					自分の支配下の１エリアにモンスター
+	襲　　撃		が襲撃してくる。
+	
+					マスターも英雄もいない自分の支配下
+					の１エリアで反乱が起こり、中立化す
+	反　　乱		る。また、それに隣接する、部隊のいない
+					支配エリアも中立化する。ただしバルマ
+					ーのエリアでは反乱は起こらない。
+					
+					
+	 Monster		Monsters related to the Event Area will
+	 Assault		appear and go on a rampage.
+	
+	
+	
+	◆Accident Events◆
+	
+These Events will take effect as soon as they are dealt
+to a Master.
+
+	Alchemy			Additional LP.
+	
+	Blessing		Additional SP.
+	
+					Cursed Master won't be able to act
+	  Curse			during this Turn.
+	
+	  Unrest		No LP will be received during this Turn.
+	
+					The Squadrons of one of the Areas under
+					the Master's rule will grow to their
+	Squadron		next Class. However, Summoned Squadrons
+	 Growth			not affiliated with Balmer will not grow
+					if they are not located in their favored
+					terrain.
+					
+					Monsters will attack one of the Areas
+	 Assault		under the Master's rule.
+	
+					One of the Areas under the Master's rule
+					will revolt and become Neutral, if there
+					is no Master or Hero present. Neighboring
+	Revolt			Areas under the Master's rule without
+					Squadrons will also become Neutral.
+					Revolts cannot occur in Areas ruled by
+					Balmer.
+			
+			
+------------------------------------------------
+
+			PAGE 33
+			
+			
+	◆策略イベント◆
+	
+「イベント」でマスターに配られ、後に策略として使用し
+ます。
+
+(政)：「政策」で使用
+(作)：「作戦」で使用
+(侵)：敵の侵攻・モンスター襲撃を受けたときに使用
+(戦)：戦術画面で使用
+
+
+同盟締結		他のマスター（バルマーを除く）と強引
+　(政)			に同盟を結ぶ。期間は８ターン。
+
+同盟破棄(政)	結んでいた同盟を破棄できる。
+
+				１ターンの間、好きなエリアに大嵐を
+　大嵐(政)		発生させる。
+				（不特定イベント「大嵐」p.31に同じ）
+				
+　呪縛			敵マスターを呪縛する。
+　(政)			（不特定イベント「呪縛」p.32に同じ）
+
+　隷属			隣接する中立エリアを自分の支配下に
+　(政)			入れるが、そこにいた部隊は消滅する。
+
+　水晶玉		指定した敵マスターの策略を見て、その
+　(政)			策略の１つを無効にすることができる。
+
+　再行動		現在作戦中のエリア内の、行動済部隊
+　(作)			を、再び行動可能にする。
+
+瞬間移動		現在作戦中のエリア内の、行動可能な
+　(作)			全部隊を、支配下の好きなエリアに移
+				動させる。
+				
+				
+	◆Scheme Events◆
+	
+These Events can be activated willingly once they are
+dealt to the Master.
+
+(Pl): Usable during "Policy"
+(Tc): Usable during "Tactics"
+(In): Usable when invaded or raided
+(TS): Usable in Tactical Screen
+
+
+Form Alliance	Forcefully form an alliance with another
+	 (Pl)		Master (excluding Balmer). Lasts 8 Turns.
+
+Break Alliance	Forcefully break an alliance.
+	 (Pl)		
+
+				Triggers a Raging Storm for 1 Turn in the
+Raging Storm	target Area (with the same effects as the
+	 (Pl)		Random Event "Raging Storm", p.31).
+				
+	Curse		Curses an enemy Master (with the same effect
+	(Pl)		as the Random Event "Curse", p.32).
+
+  Servitude		Places a neighboring Neutral Area under your
+	(Pl)		rule. The Squadrons in that Area are eliminated.
+
+ Crystal Ball	Allows you to see the list of Schemes owned
+	(Pl)		by a Master and nullify one of them.
+
+   Act Again	Allows Squadrons that have already acted in the
+	(Tc)		current Area to act once again.
+
+ Teleportation	Allows all Squadrons that have yet to act in the
+	(Tc)		current Area to be moved to one of the other Areas
+				under your rule.
+			
+			
+------------------------------------------------
+
+			PAGE 34
+			
+			
+　千里眼		そのターンの間、すべてのエリアを見
+　(作)			ることができる。
+
+				中立または自分の支配下のエリアのう
+領地交換		ち、そのとき「作戦」中のエリアを除
+　(作)			く２つのエリアを指定し、そこにいる
+				全部隊を入れ換える。
+				
+奇襲攻撃		これを実行した直後に、そこから侵攻
+　(作)			すると、防御側は策略が使えず、また、
+				戦闘の最初のターン行動不能になる。
+				
+				敵が侵攻してきたときに有効。敵の地
+大地滅壊		上部隊が場合によっては消滅。ただし、
+　(侵)			敵マスターと英雄は、大きなダメージ
+				を受けても死ぬことはない。（飛行部隊
+				は影響なし）
+				
+				敵が侵攻してきたときに有効。敵の飛
+大気滅壊		行部隊が場合によっては消滅。ただし、
+　(侵)			飛行する敵マスターと英雄は、大きな
+				ダメージを受けても死ぬことはない。
+				（地上部隊は影響なし）
+				
+				敵が侵攻してきたときに有効。火に耐
+　炎の壁		性のない部隊は場合によっては消滅。
+　(侵)			ただし、火に強い部隊と、マスターお
+				よび英雄は、大きなダメージを受けて
+				も死ぬことはない。
+				
+				
+ Clairvoyance	Allows you to see every Area during this
+	(Tc)		Turn.
+
+  Territory		Allows you to swap all the Squadrons between
+   Switch		2 target Areas (among Neutral or under your
+	(Tc)		rule), excluding the current Area.
+				
+   Surprise		If activated before Invading, the Defender
+	Attack		will be unable to activate any Schemes,
+	(Tc)		and will be forced to skip the first Turn.
+				
+				Effective when invaded by the enemy.
+ Ground Ruin	The enemy's Ground Squadrons will be
+	(In)		annihilated. The enemy Master and Heroes
+				will not die, but take major damage
+				instead (Flying Squadrons are not affected).
+				
+				Effective when invaded by the enemy.
+ Heavens Ruin	The enemy's Flying Squadrons will be
+	(In)		annihilated. The enemy Master and Heroes
+				will not die, but take major damage
+				instead (Ground Squadrons are not affected).
+				
+				Effective when invaded by the enemy.
+ Wall of Flame	Squadrons without resistance to fire will
+	(In)		be annihilated. The enemy Master and
+				Heroes will not die, but take major damage
+				instead.
+			
+			
+------------------------------------------------
+
+			PAGE 35
+			
+			
+強制退却		敵が侵攻してきたときに有効。敵の全
+　(侵)			部隊を無条件に引きかえさせ、行動不
+				能にする。
+				
+攻撃増強		戦術画面上で、戦いの前に、全部隊の
+　(戦)			攻撃力（攻撃によって相手に与えるダメ
+				ージ）を多少上げる。
+				
+技量向上		戦術画面上で、戦いの前に、全部隊の
+　(戦)			技量値を多少上げる。
+
+装甲強化		戦術画面上で、戦いの前に、全部隊の
+　(戦)			装甲値を多少上げる。
+
+				戦術画面上で、戦いの前に、敵の１～４
+部隊調略		部隊を寝返らせ、その戦いの間だけ、
+　(戦)			味方につける。ただし、敵マスターや
+				英雄が指揮している部隊には通用しな
+				い。
+				
+　濃霧			霧を発生させ、敵の退却を妨げるが、
+　(戦)			自分も退却できなくなるので注意。
+
+
+   Forced 		Effective when invaded by the enemy.
+   Retreat		All enemy Squadrons will be forced to
+	(In)		leave the battlefield.
+				
+  Enhance		Used on the Tactical Screen before fighting.
+  Attack		This will slightly increase the Attack
+	(TS)		(i.e. the inflicted damage) of all Squadrons.
+				
+Increase Skill	Used on the Tactical Screen before fighting.
+	(TS)		This will slightly increase the Skill of
+				all Squadrons.
+
+  Reinforce		Used on the Tactical Screen before fighting.
+	Armor		This will slightly increase the Armor of
+	(TS)		all Squadrons.
+
+				Used on the Tactical Screen before fighting.
+   Squadron		1 to 4 enemy Squadrons will switch sides and
+	Scheme		become allies for this battle. Keep in mind
+	(TS)		that this will not work on Squadrons led by
+				the enemy Master or Heroes.
+				
+   Heavy Fog	A heavy fog will prevent any retreat from this
+	(TS)		battle. Be aware that this affects both you
+				and the enemy.
+			
+			
+------------------------------------------------
+
+			PAGE 36
+			
+			
+				ヘクス画面の戦争時のみ有効。その戦
+　氷結			争中、海または川などを凍らせ、平地
+　(戦)			あつかいにできる。
+				（レベル４の水の魔法「氷結」と同じ効
+				果。）
+				
+				味方部隊のＨＰ・ＭＰを最大まで回復さ
+				せるが、効果は使用する場面によって
+	回復		異なる。
+(政)(作)(戦)	「政策」時――支配下の全エリアに適用
+				「作戦」時――作戦中のエリアのみ
+				　戦術画面上――戦いに参加している部
+								隊のみ
+
+英雄暗殺		敵の英雄を暗殺する。英雄が有能だと
+(政)(作)		失敗しやすい。
+
+英雄離反		敵の英雄を離反させる。英雄の性格が
+(政)(作)		善だと失敗しやすい。
+
+				敵マスター支配下のエリアに適用でき
+反乱工作		る。
+(政)(作)		（効果は事件イベントの「反乱」p.32に
+				同じ）
+				
+　盗人			敵マスターの１人から、すべてのＬＰを
+(政)(作)		盗み出す。
+
+
+				Effective only when using Hex Screen.
+   Freezing		During this battle, water will be frozen
+	(TS)		and treated as Plains terrain (same effect
+				as casting the Water Spell "Freeze").
+				
+				Allied Squadrons will recover all HP and MP,
+				but the scope varies depending on the phase
+   Recovery		it is activated.
+ (Pl)(Tc)(TS)	During "Policy": Applied to all Areas under your rule;
+				During "Tactics": Applied to current Area;
+				On Tactical Screen: Applied to Squadrons participating
+									in battle.
+
+Assassinate		Assassinates an enemy Hero.
+        Hero    The more talented the Hero, the less likely
+  (Pl)(Tc)		it is to succeed.
+
+	Hero		Forces an enemy Hero to leave their Master's
+  Defection		service. If the Hero's disposition is Lawful,
+  (Pl)(Tc)		this will have a low rate of success.
+
+				Initiates a revolt in one of the Areas under
+ Plot Revolt	the enemy Master's rule (same effect as Random
+  (Pl)(Tc)		Event "Revolt", p.32).
+				
+  Thieves		Steal all LP from one enemy Master.
+  (Pl)(Tc)		
+			
+			
+------------------------------------------------
+
+			PAGE 37
+			
+			
+				ガーディアン１部隊を召喚する。
+巨神降臨		「作戦」時――その後、常備部隊として
+(作)(戦)					　使える。
+				　戦場画面上――その戦争の間のみ自軍
+								に加える。
+								
+				強力な魔法の爆裂を起こし、エリア内
+				の敵部隊のＨＰを１にする。
+爆裂攻撃		「作戦」時――爆裂を起こしたエリアの
+(作)(戦)					　全敵部隊に有効。
+				　戦場画面上――戦いに参加している敵
+								部隊に有効。
+								
+				地形に応じたモンスター１部隊を召喚
+				できる。（部隊召喚表p.30参照）ただし、
+部隊召喚		バルマーはつねにリッチーを召喚する。
+(作)(戦)		「作戦」時――その後、常備部隊として
+							　使える。
+				　戦術画面上――その戦争の間のみ自軍
+								に加える。
+								
+　妖精			敵マスターの１人から、すべてのＳＰを
+(政)(作)		盗み出す。
+
+
+
+	魔法リスト
+	
+	
+魔法には６つのタイプがあり、それぞれレベルによって、
+使える魔法と、消費するＭＰが異なります。
+
+
+				Summons 1 Guardian Squadron.
+   Guardian		If used during "Tactics", the Squadron will
+   Descent		be added to the Area's reserves;
+  (Tc)(TC)		If used on the Tactical Screen, the Squadron
+				will only be usable for this battle.
+								
+				Triggers a powerful magical explosion,
+				reducing all enemy Squadrons in the Area
+  Explosive		to 1 HP.
+   Attack		If used during "Tactics" phase, it will affect
+  (Tc)(TC)		all enemy Squadrons in the Area;
+				If used on the Tactical Screen, it will affect
+				enemy Squadrons participating in the battle.
+								
+				Summons 1 Monster Squadron depending on the
+				terrain (refer to the Squadrons' Summoning
+  Squadron		Chart on p.30). However, Balmer will only
+   Summon		ever summon Liches.
+  (Tc)(TC)		If used during "Tactics", the Squadron will
+				be added to the Area's reserves;
+				If used on the Tactical Screen, the Squadron
+				will only be usable for this battle.
+								
+  Fairies		Steal all SP from one enemy Master.
+  (Pl)(Tc)		
+
+
+
+	Magic Spell List
+	
+	
+There are 6 types of Spells. Depending on the Level,
+the Spell will have a different MP cost.
+			
+			
+------------------------------------------------
+
+			PAGE 38
+			
+			
+消費ＭＰ	レベル１：４ＭＰ	レベル２：８ＭＰ
+			レベル３：16ＭＰ	レベル４：32ＭＰ
+			
+また、魔法の中には、有効射程距離を持ち、その範囲内
+で効力を発揮するものもあります。その場合、有効範囲
+が明るく表示されます。
+
+
+						地の魔法
+					
+				回復（ＨＥＡＬ）――指定した１部隊の
+	レベル１	ＨＰを回復する。
+				魔法の鎧（ＡＲＭＯＲ ＵＰ）――指定し
+				た１部隊の装甲値を上げる。
+				
+				魔法の矢（ＭＡＧＩＣ ＭＩＳＳＩＬＥ）――
+				指定した敵の１部隊を、魔法の鉱石の
+	レベル２	矢で攻撃する。
+				状態回復（ＲＥＳＴＯＲＥ ＳＴＡＴＵＳ）――
+				指定した１部隊の状態を戦う前の状態
+				にもどす。
+				
+				地震（ＥＡＲＴＨＱＵＡＫＥ）――指定
+	レベル３	したヘクスとその周囲に地震を起こす。
+				全体回復（ＡＬＬ ＨＥＡＬ）――周りの
+				味方部隊全員のＨＰを回復する。
+				
+				復活（ＲＥＳＵＲＲＥＣＴＩＯＮ）――最
+				後に失った１部隊を復活させる。（魔法
+	レベル４	の召喚部隊や寝返った敵部隊、精気を
+				奪われて死んだ部隊を除く。）
+				精霊召喚（ＣＯＮＪＵＲＥ ＥＬＥＭＥＮＴＡＬ）
+				――大地の精霊を呼ぶ。
+				
+				
+MP Cost		Level 1:  4 MP		Level 2:  8 MP
+			Level 3: 16 MP		Level 4: 32 MP
+			
+Some of the Spells have an effective range where
+they can be cast, displayed as the highlighted
+potion of the screen.
+
+
+						Earth Magic
+					
+				Heal: Restores HP to 1 target Squadron.
+	Level 1		Armor Up: Increases Armor to 1 target
+				Squadron.
+				
+				Magic Missile: Attacks 1 enemy Squadron
+				with a magical crystal arrow.
+	Level 2		Restore Status: Restores the status of 1
+				target Squadron to what it was before
+				the battle.
+				
+				Earthquake: Causes an earthquake in the
+	Level 3		target Hex and its surroundings.
+				All Heal: Restores HP to all surrounding
+				allied Squadrons.
+				
+				Resurrection: Brings back the last Squadron
+				that has been lost (excluding Squadrons
+	Level 4		summoned with Magic, double-crossing enemy
+				Squadrons, or Squadrons killed by having
+				their energy stolen).
+				Conjure Elemental: Summons a Spirit of Earth.
+							
+			
+------------------------------------------------
+
+			PAGE 39
+			
+			
+						水の魔法
+						
+				回復（ＨＥＡＬ）――指定した１部隊の
+	レベル１	ＨＰを回復する。
+				精神安定（ＲＥＳＴＯＲＥ ＭＯＲＡＬ）
+				――士気値を原点＋１にする。
+				
+				魔法の矢（ＭＡＧＩＣ ＭＩＳＳＩＬＥ）――
+				指定した敵の１部隊を魔法の氷の矢で
+	レベル２	攻撃する。
+				火炎防御（ＲＥＳＩＳＴ ＦＩＲＥ）――指
+				定した１部隊を火に強くする。
+				
+				雪嵐（ＩＣＥ ＳＴＯＲＭ）――指定したヘ
+	レベル３	クスとその周囲に吹雪を起こす。
+				再生停止（ＳＬＯＷ ＲＥＧＥＮＥＲＡＴＥ）
+				――一定範囲の敵の再生力を０にする。
+				
+				氷結（ＦＲＥＥＺＥ）――海・川を凍らせ、
+				平地あつかいにする。（ヘクス画面のみ
+	レベル４	有効）
+				精霊召喚（ＣＯＮＪＵＲＥ ＥＬＥＭＥＮＴＡＬ）
+				――水の精霊を呼ぶ。
+				
+				
+						火の魔法
+
+				回復（ＨＥＡＬ）――指定した１部隊の
+				ＨＰを回復する。
+	レベル１	攻撃増強（ＰＯＷＥＲ ＵＰ）――１部隊
+				を指定し、攻撃命中時の敵にあたえる
+				ダメージを大きくする。
+				
+				
+						Water Magic
+						
+				Heal: Restores HP to 1 target Squadron.
+	Level 1		Restore Morale: Brings Morale to its
+				original value +1.
+				
+				Magic Missile: Attacks 1 enemy Squadron
+	Level 2		with a magical water arrow.
+				Resist Fire: Makes 1 target Squadron
+				resistant to Fire.
+				
+				Ice Storm: Causes a blizzard in the
+	Level 3		target Hex and its surroundings.
+				Halt Regen: Turns Regen to 0 to
+				enemies in a fixed area.
+				
+				Freeze: Freezes sea and river tiles, which
+				will be then treated as Plains terrain
+	Level 4		(only effective on Hex Screen).
+				Conjure Elemental: Summons a Spirit of Water.
+				
+				
+						Fire Magic
+
+				Heal: Restores HP to 1 target Squadron.
+	Level 1		Power Up: Increases damage inflicted by
+				1 target Squadron.
+			
+			
+------------------------------------------------
+
+			PAGE 40
+			
+			
+				魔法の矢（ＭＡＧＩＣ ＭＩＳＳＩＬＥ）――指定
+				した敵の１部隊を魔法の炎の矢で攻撃す
+	レベル２	る。
+				装甲溶解（ＭＥＬＴ ＡＲＭＯＲ）――指定し
+				た敵の１部隊の装甲値を少し減らす。
+				
+				火球攻撃（ＦＩＲＥ ＢＡＬＬ）――指定し
+				たヘクスとその周囲にいる敵に火球を
+	レベル３	投げつける。
+				再生（ＲＥＧＥＮＥＲＡＴＥ）――一定
+				範囲内の味方部隊に再生力をあたえる。
+				
+				流星（ＭＥＴＥＯＲ ＳＨＯＷＥＲ）――
+				１戦争ターンに１回可能。一定範囲内
+	レベル４	の敵部隊の上に隕石を落とす。
+				精霊召喚（ＣＯＮＪＵＲＥ ＥＬＥＭＥＮＴＡＬ）
+				――炎の精霊を呼ぶ。
+				
+				
+						風の魔法
+						
+				回復（ＨＥＡＬ）――指定した１部隊の
+	レベル１	ＨＰを回復する。
+				技量（ＳＫＩＬＬ ＵＰ）――指定した１部
+				隊の技量値を上げる。
+				
+				魔法の矢（ＭＡＧＩＣ ＭＩＳＳＩＬＥ）――
+				指定した敵の１部隊を魔法の雷の矢で
+	レベル２	攻撃する。
+				飛行（ＦＬＹ）――指定した１部隊を飛
+				行可能にする。
+				
+				
+				Magic Missile: Attacks 1 enemy Squadron
+	Level 2		with a magical fire arrow.
+				Melt Armor: Slightly reduces Armor of
+				1 target enemy Squadron.
+				
+				Fire Ball: Throws a fire ball in the
+	Level 3		target Hex and its surroundings.
+				Regeneration: Bestows Regen to allied
+				Squadrons in a fixed area.
+				
+				Meteor Shower: Only usable once per Battle
+	Level 4		Turn. Drops meteors over the enemy Squadrons
+				on a fixed area.
+				Conjure Elemental: Summons a Spirit of Fire.
+				
+				
+						Wind Magic
+						
+				Heal: Restores HP to 1 target Squadron.
+	Level 1		Skill Up: Increases Skill to 1 target
+				Squadron.
+				
+				Magic Missile: Attacks 1 enemy Squadron
+	Level 2		with a magical lightning arrow.
+				Fly: Bestows the ability to fly to 1
+				target Squadron.
+			
+			
+------------------------------------------------
+
+			PAGE 41
+			
+			
+				魔真空刃（ＤＲＡＦＴ ＢＬＡＤＥＳ）――指
+				定したヘクスとその周囲に真空状態を作り
+	レベル３	出し、そこにいる敵を切り裂く。
+				高速移動（ＨＡＳＴＥ）――指定したヘクスと
+				その周囲にいる味方部隊の動きを速くする。
+				
+				雷撃（ＬＩＧＨＴＮＩＮＧ ＢＯＬＴ）――１
+				戦争ターンに１回可能。一定範囲内の
+	レベル４	敵部隊に雷を落とす。
+				精霊召喚（ＣＯＮＪＵＲＥ ＥＬＥＭＥＮＴＡＬ）
+				――風の精霊を呼ぶ。
+				
+				
+						精神魔法
+						
+				ＭＰ回復（ＭＥＤＩＴＡＴＩＯＮ）――自
+	レベル１	分のＭＰを８回復する。
+				祝福（ＢＬＥＳＳ）――指定した１部隊
+				の装甲値・技量値・機敏値を１上げる。
+				
+				気弾（ＭＩＮＤ ＢＬＡＳＴ）―指定した敵
+	レベル２	の１部隊に気を集中して投げつける。
+				解呪（ＤＩＳＰＥＬＬ ＣＵＲＳＥ）――指
+				定した１部隊の呪いをとく。
+				
+				停止（ＨＯＬＤ ＭＯＮＳＴＥＲ）――指定し
+				たヘクスとその周囲にいる敵部隊を金縛
+				り状態にする。停止中の部隊は、攻撃され
+	レベル３	るか、一定ターン過ぎるまで動けない。
+				魔力向上（ＭＡＧＩＣ ＵＰ）――一定範囲内
+				の味方部隊の魔力を上げる。（最大200ま
+				で）
+				
+				
+				Wind Blades: Generates a vacuum in the
+				target Hex and its surroundings, damaging
+	Level 3		enemies within the area.
+				Haste: Increases the movement speed of
+				allied Squadrons in the target Hex and its
+				surroundings.
+				
+				Lightning Bolt: Only usable once per Battle
+	Level 4		Turn. Drops lightning bolts on the enemy
+				Squadrons in a fixed area.
+				Conjure Elemental: Summons a Spirit of Wind.
+				
+				
+						Mind Magic
+						
+				Meditation: Caster recovers 8 MP.
+	Level 1		Bless: Increases 1 target Squadron's
+				Armor, Skill, and Speed by 1.
+				
+				Mind Blast: Strikes 1 target enemy Squadron
+	Level 2		with the power of the mind.
+				Dispel Curse: Removes curse from 1 target
+				Squadron.
+				
+				Bindings: Prevents enemy Squadrons in the
+				target Hex and its surroundings from moving.
+	Level 3		Affected Squadrons won't be able to act for
+				the entire Turn, even if attacked.
+				Magic Up: Increases Magic to allied Squadrons
+				in a fixed range (max value: 200).
+			
+			
+------------------------------------------------
+
+			PAGE 42
+			
+			
+				気弾掃射（ＭＩＮＤ ＳＴＯＲＭ）――一定範囲内
+				の全敵部隊に気弾を３発ずつ投げつける。
+	レベル４	召喚（ＳＵＭＭＯＮ ＭＯＮＳＴＥＲ）――
+				その地形に応じた、最強のモンスターを召
+				喚する。（部隊召喚表p.30参照）
+				
+				
+						暗黒魔法
+						
+				恐慌（ＦＥＡＲ）――指定した敵の１部
+	レベル１	隊の士気値を６下げる。
+				毒化（ＰＯＩＳＯＮ）――指定した敵の
+				１部隊を毒化させる。
+				
+				マヒ（ＰＡＲＡＬＹＳＩＳ）――指定した
+	レベル２	敵の１部隊をマヒさせる。
+				呪縛（ＣＵＲＳＥ）――指定した敵の１
+				部隊を再生・回復できなくする。
+				
+				這蟲（ＣＲＥＥＰＩＮＧ ＷＯＲＭＳ）――指定した
+	レベル３	ヘクスとその周囲に地這蟲を発生させる。
+				遅滞（ＳＬＯＷ）――指定したヘクスとそ
+				の周囲にいる敵部隊の動きを鈍くする。
+				
+				死の呪文（ＤＥＡＴＨ ＳＰＥＬＬ）――
+				指定した敵の１部隊（マスターを除く）
+	レベル４	を消滅させる。
+				悪魔召喚（ＳＵＭＭＯＮ ＤＥＶＩＬ）――
+				デビルロードを呼び出す。
+				
+				
+				Mind Storm: Hits all enemy Squadrons in a
+				fixed area with 3 Mind Blasts.
+	Level 4		Summon Monster: Summons the strongest Monster
+				available in the current terrain (refer to
+				the Squadrons' Summoning Chart in p.30).
+				
+				
+						Dark Magic
+						
+				Fear: Decreases Morale of 1 target enemy
+	Level 1		Squadron by 6 points.
+				Poison: Inflicts Poison to 1 target enemy
+				Squadron.
+				
+				Paralysis: Inflicts Paralysis to 1 target
+	Level 2		enemy Squadron.
+				Curse: Prevents 1 target enemy Squadron from
+				recovering HP.
+				
+				Creeping Worms: Unleashes creeping worms in
+				the target Hex and its surroundings.
+	Level 3		Slow: Reduces the movement speed of enemy
+				Squadrons in the target Hex and its
+				surroundings.
+				
+				Death Spell: Annihilates 1 target enemy
+	Level 4		Squadron (excluding Master).
+				Summon Devil: Summons a Devil Lord.
+			
+			
+------------------------------------------------
+
+			PAGE 43
+			
+			
+	◆戦闘画面の魔法◆
+	
+戦闘画面の魔法は全部で８種類あり、その部隊が持つ魔
+法のタイプによって、使える魔法が異なります。
+それぞれの魔法にはレベルがあり、高いレベルほど効果
+がありますが、その分消費するＭＰも増えます。
+
+魔法の攻撃●全魔法タイプで可能。魔法のエネルギー弾
+　で攻撃する。
+
+パワーアップ●火の魔法で可能。攻撃時、敵にあたえる
+　ダメージを大きくする。（攻撃力が上がる。）
+
+鎧をまとう●地の魔法で可能。装甲値を上げる。
+
+回復する●地水火風の魔法で可能。ＨＰを回復する。
+
+バリアをはる●精神魔法で可能。バリアをはることで敵
+　の攻撃によるダメージを防ぐ。その場合、レベルに
+　よって耐えられる攻撃回数が異なる。
+
+
+						攻撃回数
+						
+						
+			|>バリアをはる／２‐３
+			
+			
+							レベル
+							
+							
+魔法を実行して、もう一度ウィンドウをひらくと、回数
+が表示される。
+
+スピードアップ●風の魔法で可能。移動速度を上げる。
+
+火炎防御●水の魔法で可能。一定時間、炎によるダメー
+　ジをを防ぐ。
+
+無敵●暗黒魔法で可能。戦闘中、１回だけ使える。一定
+　時間無敵状態になり、攻撃力や移動速度が上がる。
+
+
+	◆Battle Screen Spells◆
+	
+There are 8 kinds of Spells usable on the Battle Screen.
+The Spells you have access to depend on the type of
+Magic the Squadron can cast.
+Spells have various Levels; higher Levels have stronger
+effects, but higher MP costs.
+
+Magic Attack ●		Usable with all Magic Types.
+					Fires a magical energy bullet.
+	
+Power Up ●			Usable with Fire Magic.
+					Increases inflicted damage when attacking.
+	
+Armor Up ●		Usable with Earth Magic.
+					Increases Armor.
+	
+Recover	●			Usable with Earth, Water, Fire, Wind Magic.
+					Recovers HP.
+	
+Shield ●		Usable with Mind Magic.
+					Casts a barrier that protects you from damage.
+					The Level of this Spell changes the number
+					of attacks the barrier will resist.
+
+
+				Amount of attacks
+						
+						
+					|> Shield /2-3
+			
+			
+									Level
+							
+							
+Once you cast this Spell, opening the window again will
+display the amount of attacks.
+
+Speed Up ●			Usable with Wind Magic.
+					Increases movement speed.
+	
+Fire Defense ●		Usable with Water Magic.
+					Temporarily protects from Fire damage.
+	
+Invincibility ●	Usable with Dark Magic.
+					Only usable once per Battle. Becomes
+					temporarily invincible, while also
+					increasing Attack and movement speed.
+			
+			
+------------------------------------------------
+
+			PAGE 44
+			
+			
+	付録		能力値一覧表
+	
+〔表の見方〕
+
+	(移)：移動力	(技)：技量値	(装)：装甲値
+	
+	(士)：士気値	(魔)：魔力		(機)：機敏値
+	
+耐性能力
+
+	(Ｓ)：石化しない	(Ｔ)：電気に強い	(Ｃ)：寒さに強い
+	
+	(Ｅ)：精気を奪われない	(Ｐ)：マヒしない	(Ｄ)：毒化しない
+	
+	(Ｎ)：呑みこまれない	(Ｈ)：熱に強い
+	
+	
+		部隊名			(移)	(技)	(装)	(士)	(魔)	(機)		耐性能力
+	
+	戦士
+	
+	騎士
+	
+	聖戦士
+	
+	黒騎士
+	
+	バーバリアン
+	
+	バーサーカー
+	
+	魔法使い
+	
+	魔道士
+	
+	魔術士
+	
+	エルフ
+	
+	エルフロード
+	
+	ゴブリン
+	
+	ミノタウルス
+	
+	ジャイアント
+	
+	リザードマン
+	
+	
+	Appendix		Stats Table
+	
+〔Reading the table〕
+
+	(Mv): Movement	(Sk): Skill	(Ar): Armor
+	
+	(Mo): Morale	(Mg): Magic	(Sp): Speed
+	
+Resistances
+
+	(S): Cannot be Petrified		(T): Strong to Electricity	(C): Strong to Cold
+	
+	(E): Energy cannot be stolen	(P): Cannot be Paralyzed	(D): Cannot be Poisoned
+	
+	(N): Cannot be Swallowed		(H): Strong to Heat
+	
+	
+	  Squadron Name			(Mv)	(Sk)	(Ar)	(Mo)	(Mg)	(Sp)	Resistances
+	
+	Warrior
+	
+	Knight
+	
+	Holy Warrior
+	
+	Black Knight
+	
+	Barbarian
+	
+	Berserker
+	
+	Magician
+	
+	Sorcerer
+	
+	Wizard
+	
+	Elf
+	
+	Elf Lord
+	
+	Goblin
+	
+	Minotaur
+	
+	Giant
+	
+	Lizardman
+			
+			
+------------------------------------------------
+
+			PAGE 45
+			
+			
+		部隊名			(移)	(技)	(装)	(士)	(魔)	(機)		耐性能力
+		
+	バシリスク
+
+	ドラゴン
+
+	小悪魔
+
+	大悪魔
+
+	デビルロード
+
+	ケンタウルス
+
+	ユニコーン
+	
+	マンティコア
+	
+	サーペント
+	
+	スフインクス
+	
+	フェニックス
+	
+	ガーゴイル
+	
+	ゴーレム
+	
+	タロス
+	
+	オーガ
+	
+	トロウル
+	
+	ワイバーン
+	
+	ヒュドラ
+	
+	グリフォン
+	
+	サイクロプス
+	
+	ヘルハウンド
+	
+	サラマンダー
+	
+	キマイラ
+	
+	スケルトン
+	
+	ゾンビー
+	
+	マミー
+	
+	バンパイア
+	
+	
+	  Squadron Name			(Mv)	(Sk)	(Ar)	(Mo)	(Mg)	(Sp)	Resistances
+		
+	Basilisk
+
+	Dragon
+
+	Imp
+
+	Archdemon
+
+	Devil Lord
+
+	Centaur
+
+	Unicorn
+	
+	Manticore
+	
+	Serpent
+	
+	Sphinx
+	
+	Phoenix
+	
+	Gargoyle
+	
+	Golem
+	
+	Talos
+	
+	Ogre
+	
+	Troll
+	
+	Wyvern
+	
+	Hydra
+	
+	Griffon
+	
+	Cyclops
+	
+	Hell Hound
+	
+	Salamander
+	
+	Chimera
+	
+	Skeleton
+	
+	Zombie
+	
+	Mummy
+	
+	Vampire
+			
+			
+------------------------------------------------
+
+			PAGE 46
+	
+
+		部隊名			(移)	(技)	(装)	(士)	(魔)	(機)		耐性能力
+
+	リッチー
+	
+	ロック鳥
+	
+	ガーディアン
+	
+	地の精霊
+	
+	水の精霊
+	
+	炎の精霊
+	
+	風の精霊
+
+	
+
+	マスター名			(移)	(技)	(装)	(士)	(魔)	(機)		耐性能力
+	
+	ジーク
+
+	バストラル
+	
+	シェルファ
+	
+	エル＝モア
+	
+	ガイラム
+	
+	ベルフレイム
+	
+	クリムト
+	
+	バルマー
+	
+	
+	  Squadron Name			(Mv)	(Sk)	(Ar)	(Mo)	(Mg)	(Sp)	Resistances
+
+	Lich
+	
+	Roc
+	
+	Guardian
+	
+	Spirit of Earth
+	
+	Spirit of Water
+	
+	Spirit of Flame
+	
+	Spirit of Wind
+
+	
+
+	  Master Name			(Mv)	(Sk)	(Ar)	(Mo)	(Mg)	(Sp)	Resistances
+	
+	Sieg
+
+	Vastral
+	
+	Shelpha
+	
+	Ell Moir
+	
+	Gailum
+	
+	Velfraim
+	
+	Klimt
+	
+	Balmer
+			
+			
+------------------------------------------------
+
+			PAGE 47
+			
+			
+
+			
+			
+取扱説明書・キャラクターカタログイラスト
+
+表紙イラスト：塩谷博明
+キャラクター・カットイラスト：竜胆丈二
+
+
+
+	バハムート戦記		キャラクターカタログ
+	
+	株式会社	セガ・エンタープライゼス
+	本　　社	〒144	東京都大田区羽田1-2-12
+				お客様サービスセンター
+				[phone]03(3742)7078(直通)
+	札幌支店	〒062	北海道札幌市豊平区豊平五条3-2-34
+				[phone]011(841)0248
+	関西支店	〒561	大阪府豊中市豊南南町東2-5-3
+				[phone]06(334)5331
+	博多支店	〒810	福岡県福岡市中央区白金2-5-15
+				[phone]092(522)4715
+				
+												禁無断転載
+												
+												
+Instruction Manual/Character Catalogue Illustrations
+
+Cover art: Hiroaki Shioya
+Characters/Cut Illustrations: Joji Rindo
+
+
+
+	Record of the Bahamut War		Character Catalogue
+	
+				Sega Enterprises Co., Ltd.
+Main Office		1 Chome-2-12 Haneda, Ota City, Tokyo 144-8531, Japan
+				Customer Service Center
+				[phone] 03(3742)7078 (direct line)
+Sapporo Branch	3 Chome-2-34 Toyohira, Sapporo, Hokkaido 062-0905, Japan
+				[phone] 011(841)0248
+Kansai Branch	2 Chome-5-3 Honanchohigashi, Toyonaka, Osaka 561-0814, Japan
+				[phone] 06(334)5331
+Hakata Branch	2 Chome-5-15 Shirogane, Chuoh, Fukuoka 810-0012, Japan
+				[phone] 092(522)4715
+				
+												All Rights Reserved
+			
+			
+------------------------------------------------
+
+			BACK COVER
+			
+			
+[bottom]
+
+
+				株式
+				会社	セガ・エンタープライゼス
+				
+				
+				Sega Enterprises Co., Ltd.

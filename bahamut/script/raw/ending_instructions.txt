@@ -1,0 +1,75 @@
+[10:20 AM] TheMajinZenki: while looking stuff up, this big ending I'm writing is apparently the "true" ending
+[10:20 AM] TheMajinZenki: so the other characters probably don't have all of this
+[10:21 AM] cccmar: So I'm guessing it depends on the scenario you pick, then, and how you play through it? This is actually kinda confusing.
+[10:22 AM] TheMajinZenki: I think anything else gets a more generic ending
+[10:22 AM] TheMajinZenki: the requirements for the true ending are very specific
+[10:23 AM] TheMajinZenki: pick scenario "Bloodthirsty Bahamut"
+[10:23 AM] TheMajinZenki: choose Sieg as Master
+[10:23 AM] TheMajinZenki: while Balmer, Klimt and Vastral are still undefeated, reach turn 15
+[10:24 AM] TheMajinZenki: that triggers the event where Raymond goes to kill Balmer alone
+[10:24 AM] cccmar: Oh, I see... so it's that kind of deal. That's really specific.
+[10:24 AM] TheMajinZenki: then you have to reach turn 40
+[10:24 AM] TheMajinZenki: long story short, you have to keep Vastral as the last enemy to defeat
+[10:25 AM] cccmar: You would probably never know this without a guide, lol. Maybe there are some hints in the manual, but I'm guessing it's one of those 'guidebook' games.
+[10:25 AM] TheMajinZenki: this website says that you can kiiiinda figure it out by some hints
+[10:26 AM] TheMajinZenki: but let's be honest, it's one of those things made so you have to buy the guide
+[10:26 AM] TheMajinZenki: this is a Japanese game after all
+[10:27 AM] TheMajinZenki: https://www.amazon.co.jp/%E3%83%90%E3%83%8F%E3%83%A0%E3%83%BC%E3%83%88%E6%88%A6%E8%A8%98%E5%85%AC%E5%BC%8F%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E3%83%86%E3%83%AC%E3%83%93%E3%83%A9%E3%83%B3%E3%83%89%E3%82%8F%E3%82%93%E3%81%B1%E3%81%A3%E3%81%8F-128/dp/4197410409
+[10:27 AM] TheMajinZenki: you can still buy it from Amazon Japan
+[10:27 AM] TheMajinZenki: as an aside, this is probably the official English title https://images-na.ssl-images-amazon.com/images/I/51cdojXXcvL.jpg
+[10:27 AM] TheMajinZenki: Record of Bahamut War
+
+...
+
+[3:30 AM] TheMajinZenki: okay, extra initial step: you have to be in Advanced Rules
+[3:31 AM] TheMajinZenki: 1 player only
+
+...
+
+3:34 AM] TheMajinZenki: hmm, according to this, Raymond only dies if you set him as a hero appointed to a squadron, and send him in battle against Klimt
+[3:34 AM] Supper: Oh, I see what you mean
+[3:34 AM] Supper: Yeah, I guess that makes sense considering the dialogue
+[3:35 AM] TheMajinZenki: heck, it seems it's not even something that happens automatically
+[3:35 AM] Supper: They really didn't want anyone to find this by accident
+[3:35 AM] TheMajinZenki: it looks like he literally needs to lose in battle
+[3:35 AM] TheMajinZenki: you could beat Klimt if you're "unlucky"
+
+...
+
+[3:37 AM] TheMajinZenki: okay, this other step guide also confirms those, so let me summarize it again
+[3:37 AM] TheMajinZenki: - play under advanced rules
+- choose "bloodthirsty bahamut" scenario
+- pick Sieg as Master
+- get to turn 15 with enemy masters Vastral, Klimt, Balmer still alive
+[3:38 AM] TheMajinZenki: - agree to Raymond's proposal to go alone to kill Balmer
+[3:38 AM] TheMajinZenki: - once Raymond returns, reach turn 40
+[3:38 AM] TheMajinZenki: - Raymond will become a Hero. Assign Raymond to a Squadron and send him to an Area where Klimt is present
+[3:39 AM] TheMajinZenki: - Send Raymond to fight Klimt in battle directly
+[3:39 AM] TheMajinZenki: - Defeat every other Master, leaving Vastral for last
+[3:39 AM] Supper: Wow
+[3:39 AM] Supper: That sure is some game design right there
+[3:40 AM] TheMajinZenki: - apparently, send Sieg to fight Vastral directly
+[3:40 AM] TheMajinZenki: that's the final step
+
+...
+
+[3:48 AM] TheMajinZenki: according to this other step guide, the final step is to send Sieg alone in the final area where Vastral is located
+[3:48 AM] TheMajinZenki: that means no other squadrons, I think
+[3:49 AM] TheMajinZenki: it's all very specific...
+[3:49 AM] Supper: So basically, they want you to use this strategy game to imitate the plot of a JRPG
+[3:49 AM] TheMajinZenki: yeah
+[3:49 AM] TheMajinZenki: it's like if you were reproducing the events from an anime
+[3:49 AM] TheMajinZenki: that doesn't exist
+
+...
+
+[3:47 AM] TheMajinZenki: about the true ending, while you have to play in advanced rules, the silver lining is that you can play at the lowest difficulty
+[3:47 AM] TheMajinZenki: (rules and difficulty are separate)
+
+...
+
+BUT WAIT THERE'S MORE!!!
+
+[3:41 AM] TheMajinZenki: hmm, while looking for other steps, I found something that mentions Ell Wynn
+[3:41 AM] TheMajinZenki: let me read
+[3:43 AM] TheMajinZenki: it says... at the title screen, press A Button more than twice and start the game. During the tutorial, the character explaining will change to a girl and Ell Wynn will become selectable

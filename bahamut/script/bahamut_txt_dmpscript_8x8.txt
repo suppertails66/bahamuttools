@@ -1,0 +1,809 @@
+
+* =================================================
+*  File save/load
+* =================================================
+*
+stringset 0x2B70 6
+
+* =================================================
+*  ? "LP/SP"
+* =================================================
+*
+stringset 0x2B22 2
+
+* =================================================
+*  ?
+* =================================================
+*
+stringset 0x2AC4 1
+
+* =================================================
+*  ?
+* =================================================
+*
+stringset 0x37D0 4
+
+* =================================================
+*  ?
+* =================================================
+*
+stringset 0x4594 3
+
+* =================================================
+*  invasion
+* =================================================
+*
+stringset 0x1325d 2
+
+* =================================================
+*  Tactical battle test menu
+* =================================================
+*
+stringset 0x769B 16
+
+* =================================================
+*  Battle test menu
+* =================================================
+*
+stringset 0x7ACE 28
+
+* =================================================
+*  Attacker won battle
+* =================================================
+*
+stringset 0x7B96 1
+
+* =================================================
+*  Defender won battle
+* =================================================
+*
+stringset 0x7BA4 1
+
+* =================================================
+*  Tie battle
+* =================================================
+*
+stringset 0x7BB2 1
+
+* =================================================
+*  Credits
+* =================================================
+*
+stringset 0xC0CB 5
+stringset 0xC0F1 7
+stringset 0xC11E 1
+stringset 0xC12B 1
+stringset 0xC133 3
+
+* =================================================
+*  ?
+* =================================================
+*
+stringset 0xD8AA 2
+
+* =================================================
+*  raymond messages
+* =================================================
+*
+stringset 0xEFCF 7
+
+* =================================================
+*  ?
+* =================================================
+*
+stringset 0x103EA 3
+
+* =================================================
+*  Title screen
+* =================================================
+*
+stringset 0xB2F1 3
+stringset 0xB30C 5
+stringset 0xB333 2
+string 0xB353
+string 0xB35B
+
+* =================================================
+*  Sound test track names
+* =================================================
+*
+stringset 0xB396 25
+
+* =================================================
+*  Header for hero info screen
+* =================================================
+*
+stringset 0x14A6E 2
+
+* =================================================
+*  Spell types
+* =================================================
+*
+stringsetfixedpad 0x1E9D8 8 10
+
+
+
+
+
+
+
+
+
+
+* =================================================
+*  Conjoining text for requests from other rulers.
+*  Format: "[name] ga [##] turn no [request text]"
+* =================================================
+*
+stringset 0x1082E 2
+
+* =================================================
+*  Ruler names
+* =================================================
+*
+stringsetfixed 0x27000 0xA 9
+
+* =================================================
+*  Names?
+* =================================================
+*
+stringsetfixed 0x3E060 0x10 65
+
+* =================================================
+*  Battle: spell list
+* =================================================
+*
+stringset 0x222FB 8
+stringset 0x2235C 1
+
+* =================================================
+*  Unit names
+* =================================================
+*
+offsetstringset 0x2D040 59
+
+* =================================================
+*  short location names
+* =================================================
+*
+stringset 0x2CDB3 1
+stringset 0x2CDC2 1
+stringset 0x2CDD2 1
+stringset 0x2CDE0 1
+stringset 0x2CDF0 1
+stringset 0x2CE00 1
+stringset 0x2CE10 1
+stringset 0x2CE23 1
+stringset 0x2CE34 1
+stringset 0x2CE43 1
+stringset 0x2CE52 1
+stringset 0x2CE61 1
+stringset 0x2CE70 1
+stringset 0x2CE84 1
+stringset 0x2CE96 1
+stringset 0x2CEA4 1
+stringset 0x2CEB4 1
+stringset 0x2CEC4 1
+stringset 0x2CED4 1
+stringset 0x2CEE5 1
+stringset 0x2CEF5 1
+stringset 0x2CF06 1
+stringset 0x2CF18 1
+stringset 0x2CF2A 1
+stringset 0x2CF3D 1
+stringset 0x2CF4F 1
+stringset 0x2CF5F 1
+stringset 0x2CF6F 1
+stringset 0x2CF82 1
+stringset 0x2CF93 1
+stringset 0x2CFA5 1
+stringset 0x2CFB6 1
+stringset 0x2CFC2 1
+stringset 0x2CFD1 1
+stringset 0x2CFE2 1
+stringset 0x2CFF1 1
+stringset 0x2CFFF 1
+stringset 0x2D011 1
+stringset 0x2D022 1
+stringset 0x2D031 1
+
+* =================================================
+*  Advisor message intros?
+* =================================================
+*
+stringset 0x37D0 4
+
+* =================================================
+*  Commentary messages from advisors?
+* =================================================
+*
+stringset 0x12A23 13
+
+* =================================================
+*  more advice
+* =================================================
+* 
+stringset 0x1680A 51
+
+* =================================================
+*  even more advice
+* =================================================
+* 
+stringset 0xFCE2 22
+
+* =================================================
+*  Dialogue for something (cutscene, ending?).
+*  Probably related to Jeek's scenario, since that
+*  one seems to involve Raymond.
+*  see code at C298
+* =================================================
+*
+#stringset 0x3E48E 191
+
+* =========
+*  section
+* =========
+*
+string 0x3E48F
+string 0x3E4B3
+string 0x3E4D8
+
+* =========
+*  section
+* =========
+*
+string 0x3E4DE
+
+* =========
+*  section
+* =========
+*
+string 0x3E501
+string 0x3E526
+
+* =========
+*  section
+* =========
+*
+string 0x3E52E
+string 0x3E553
+string 0x3E578
+string 0x3E57F
+
+* =========
+*  section
+* =========
+*
+string 0x3E59F
+
+* =========
+*  section
+* =========
+*
+string 0x3E5AA
+
+* =========
+*  section
+* =========
+*
+string 0x3E5B6
+string 0x3E5DB
+string 0x3E600
+
+* =========
+*  section
+* =========
+*
+string 0x3E61B
+
+* =========
+*  section
+* =========
+*
+string 0x3E638
+
+* =========
+*  section
+* =========
+*
+string 0x3E643
+
+* =========
+*  section
+* =========
+*
+string 0x3E64E
+
+* =========
+*  section
+* =========
+*
+string 0x3E674
+string 0x3E699
+
+* =========
+*  section
+* =========
+*
+string 0x3E6A4
+
+* =========
+*  section
+* =========
+*
+string 0x3E6CA
+string 0x3E6DA
+
+* =========
+*  section
+* =========
+*
+string 0x3E702
+string 0x3E727
+string 0x3E735
+string 0x3E752
+
+* =========
+*  section
+* =========
+*
+string 0x3E76D
+string 0x3E78E
+string 0x3E7B3
+
+* =========
+*  section
+* =========
+*
+string 0x3E7C3
+
+* =========
+*  section
+* =========
+*
+string 0x3E7D7
+
+* =========
+*  section
+* =========
+*
+string 0x3E7E6
+string 0x3E80B
+string 0x3E830
+
+* =========
+*  section
+* =========
+*
+string 0x3E849
+
+* =========
+*  section
+* =========
+*
+string 0x3E86E
+
+* =========
+*  section
+* =========
+*
+string 0x3E878
+
+* =========
+*  section
+* =========
+*
+string 0x3E888
+
+* =========
+*  section
+* =========
+*
+string 0x3E8A7
+
+* =========
+*  section
+* =========
+*
+string 0x3E8C4
+
+* =========
+*  section
+* =========
+*
+string 0x3E8E9
+
+* =========
+*  section
+* =========
+*
+string 0x3E90B
+string 0x3E920
+string 0x3E945
+
+* =========
+*  section
+* =========
+*
+string 0x3E951
+
+* =========
+*  section
+* =========
+*
+string 0x3E976
+
+* =========
+*  section
+* =========
+*
+string 0x3E985
+
+* =========
+*  section
+* =========
+*
+string 0x3E993
+
+* =========
+*  section
+* =========
+*
+string 0x3E9AC
+
+* =========
+*  section
+* =========
+*
+string 0x3E9C7
+
+* =========
+*  section
+* =========
+*
+string 0x3E9E6
+string 0x3EA0B
+
+* =========
+*  section
+* =========
+*
+string 0x3EA22
+string 0x3EA47
+
+* =========
+*  section
+* =========
+*
+string 0x3EA68
+string 0x3EA8D
+
+* =========
+*  section
+* =========
+*
+string 0x3EAA4
+string 0x3EAC9
+string 0x3EACF
+string 0x3EAED
+
+* =========
+*  section
+* =========
+*
+string 0x3EAFC
+string 0x3EB21
+
+* =========
+*  section
+* =========
+*
+string 0x3EB34
+string 0x3EB59
+string 0x3EB7E
+string 0x3EBA3
+
+* =========
+*  section
+* =========
+*
+string 0x3EBAE
+string 0x3EBD3
+
+* =========
+*  section
+* =========
+*
+string 0x3EBF4
+string 0x3EC19
+string 0x3EC3E
+string 0x3EC63
+string 0x3EC88
+
+* =========
+*  section
+* =========
+*
+string 0x3EC8E
+string 0x3ECB3
+string 0x3ECD8
+string 0x3ECFD
+
+* =========
+*  section
+* =========
+*
+string 0x3ED11
+string 0x3ED37
+string 0x3ED5C
+string 0x3ED81
+string 0x3EDA6
+
+* =========
+*  section
+* =========
+*
+string 0x3EDB0
+string 0x3EDD5
+string 0x3EDFA
+string 0x3EE1F
+
+* =========
+*  section
+* =========
+*
+string 0x3EE3B
+string 0x3EE60
+string 0x3EE85
+string 0x3EEAA
+
+* =========
+*  section
+* =========
+*
+string 0x3EECC
+string 0x3EEF2
+string 0x3EF17
+string 0x3EF3C
+string 0x3EF61
+
+* =========
+*  section
+* =========
+*
+string 0x3EF77
+string 0x3EF9C
+string 0x3EFC1
+string 0x3EFE6
+
+* =========
+*  section
+* =========
+*
+string 0x3F00A
+
+* =========
+*  section
+* =========
+*
+string 0x3F01D
+string 0x3F042
+string 0x3F067
+string 0x3F08C
+
+* =========
+*  section
+* =========
+*
+string 0x3F0A8
+string 0x3F0CD
+string 0x3F0F2
+
+* =========
+*  section
+* =========
+*
+string 0x3F113
+string 0x3F11B
+string 0x3F140
+
+* =========
+*  section
+* =========
+*
+string 0x3F14F
+string 0x3F174
+string 0x3F199
+
+* =========
+*  section
+* =========
+*
+string 0x3F1A6
+string 0x3F1CB
+
+* =========
+*  section
+* =========
+*
+string 0x3F1E5
+string 0x3F20A
+
+* =========
+*  section
+* =========
+*
+string 0x3F222
+string 0x3F247
+string 0x3F26C
+string 0x3F290
+
+* =========
+*  section
+* =========
+*
+string 0x3F2B5
+string 0x3F2DA
+string 0x3F300
+
+* =========
+*  section
+* =========
+*
+string 0x3F31B
+string 0x3F340
+
+* =========
+*  section
+* =========
+*
+string 0x3F35A
+
+* =========
+*  section
+* =========
+*
+string 0x3F37B
+string 0x3F3A0
+string 0x3F3AF
+
+* =========
+*  section
+* =========
+*
+string 0x3F3C7
+
+* =========
+*  section
+* =========
+*
+string 0x3F3EC
+string 0x3F411
+string 0x3F436
+string 0x3F45B
+string 0x3F480
+
+* =========
+*  section
+* =========
+*
+string 0x3F485
+string 0x3F4AA
+string 0x3F4CF
+string 0x3F4F4
+
+* =========
+*  section
+* =========
+*
+string 0x3F50D
+string 0x3F532
+string 0x3F557
+string 0x3F57C
+string 0x3F5A1
+
+* =========
+*  section
+* =========
+*
+string 0x3F5B8
+
+* =========
+*  section
+* =========
+*
+string 0x3F5D9
+
+* =========
+*  section
+* =========
+*
+string 0x3F5F0
+string 0x3F615
+string 0x3F63A
+
+* =========
+*  section
+* =========
+*
+string 0x3F64A
+string 0x3F66F
+
+* =========
+*  section
+* =========
+*
+string 0x3F675
+
+* =========
+*  section
+* =========
+*
+string 0x3F68D
+string 0x3F6B2
+
+* =========
+*  section
+* =========
+*
+string 0x3F6D2
+string 0x3F6F7
+
+* =========
+*  section
+* =========
+*
+string 0x3F71A
+string 0x3F73F
+
+* =========
+*  section
+* =========
+*
+string 0x3F744
+string 0x3F769
+
+* =========
+*  section
+* =========
+*
+string 0x3F77D
+string 0x3F7A3
+string 0x3F7C8
+string 0x3F7E8
+
+* =========
+*  section
+* =========
+*
+string 0x3F7FE
+string 0x3F823
+string 0x3F848
+string 0x3F86D
+
+* =========
+*  section
+* =========
+*
+string 0x3F889
+string 0x3F8A2
+string 0x3F8C5
+string 0x3F8E4
+string 0x3F906
+
+* =========
+*  section
+* =========
+*
+string 0x3F92E
+string 0x3F953
+
+* =========
+*  section
+* =========
+*
+string 0x3F95A
+string 0x3F96B
+string 0x3F990
+string 0x3F9B5
+

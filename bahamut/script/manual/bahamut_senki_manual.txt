@@ -1,0 +1,4301 @@
+				FRONT COVER
+				
+	バハムート戦記
+	
+			取扱説明書
+			
+	Record of the Bahamut War
+	
+			Instruction Manual
+			
+------------------------------------------------
+
+			PAGE 2
+			
+このたびは、メガドライブカートリ
+ッジ「バハムート戦記」をお買い上
+げいただき、誠にありがとうござい
+ました。ゲームを始める前にこの取
+扱説明書と、別冊のキャラクターカ
+タログをお読みいただきますと、よ
+り楽しく遊ぶことができます。
+
+
+ＣＯＮＴＥＮＴＳ
+
+バハムートの歴史	___________________	 4
+
+ゲームの前に	_______________________	 8
+	操作方法	_______________________	 9
+	基本用語	_______________________	10
+	ゲームの始め方	___________________	12
+	
+ゲーム画面	___________________________	16
+	戦略画面の見方	___________________	16
+	戦術画面の見方	___________________	18
+	戦闘画面の見方	___________________	20
+	観戦画面	_______________________	22
+	
+オプション画面	_______________________	23
+
+コマンド	___________________________	27
+
+バハムート大陸全図(BAHAMUT MAP)	_______	60
+
+使用上のご注意	_______________________	62
+
+
+Thank you for buying "Record of the Bahamut War" for the Sega Mega Drive. Before playing the game, we recommend reading this manual and the supplementary character catalog to enhance your experience.
+
+
+CONTENTS
+
+History of Bahamut	___________________	 4
+
+Before Playing	_______________________	 8
+	Controls	_______________________	 9
+	Terminology	_______________________	10
+	How to Begin	___________________	12
+	
+Game Screens	_______________________	16
+	Strategy Screen	___________________	16
+	Tactical Screen	___________________	18
+	Battle Screen	___________________	20
+	Spectator Screen	_______________	22
+	
+Option Screen	_______________________	23
+
+Commands	___________________________	27
+
+Bahamut Map	___________________________	60
+
+Safety Warnings	_______________________	62
+
+
+------------------------------------------------
+
+			PAGE 3
+
+			
+選ばれし人々よ、
+幻想と魔法の世界、
+バハムートへようこそ。
+
+私は太古の昔から
+バハムートの歴史をつかさどる者。
+
+あなた方は、今、
+大陸の覇者となるべく選ばれた。
+
+これより、バハムートの歴史を作るのは
+あなた方自身。
+
+多くの戦陣を駆け抜け、
+勝利の栄冠を勝ちとる日まで……
+
+
+Chosen Ones,
+welcome to Bahamut,
+a world of illusions and magic.
+
+I have ruled over the history of Bahamut
+since the most ancient of times.
+
+You have been chosen among many
+to become the undisputed conqueror of this continent.
+
+Through your own deeds, you will be writing
+the history of Bahamut.
+
+You will go through countless battlefields,
+until the day you are crowned with the laurels of victory...
+
+
+------------------------------------------------
+
+			PAGE 4
+
+
+									バハムートの歴史
+
+　遥かな昔、このバハムート大陸ができて間もないころ、そ
+こには異形の者たちが、法も秩序もなく暮らしていた。
+　やがてその中から、強大な暗黒の力を思うままに操る邪悪
+な一団が生まれた。大魔王クリムトが率いる悪魔族である。
+悪魔たちはその後、長きにわたり大陸を邪悪な強権によって
+支配しつづけ、抵抗する者はことごとく滅ぼされた。しかし、
+時の流れは、このような一方的悪の支配をいつまでも許して
+はいなかった。
+　悪魔族に最後まで抵抗した巨龍ベルフレイムとその一族の
+討伐に、クリムトが手を焼いていたころ、そのすきをつくよ
+うに、それまで抑圧されていた善の力が、人間族を中心に広
+まりはじめた。
+　人々を統率したのは、後に、大陸に平和と安定の時代をも
+たらしたフォーリア王家の創始者たちだった。彼らは、悪の
+根源、大魔王クリムトを倒すべく、暗黒魔法に対し、地の精
+霊魔法を使う聖騎士団を組織し、来るべき戦いの日に備えた。
+
+
+									History of Bahamut
+
+A long time ago, the continent of Bahamut was teeming with grotesque creatures, living without law or order.
+Before long, a certain group of evil creatures, capable of powerful dark powers, was born: the Demon race, led by Devil King Klimt. These demons ruled over the continent for a long time, killing any who would defy them. But as time went by, such cruelty could no longer be tolerated.
+While Klimt was busy dealing with the Great Dragon Velfraim and his kin, the power of Good, which had been suppressed until then, began spreading among the Human race.
+The leader of the Humans was the founder of the Pholia royal line, which would later bring an age of peace and stability to the continent. In order to defeat the root of all evil, Devil King Klimt, the Humans formed the Order of the Holy Knights, trained in the use of Earth Spirit magic, which would counter the demonic, Dark magic.
+
+
+------------------------------------------------
+
+			PAGE 5
+
+　ベルフレイムたちドラゴン族を葬ったクリムトは、そのよ
+うな人間の動きを知るやいなや、ただちに全軍を引きつれて
+これをつぶそうとした。無数の悪魔を迎え撃つ聖騎士団は、
+偉大な魔術師であり、また一流の剣士でもある二人の英雄、
+レイモンド卿とバルマー卿に指揮され、勇敢に立ち向かった。
+　そして、幾多の戦いがくりかえされ、多くの血が流れた。
+いつしか戦況は硬直化し、人々に焦りの色が見えるようになっ
+たそのとき、レイモンドとバルマーは最後の決断を下した。
+それは、古来より、暗黒の力の結晶として恐れられ、レイモ
+ンドの善なる白き力によって地下に封じられていた、妖刀ベ
+サルスネーガの復活であった。ベサルスネーガは相手の精気
+を吸いとる魔法の剣であるが、それは同時に、使い手の命を
+も奪ってしまうといわれていた。しかし、クリムトを倒すに
+はもはやこれを使うしかないと考えたバルマーが、反対する
+レイモンドを説き伏せ、自ら剣をとってクリムトに決戦を挑
+んだ。
+
+After finishing off Velfraim and the Dragons, Klimt got wind of the Humans' plan, and immediately sent his entire army to crush them. Two great heroes valiantly led the Holy Knights against the unending army of Demons: Sir Raymond, the greatest wizard, and Sir Balmer, the strongest swordsman.
+After numerous battles, and too much bloodshed, the tide of the war was unfavorable to the Human side. Defeat was a likely outcome. That is when Raymond and Balmer made a grave decision: unsealing the magic sword Betharusnega. This sword was feared since ancient times. Its blade is pure, crystallized dark power, capable of absorbing the essence of its opponent with a single strike, at the cost of the wielder's life. Sir Raymond himself had sealed it deep beneath the land using the strongest white magic he was capable of. However, it was the only option left to defeat Klimt. Raymond was opposed to this plan, but Balmer in the end persuaded him, and he personally challenged Klimt to mortal combat, wielding Betharusnega.
+
+
+------------------------------------------------
+
+			PAGE 6
+
+　かくして、壮絶な戦いの末、ついにクリムトは倒れた。だ
+が、妖刀の暗黒の力を一身に受けたバルマー卿もまた命を落と
+してしまったのだった。
+　それから長い年月が過ぎ去った。フォーリア王家はクリム
+トを滅ぼした後、フォーリア聖騎士団に治安を守らせ、およ
+そ二千年余り、大陸を平和に治めていた。
+　ところが、ここにいたって、再び、暗黒の力の影がバハム
+ートを脅かした。一部の魔術士たちがフォーリア王家に背き、
+忘れ去られた暗黒の力を求めて、禁断の暗黒魔法を使ったの
+だ。これらの活動はフォーリア聖騎士団による厳しい弾圧を
+受けたものの、王家の威光はこれを機に少しずつ落ちていっ
+た。それとともに、大陸に満ちていた善なる白き力も衰退し、
+善と悪のバランスが崩れると、またたくまに、邪悪を呼ぶ暗
+黒の力がバハムートを包み込んだ。
+
+After a fierce, valiant battle, Klimt was finally defeated. However, Sir Balmer's own life was taken by the demonic blade's dark power.
+Years passed. After defeating Klimt, Pholia's Holy Knights kept protecting peace in the continent for the following 2000 years.
+And then, the shadow of darkness threatened Bahamut once again. A group of wizards, in defiance of the rules set by the Pholia royal line, sought the power of darkness, and researched the forbidden dark magic. Though they were promptly and harshly suppressed by the Holy Knights, the damage was already done: the authority of the King had been irremediably challenged. With the power of good in decline, the balance of good and evil was broken: the dark power was returning to Bahamut once more.
+
+
+------------------------------------------------
+
+			PAGE 7
+
+　あらゆる天災が大地を襲い、人も土地も荒廃した。後にい
+う「闇の時代」の到来である。そして人々が混乱の中でまの
+あたりにしたものは、遠い昔に滅びた者たちの蘇る姿であっ
+た。東の湿原にクリムト、北東の火山にベルフレイム、さら
+に、かつてフォーリア聖騎士団が地下に閉じ込めた巨人族ま
+でも、ガイラムという王を掲げて地上に再び現れた。けれど
+も、それにもまして忌まわしいのは、フォーリアの王城の下
+で永遠の眠りについていたあの英雄バルマー卿が、「闇の時代」
+がもたらした力により、恐怖のアンデッドとして蘇ったこと
+だった。
+これにより王家は崩壊し、大陸の指導者は消え去った。
+
+　そうして、時代は、新たなバハムートの指導者を求め、戦
+乱の世へと移っていく…
+
+The continent was torn by a series of natural disasters. Both the people and the land itself were suffering. It was the beginning of the "Age of Darkness". Amidst the chaos, some individuals that were supposed to have been long gone made their return.
+In the eastern marshes, Klimt; in the northeastern volcanoes, Velfraim; even Gailum, the King of the Giants, who the Pholian Holy Knights had once sealed underground, had made his comeback. But the most shocking return was that of Sir Balmer. The hero was supposed to be resting in peace beneath Castle Pholia, but he had come back as the undead, the symbol of this dreaded "Age of Darkness". His existence completely crushed the authority of the Pholian royal line. The continent no longer had a leading figure.
+
+The only way to bring an end to this new era of turmoil would be for one of them to stand above all, as the new undisputed ruler of Bahamut...
+
+
+------------------------------------------------
+
+			PAGE 8
+
+			ゲームの前に
+
+　ファンタジー・ウォーゲーム「バハムート戦記」は、１
+～４人でプレイでき、３つのルールと４つのシナリオで
+構成された、入門者から上級者まで楽しめる、シミュレ
+ーションゲームです。
+　あなたは、マスターと呼ばれる一国の支配者となり、
+戦士や魔法使い、さまざまなモンスターを率いて、大陸
+を制覇するべく、戦いをくりひろげます。
+　自分以外のすべてのマスターを滅ぼし、バハムートの
+覇者となる日を目指して健闘してください！
+
+				接続のしかた
+			
+　ゲームを始める前に、コントロールパッドが本体と正しく接
+続してあるか確認してください。
+
+			CONTROL1		CONTROL2
+	
+			[megadrive]
+			
+		[controller1]	[controller2]
+			
+１Ｐコントロールパッド		２Ｐコントロールパッド
+
+
+　このゲームは、２人以上で遊ぶ場合は、コントロールパッド
+を２個使用することもできます。（別売のコントロールパッド
+をお求めください。）
+　２Ｐコントロールパッドの使い方は、OPTIONSのCONTROLLERを参
+照してください。（→p.23）
+
+
+			Before Playing
+
+"Record of the Bahamut War" is a fantasy strategy game for 1 to 4 players. With its three sets of rules and four scenarios, it can be enjoyed by beginners and experts alike.
+You play as a Master, the ruler of a nation, leading an army of knights, wizards and monsters in a series of battles to conquer the continent.
+Your ultimate goal is to defeat every other Master, and become the undisputed ruler of Bahamut!
+
+				How to attach the control pads
+			
+Before starting to play, make sure your control pads are properly attached to the Mega Drive.
+
+			CONTROL1		CONTROL2
+	
+			[megadrive]
+			
+		[controller1]	[controller2]
+			
+	1P Control Pad		2P Control Pad
+
+
+You will need two control pads to play this game with 2 or more players (you may need to buy an additional control pad).
+Please refer to the CONTROLLER entry in the OPTIONS menu when using a second control pad (-> p.23).
+
+
+------------------------------------------------
+
+			PAGE 9
+
+			操作方法
+
+　コントロールパッドの操作は、画面によって異なりま
+すが、基本となる操作方法は次のとおりです。
+
+
+						スタートボタン
+						
+						
+										Ｃボタン
+										
+	[mega drive controller]			Ｂボタン
+									
+								Ａボタン
+		方向ボタン
+		
+		
+スタートボタン：ゲームスタート
+				戦闘画面時のポーズ（一時停止）
+				
+方向ボタン：羽ペン（カーソル）の移動
+			コマンドなどを選ぶ
+			
+Ａボタン：補助的な操作
+Ｂボタン：キャンセル（もとの画面に戻る）
+Ｃボタン：各種決定
+
+
+			Controls
+
+While the functions may change depending on the screen, the basic use of the control pad is as follows:
+
+
+						Start Button
+						
+						
+										C Button
+										
+	[mega drive controller]			B Button
+									
+								A Button
+		D-Pad
+		
+		
+Start Button:	Starting the game
+				Pausing during Battle Screen
+				
+D-Pad:	Moving the quill pen (cursor)
+		Choosing commands
+			
+A Button:	Auxiliary controls
+B Button:	Canceling (Returning to the previous screen)
+C Button:	Confirming
+
+
+------------------------------------------------
+
+			PAGE 10
+
+			基本用語
+			
+　ゲームの前に、この「バハムート戦記」をプレイする
+ための、基本用語をまとめます。必要に応じて参照して
+ください。
+
+ターン
+政策や作戦実行などの順番が、各マスターを一巡するま
+でを１ターンといいます。
+
+マスター
+「バハムート戦記」に最大で８人登場する支配者たちです。
+このなかから、１人を選んで操作してください。操作し
+ないマスターは、コンピューターが受け持ちます。自分
+のマスターが死ぬとゲームオーバーです。
+
+エリア
+バハムート大陸は40の領地に別れており、その１つ１つ
+をエリアと呼びます。それぞれのエリアには名前がつい
+ています。（バハムート全図→p.60）
+
+ＬＰ
+毎ターン全マスターが、支配するエリアに応じて受け取
+る土地ポイントのことで、それぞれのマスターの国力を
+示すものです。これによって、召集部隊を雇うことがで
+きます。
+
+ＳＰ
+戦いに勝つと、倒した相手に応じて獲得できる召喚ポイ
+ントのことです。これによって、召喚部隊を雇うことが
+できます。
+
+			Terminology
+			
+"Record of the Bahamut War" uses certain terms that not everyone may be familiar with. We suggest reading the following pages before playing the game, or referencing them as needed.
+
+Turn
+A "Turn" is the time a Master will be in control, choosing policies, executing strategies, and more.
+
+Master
+A "Master" is one of the 8 playable rulers. The player will pick one of them, and the rest will be controlled by the computer. If your Master is killed, the game will be over.
+
+Area
+An "Area" is one of the 40 territories in the Bahamut continent. Each area has its own name (Bahamut Map -> p.60).
+
+LP
+"LP" stands for "Land Points". Every Master gains LP every turn depending on the number of areas they have conquered. LP are used to conscript squadrons.
+
+SP
+"SP" stands for "Summon Points". SP are acquired by winning battles, depending on the number of enemies defeated. SP are used to summon squadrons.
+
+
+------------------------------------------------
+
+			PAGE 11
+
+部隊
+各マスターが動かす兵
+員のことです。このゲ
+ームには、戦士・魔法使
+い・モンスターなど、50
+種類以上の部隊があり、
+ＬＰで雇う召集部隊と、
+ＳＰで雇う召喚部隊が
+あります。部隊は１エ
+リアに12部隊まで配置
+できます。
+
+ＨＰ（Hit Point）
+体力点のことで、これが０になると死んでしまいます。
+
+ＭＰ（Magic Point）
+魔法を使える者だけが持つ魔法点のことで、これが０に
+なると魔法を使えなくなります。
+
+ヘクス
+戦術マップ上で、戦場を区
+切るために使われる、６角
+形のマス目のことで、これ		[battlefield map]
+を単位として、部隊の配置・
+移動などをおこないます。
+								ヘクス
+								
+Squadron
+This term refers to the troops controlled by each Master.
+There are more than 50 different types of squadrons in this game, like knights, wizards, and monsters. Some of them can be conscripted, while others can be summoned. Up to 12 squadrons can be placed in a single area.
+
+HP (Hit Points)
+The health of a squadron. The squadron is annihilated if it drops to 0.
+
+MP (Magic Points)
+Squadrons capable of casting spells require MP to do so. If it drops to 0, they can no longer cast spells.
+
+Hex
+This refers to the six-sided tiles that compose the tactical map. You can position and move your squadrons over these "hexes".
+
+								[battlefield map]
+								
+								Hex
+								
+
+------------------------------------------------
+
+			PAGE 12
+
+			ゲームの始め方
+			
+			
+					タイトル画面でスタートボタ
+					ンを押すと、次の画面が出て、
+					羽ペンが現れます。項目を選
+					び、決定してください。
+					
+					
+					
+ＮＥＷ　ＧＡＭＥ
+新しくゲームを始める
+ときに選びます。
+
+ＣＯＮＴＩＮＵＥ
+プレイしたゲーム内容
+を保存しておくと、続
+きから始められます。
+番号を選び、Ｃボタン
+で決定してください。
+
+ＯＰＴＩＯＮＳ
+ゲームの補助的な機能を操作
+できます。
+（オプション画面→p.23）
+
+				ゲームスタート
+				
+　それではゲームを始めましょう。新しくゲームを始めると
+きは、まず、そのゲームの内容を設定します。
+上の画面でNEW GAMEを選び、決定してください。
+
+
+			How to Begin
+			
+			
+					Press Start Button at the Title Screen,
+					and the screen will change as follows.
+					A quill pen cursor will appear, allowing
+					you to choose one of the menu entries.
+					
+					
+					
+NEW GAME
+Choose this entry if you
+wish to start a new game.
+
+CONTINUE
+If you have saved your game
+progress, choose this entry
+to continue your game.
+Select one of the numbered
+files, and press C Button
+to confirm.
+
+OPTIONS
+Choose this entry to change
+various game options.
+(Option Screen -> p.23)
+
+				Game Start
+				
+Now, let us start playing. Once you start a new game,
+you will be asked to select your preferred game content.
+First, select NEW GAME as shown in the previous screenshot.
+								
+
+------------------------------------------------
+
+			PAGE 13
+			
+(1)ルールの選択		ゲームのルールを決定します。ルー
+					ルは、ゲームのシステムが単純か複
+					雑かによって分けられています。
+					
+					
+		基本ルール：入門者向け
+			ある程度簡単にゲームを進められます。
+				
+実行できるコマンドは、政策で５種類（情報・外交・委任・
+機能・終了）、作戦で７種類（情報・移動・侵攻・召集・委任・
+機能・終了）
+部隊は召集部隊のみ
+戦術画面は簡易画面（ゲーム中に切りかえ可能）
+イベントなし
+
+		通常ルール：ある程度慣れた人向け
+			基本ルールより、多少ゲーム性が高くなります。
+			
+実行できるコマンドは、政策で６種類（基本ルールの５種類＋
+策略）、作戦で１２種類（基本ルールの７種類＋偵察・召喚・策
+略・訓練・休養）
+部隊は召集部隊および召喚部隊
+戦術画面はヘクス画面（ゲーム中に切りかえ可能）
+イベント可能
+
+		上級ルール：本格的に楽しみたい人向け
+			よりリアルにゲームを楽しめます。
+			
+実行できるコマンドは、政策で６種類（通常ルールと同じ）
+作戦で１４種類（通常ルールの１２種類＋探索・英雄）
+部隊は召集部隊および召喚部隊
+戦術画面はヘクス画面（ゲーム中に切りかえ可能）
+イベントあり
+
+
+(1) Choosing a rule set		You have to choose a set of rules
+							when you start a game.
+							These rule sets determine how easy
+							or complex the game will be.
+					
+					
+		Basic Rules: For beginners.
+			This set makes the game relatively easy to play.
+				
+The Basic Rules are as follows:
+	you can use 5 commands during the Policy phase
+		(Info, Negotiate, Delegate, Options, End);
+	you can use 7 commands during the Tactics phase
+		(Info, Move, Invade, Muster, Delegate, Options, End);
+	you can gather troops only through the Muster command;
+	the Strategy Screen defaults to Simple (this can be changed in-game);
+	no events will be triggered with these rules.
+
+		Normal Rules: For experienced players.
+			The game experience will be improved over the basic rules.
+			
+The Normal Rules are as follows:
+	you can use 6 commands during the Policy phase
+		(Info, Negotiate, Scheme, Delegate, Options, End);
+	you can use 12 commands during the Tactics phase
+		(Info, Move, Scout, Invade, Muster, Summon, Scheme,
+		 Train, Rest, Delegate, Options, End);
+	you can gather troops through the Muster and Summon commands;
+	the Strategy Screen defaults to Hex (this can be changed in-game);
+	events may be triggered.
+	
+		Advanced Rules: For hardcore players.
+			Choose this if you really like a challenge.
+			
+The Advanced Rules are as follows:
+	you can use 6 commands during the Policy phase
+		(Info, Negotiate, Scheme, Delegate, Options, End);
+	you can use 14 commands during the Tactics phase
+		(Info, Move, Scout, Invade, Muster, Summon, Scheme,
+		 Train, Rest, Search, Heroes, Delegate, Options, End)
+	you can gather troops through the Muster and Summon commands;
+	the Strategy Screen defaults to Hex (this can be changed in-game);
+	events will be triggered.
+								
+
+------------------------------------------------
+
+			PAGE 14
+			
+(2)シナリオの決定
+シナリオによって操作できる
+マスターの人数が異なり、そ
+れぞれの勢力範囲が違ってき
+ます。
+
+血に染まりしバハムート
+登場するマスター８人：ジーク・バストラル・シェルファ・
+エル＝モア・ガイラム・ベルフレイム・クリムト・バルマー（基
+本ルールでは、バルマーを除く７人）
+それぞれ１エリアを支配している状態でスタート
+
+黄昏の秩序と暁の混沌と
+登場するマスター７人：ジーク・バストラル・シェルファ・
+エル＝モア・ガイラム・ベルフレイム・クリムト
+それぞれ複数のエリアを支配している状態でスタート
+
+闇の時代の鎮魂歌
+登場するマスター３人：ジーク・バストラル・クリムト
+それぞれ複数のエリアを支配している状態でスタート
+
+聖戦士と狂戦士の戦い
+登場するマスター２人：ジーク・バストラル
+それぞれ１エリアを支配している状態でスタート
+初めてゲームをする人の練習用に適しています。
+
+
+(3)プレイヤー数の決定
+観戦を選ぶと、ゲームへの途
+中参加はできません。
+（観戦画面→p.22参照）
+
+
+(2) Choosing a scenario
+The various scenarios change
+the number of Masters present
+and the number of Areas they
+start with.
+
+The Bloodthirsty Bahamut
+There are 8 Masters available: Sieg, Vastral, Shelpha,
+Ell Moir, Gailum, Velfraim, Klimt, Balmer (if using the
+basic rules, Balmer is excluded).
+Each Master starts with 1 Area.
+
+Order at Dusk, Chaos at Dawn
+There are 7 Masters available: Sieg, Vastral, Shelpha,
+Ell Moir, Gailum, Velfraim, Klimt.
+Each Master starts with multiple Areas.
+
+Requiem of the Age of Darkness
+There are 3 Masters available: Sieg, Vastral, Klimt.
+Each Master starts with multiple Areas.
+
+Holy Warriors vs Berserkers
+There are 2 Masters available: Sieg, Vastral.
+Each Master starts with 1 Area.
+This scenario is ideal for practicing the game.
+
+
+(3) Choosing the number of players
+You may also choose to spectate,
+but be aware that you won't be able
+to join the game in progress.
+(Spectator Screen -> p.22)
+								
+
+------------------------------------------------
+
+			PAGE 15
+			
+(4)マスターの決定
+選んだマスターによって、率
+いる部隊の種類が異なります。
+なお、基本ルールでは、バル
+マーは選べません。
+
+(5)ゲームの難易度
+ゲームレベルは１～５まであ
+り、これによってイベントや
+中立エリアの勢力に差がでま
+す。また、レベルが高いほど、
+戦闘画面になったときの敵の
+数が多くなります。（最大５部
+隊）
+
+(6)ゲームの設定変更
+変更する場合は変更内容を選び、ＡまたはＣボタンで変更して
+ください。変更後はＢボタンを押してください。
+
+
+
+	最終ターンを変更した場合、設定ターン以内にゲー
+	ムの決着がつかないと引分けになり、支配エリアと
+	ＬＰが多い順にマスター名が表示されて終了します。
+	
+	
+(7)最終確認		いよいよゲーム開始です。Ｃボタンを押
+				してください。
+				
+				
+(4) Choosing a Master
+The Master changes the type of
+squadrons you will be able to
+lead. Keep in mind that you
+may not select Balmer if
+you've chosen the basic rules.
+
+(5) Game difficulty
+The difficulty level ranges
+between 1 and 5, influencing
+the events and strength of
+the neutral Areas.
+The higher the level, the
+more enemy units will be
+deployed in the Battle Screen
+(up to 5 squadrons).
+
+(6) Changing game settings
+To change a setting, highlight it and press A or C Button.
+Once you are done, press B Button.
+
+
+
+	If you cannot end the game within the number of turns
+	you've set, the game will end in a tie.
+	The Masters will be then listed in order of conquered
+	Areas and LP.
+	
+	
+(7) Final checks	The game is finally about to begin.
+					Press C Button to start.
+								
+
+------------------------------------------------
+
+			PAGE 16
+			
+			ゲーム画面
+			
+			
+　ゲーム画面には、戦略画面・戦術画面・戦闘画面の３種類が
+あります。通常は戦略画面でゲームを進め、戦争になると戦
+術画面、さらに戦闘画面へと切りかわります。
+
+
+				戦略画面の見方
+				
+				
+戦略画面は、大陸の全体図を表示する、このゲームのメイン
+画面です。ゲームを進める大部分の操作は、この画面上でお
+こないます。			
+
+
+(1)		第　１ターン　政策
+								情報		(1)	現在のターン
+(2)			ジーク				外交			残りLP・SP
+								策略		(2)	マスター名
+								委任		(3)	戦略マップ
+(3)								機能		(4)	メッセージ
+								終了 		(5)	コマンドウィ
+												ンドウ
+								
+		ご命令を？
+		
+					(4)			(5)
+					
+					
+		戦略画面での手順
+		
+		
+ゲームは次の順のくりかえしで進められます。
+
+１．ターン開始				２．イベント（通常・上級ルール）
+
+					=>
+					
+					
+					//
+				   L
+				   
+３．政策					４．作戦
+
+					=>
+					
+					
+
+			Game Screens
+			
+			
+There are three types of Game Screens: the Strategy Screen,
+the Tactical Screen, and the Battle Screen.
+This game is normally played in the Strategy Screen; if a
+battle occurs, you will move on to the Tactical Screen, and
+then to the Battle Screen.
+
+
+				Strategy Screen
+				
+				
+The Strategy Screen is the main screen of the game, displaying
+the entire map of the continent.
+Most of the game's progress will happen on this screen.
+
+
+(1)		Turn 1	Policy
+								Info			(1)	Current Turn and
+(2)			Sieg				Negotiate			remaining LP/SP
+								Scheme		(2)	Master name
+								Delegate		(3)	Strategy map
+(3)								Options			(4)	Messages
+								End 			(5)	Commands window
+								
+		Your orders?
+		
+					(4)			(5)
+					
+					
+		Flow of the Strategy Screen
+		
+		
+This is the typical flow of the game:
+
+1. Beginning of turn			2. Events (Normal/Advanced rules)
+
+						=>
+						
+						
+						//
+					   L
+					
+3. Policies						4. Tactics
+	
+						=>
+					
+					
+
+																
+
+------------------------------------------------
+
+			PAGE 17
+			
+
+１．ターン開始
+　前のターンで消耗したＨＰや
+ＭＰが回復されますが、再生能力
+のない部隊は、最大ＨＰの４分の
+１しか回復しません。またこの
+とき、不特定なイベントが起き
+ることがあります。
+
+２．イベント
+　上級ルールや設定を変えた通常ルールでは、第３ターン以
+降、全マスターそれぞれに１回ずつ、イベントが配られます。
+これには、その場で何かが起こる事件イベントと、その後で
+策略として使える策略イベントの２種類があり、Ｃボタンを
+押すと、受けとれます。策略イベントは３つまで持てます。
+（４つ以上になると、そのうち１つを選んで捨てなければなり
+ません。）
+☆イベントの内容は別冊p.31参照
+
+３．政策
+　外交や敵マスターに対する妨害工作などをおこないます。
+なお、政策終了後、そのときに支配しているエリアに応じて
+ＬＰを受けとります。
+
+４．作戦
+　マスターとして自分のエリアに対し、個別に命令を与えて
+いきます。部隊を置いていないエリアや、委任中のエリアに
+は命令できません。
+
+
+	政策・作戦での操作
+	
+	
+政策・作戦画面では、コントロールパッドのボタンをどれか押
+すと、コマンドウィンドウに羽ペンが現れます。
+コマンドとは、これから何をするのか、具体的に指示を出す
+ための項目です。実行するコマンドを選び、Ｃボタンで決定
+してください。
+☆各コマンドのはたらきはp.27参照
+
+
+1. Beginning of turn
+At the beginning of each turn
+your squadrons will recover
+their HP and MP; however,
+squadrons without regenerating
+abilities will only recover
+1/4 of their max HP.
+At this point, an event may
+randomly occur.
+
+2. Events
+When playing on Advanced rules or in modified Normal
+rules, an event will occur at the beginning of every
+Master's turn, starting from Turn 3.
+There are 2 types of events: Accident Events that
+will occur automatically, or Scheme Events that
+may be used as Schemes at a later moment.
+Press C Button to receive the Scheme Event. Only
+3 Scheme Events may be held at a time (you will
+need to discard one in the event that you receive
+another).
+☆	Please refer to p.31 of the supplementary
+	catalogue for a list of Events.
+
+3. Policies
+This is where you attempt diplomacy or try to sabotage
+an enemy Master. Once you complete the Policy phase,
+you will receive LP based on the amount of Areas in
+your possession.
+
+4. Tactics
+In this phase you will give orders to every Area under
+your control. Note that you cannot give orders to Areas
+without squadrons in them, or to Areas under Delegation.
+
+
+	Controls for Policy and Tactics phases
+	
+	
+In the Policy/Tactics screen, press any button on
+the Control Pad to display the quill pen in the
+Commands windows.
+The Commands are how you can directly control your
+domain. Select the Command you wish to execute and
+press C Button to confirm.
+☆	Please refer to p.27 for a list of Commands.				
+
+
+------------------------------------------------
+
+			PAGE 18
+			
+			戦術画面の見方
+			
+
+　戦術画面は、戦争時の画面です。「作戦」で、中立または敵
+エリアへ侵攻するか、敵の侵攻やモンスターの襲撃を受けて
+戦争になると切りかわります。
+　戦術画面には、初心者でも簡単にできる簡易画面と、より
+リアルな戦いを展開するヘクス画面があります。
+
+
+	簡易画面の見方							戦術
+											コマンド
+											
+											
+	戦争ターン									部隊の
+												状況
+	メッセージ
+	
+	
+　戦争を指揮するか、コンピューターに委任するかを決め、
+指揮するときは、戦術コマンドを使って順次、自分の部隊に
+命令を出していきます。ただし、上級ルールでは、マスター
+か英雄がいないと部隊を指揮できません。
+☆各戦術コマンドのはたらきはp.49参照
+
+
+	ヘクス画面の見方						戦術
+											コマンド
+											
+	戦術マップ									地形
+	
+	戦争ターン									部隊の
+												　状況
+			メッセージ				行動
+			
+
+(1)	まずこの戦争を指揮するか、コンピュータ
+	ーに委任するかを決めます。（上級ルールで		指揮する
+	はマスターか英雄のみが指揮可能）				委任する
+	
+	
+			Tactical Screen
+			
+
+The Tactical Screen is the screen you'll see when you
+go to war. This will happen during the "Tactics" phase
+when you choose to invade a neutral or enemy Area, or
+when you are attacked by the enemy or by monsters.
+There are different versions of the Tactical Screen:
+a Simple version for beginners, and the more realistic
+Hex version.
+
+
+	View of the								Tactical
+	Simple Screen							Commands
+
+											
+											
+	Battle Turn									Squadron
+												Status
+	Messages
+	
+	
+You can take command of the battle yourself, or let the
+computer handle it. If you choose to take command, you
+will select the Tactical Command to use and then give
+the order to your squadrons. Keep in mind, however, that
+if you're playing with Advanced rules, you will not be
+able to command your squadrons without the Master or a
+Hero present on the battlefield.
+☆	Please refer to p.49 for information regarding the
+	Tactical Commands.
+
+
+	View of the								Tactical
+	Hex Screen								Commands
+											
+	Tactical Map								Terrain
+	
+	Battle Turn									Squadron
+												  Status
+			Messages			Action
+			
+
+(1)	First you must select whether to take
+	command of the battle or let the computer		
+	handle it (keep in mind that you can only
+	assume control if your Master or a Hero is		Control
+	present on the battlefield).					Delegate
+
+
+------------------------------------------------
+
+			PAGE 19
+			
+(2)	指揮する場合、各部隊を戦術
+	マップ上に配置してください。
+	部隊を選択し決定すると、羽
+	ペンがマップ上に移動します。
+	明るい範囲内に羽ペンを合わ
+	せてＣボタンを押すと、部隊
+	が移ります。
+	部隊を配置しなおすときは、Ｂボタン		配置する部隊
+	を押します。配置が完了したら、Ｃボ
+	タンを押してください。
+	
+(3)	戦争時に使用する策略イベントを持っている場合はそれを
+	実行できます。実行しないときはＢボタン、実行するとき
+	はＣボタンを押し、使う策略イベント１つを選びＣボタン
+	で決定してください。
+	☆個々の策略の効果は別冊p.33参照
+	
+	
+	
+	
+(4)	戦術コマンドを使って、各部隊
+	に命令を出していきます。
+	☆各戦術コマンドのはたらきは、
+	p.49参照
+	
+●	戦争は、攻撃側か防御側の一方が全軍退却もしくは全滅す
+	るか、マスターが戦死すると終了します。
+●	双方の部隊の行動が一巡するまでを１戦争ターンと呼び20
+	ターンになっても勝負がつかないと攻撃側は全軍退却させ
+	られます。
+●	戦争中Ａボタンを押すと、マップ上にヘクスが出ます。
+
+
+(2)	If you choose to take command,
+	you will have to position your
+	squadrons on the Tactical Map.
+	First, select a squadron; then
+	move the quill pen over one of
+	the highlighted tiles of the
+	map; finally, press C Button to
+	place the squadron.
+	If you wish to change the position of		Squadrons to
+	the squadron, press B Button. If you		place.
+	are satisfied, press C Button.
+	
+(3)	If you possess any Scheme Events usable in battle, 
+	you will be able to activate them now. Press B Button
+	to cancel, or press C Button to confirm; select the
+	Scheme Event to use, and press C Button to
+	activate it.
+	☆	Please refer to p.33 of the supplementary catalogue
+		for information regarding the Schemes.
+	
+	
+	
+	
+(4)	Use your Tactical Commands to give
+	orders to your squadrons.
+	☆	Please refer to p.49 for
+		more information regarding
+		Tactical Commands
+	
+●	A battle is concluded when either the attacker or the
+	defender loses all units, or when the Master is killed.
+●	One Battle Turn is elapsed when every unit of both sides
+	have acted. If the battle is not settled within 20 turns,
+	the attacker will be forced to retreat.
+●	Pressing A Button during battle will display Hexes on the
+	map.
+
+
+------------------------------------------------
+
+			PAGE 20
+			
+			戦闘画面の見方
+			
+			
+　戦闘画面とは、リアルタイムに部隊同士を戦闘させる、ア
+クションゲーム画面です。戦争時、戦術画面上で、自分が操
+作するマスターか英雄の部隊が、敵と格闘戦または突撃戦を
+交えると、自動的に切りかわります。ただし戦闘画面を設定
+していない場合はかわりません。（→コマンド「機能」p.37）
+
+	攻撃側データ
+	
+		
+											戦闘
+											フィールド
+											
+	防御側データ
+	
+	
+	攻撃側									防御側
+	
+	
+　戦闘は、格闘の場合30秒、突撃の場合どちらかが倒れるま
+で続きます。
+
+		戦闘画面での操作
+		
+　コントロールパッドでマスターか英雄の部隊を操作します。
+なお、対戦相手も人間が操作している場合は、2Pコントロー
+ルパッドも接続していないと、戦闘画面に切りかわりません。
+2Pコントロールパッドを使うときは、攻撃側が1P側のパッド、
+防御側が2P側のパッドで操作します。
+方向ボタン：操作するマスターか英雄の8方向への移動
+Ａボタン：通常攻撃（マスターや英雄によって武器が異なる）
+		　ウィンドウの内容を変更する
+Ｂボタン：特殊攻撃
+Ｃボタン：ウィンドウを開く
+		　攻撃魔法以外の魔法を実行する。
+		　（マスターや英雄によって武器が異なる）
+		
+		
+			Battle Screen
+			
+			
+The Battle Screen is the action part of the game, where
+opposing squadrons face each other in real time.
+It will be triggered automatically when the Master or
+Hero you're controlling initiates combat with the enemy
+on the Tactical Screen, either by attacking normally or
+by charging. Please note that the Battle Screen can be
+deactivated (refer to Commands "Options", p.37).
+
+
+	Attacker Data
+	
+		
+											Battlefield
+
+											
+	Defender Data
+	
+	
+	Attacker								Defender
+	
+	
+If you selected Attack, the battle will only last 30
+seconds; if you selected Charge, it will continue
+until one of the sides has been defeated.
+
+		Battle Screen Controls
+		
+Use the Control Pad to control your Master or Hero's
+squadron. If your opponent is also a player, you will
+not move to Battle Screen unless the 2P Control Pad is
+connected.
+When both pads are connected, the Attacker will use
+the 1P Pad, while the defender will use the 2P Pad.
+
+D-Pad:		Moves Master or Hero in 8 directions
+A Button:	Normal Attack (depending on Master/Hero)
+			Changes window content
+B Button: 	Special Attack
+C Button: 	Opens window
+			Uses spells other than Offensive Spells
+			(depending on Master/Hero)
+
+
+------------------------------------------------
+
+			PAGE 21
+			
+			
+	操作例		ジークの場合
+	
+　Ａボタンでは剣、Ｂボタンでは槍か魔法を使います。槍と
+魔法攻撃を切りかえるときは、Ｃボタンでウィンドウを開き、
+Ａボタンで、「ふつうのこうげき」を「まほうのこうげき」に
+変えます。魔法はレベル4まで使え、レベルの変更もＡボタ
+ンでおこないます。
+
+							☆魔法の威力は魔法レベルが
+							　高いほど強力になります。
+							
+							
+						魔法レベル
+						
+						
+						
+		〔各マスターのデータと操作〕
+		
+		
+	マスター		Ａボタン		Ｂボタン		魔法レベル
+	
+	ジーク				剣			槍・魔法			4
+	
+	バストラル			斧			　なし			　なし
+	
+	シェルファ			杖			　魔法				4
+	
+	エル＝モア			弓			　魔法				3
+	
+	ガイラム		フレイル			岩			　なし
+	
+	ベルフレイム	噛む・爪		ブレス・魔法		3
+	
+	クリムト			斧			　魔法				4
+	
+	バルマー			剣			　魔法				4
+	
+	
+	
+☆戦闘画面時の魔法については別冊p.43戦闘画面の魔法参照
+
+
+	Example		Using Sieg
+	
+A Button will use the sword, while B Button will use
+either the spear or magic. To swap between spear and
+magic, press C Button to open the window, then press
+A Button to change "Normal Attack" to "Magic Attack".
+There are 4 magic levels; press A Button to change
+the level.
+
+							☆	The higher the magic level,
+								the stronger the spells.
+							
+							
+						Magic Level
+						
+						
+						
+		〔Info and controls of each Master〕
+		
+		
+	Master			A Button		B Button		Magic Level
+	
+	Sieg			  Sword			Spear/Magic			4
+	
+	Vastral			   Axe			   None			   None
+	
+	Shelpha			  Staff			   Magic			4
+	
+	Ell Moir		   Bow			   Magic			3
+	
+	Gailum			  Flail			  Boulder		   None
+	
+	Velfraim	   Bite/Claws		Breath/Magic		3
+	
+	Klimt			   Axe			   Magic			4
+	
+	Balmer			  Sword			   Magic			4
+	
+	
+	
+☆	Please refer to p.43 of the supplementary catalogue
+	for information regarding the Battle Screen spells.
+
+
+------------------------------------------------
+
+			PAGE 22
+			
+			観戦画面
+			
+			
+　観戦を選ぶと、ゲームへの途中参加はできません。ゲーム
+は戦略画面のみで進められます。
+
+
+　ただし、ジークが生きて
+いる間は、「政策」のときに
+スタートボタンを押すと、
+ジーク軍の政策コマンドが
+現れます。
+
+
+
+　その場合、情報・機能のコマンドのみ使え、それによって、
+各マスターの勢力を見たり、ゲームを保存することなどがで
+きるようになります。
+
+
+コマンドの操作は通常の「政
+策」のときと同じですが、情
+報のサブコマンドの領地では、
+ルールに関係なく、ジーク以
+外のエリアも見ることができ
+ます。
+
+
+								また、機能のサブコマンドの
+								画面で、「敵の戦争を見る」に
+								設定すると、戦争時に、戦術
+								画面に切りかわるようになり
+								ます。
+								
+								
+ジークが死んでしまうか、機能のサブコマンドのその他で「政
+策を実行しない」に設定すると、その後ゲームへの介入はで
+きません。
+
+
+			Spectator Screen
+			
+			
+When you choose to spectate, you won't be able to join
+the game while it's progressing. The game will advance
+exclusively in the Strategy Screen.
+
+
+However, while Sieg is alive,
+you can bring up the Policy
+commands for Sieg's Army
+during the "Policy" phase
+by pressing Start Button.
+
+
+
+You will only be able to access the Info and Options
+commands, allowing you to check the strength of each
+Master, as well as saving the game.
+
+
+The controls are the same
+as the normal "Policy"
+controls; however, you will
+be able to see information
+on Areas not controlled by
+Sieg, regardless of the
+rules.
+
+
+								Additionally, if you turn on the
+								"Watch Enemy Battles" option,
+								you will also switch to the
+								Tactical Screen during combat.
+								
+								
+If Sieg dies, or if you turn off the "Carry out Policies" option,
+you will no longer be able to intervene in the game.
+
+
+------------------------------------------------
+
+			PAGE 23
+			
+			オプション画面
+			
+			
+			
+　ゲームスタート時、右の画面で
+ＯＰＴＩＯＮＳを選んでＣボタン
+を押すと、画面が下のように変
+わります。
+
+
+
+
+実行する項目を選択し、Ｃボタ
+ンで決定してください。
+
+
+
+
+ＣＯＮＴＲＯＬＬＥＲ…コントロールパッドの選択
+
+　方向ボタンで、１パッドか２
+パッドを指定し、Ｂボタンを押す
+と自動的に設定されます。
+（通常は接続状態によって自動
+的に設定されています。）
+
+
+１　ＣＯＮＴＲＯＬ　ＰＡＤ：
+	　すべての操作を１パッドでおこないます。
+	（人間が操作するマスターか英雄同士が戦闘画面で戦うに
+	は、２パッド必要です。）
+	
+２　ＣＯＮＴＲＯＬ　ＰＡＤＳ：
+	　通常は１パッドで操作し、人間が操作するマスターか英
+	雄同士で戦争になると、戦争に関するすべての操作を、攻
+	撃側は1P側のパッド、防御側は2P側のパッドでおこないま
+	す。
+	
+	
+			Option Screen
+			
+			
+			
+Once you start the game, the
+screen will appear as shown
+on the right;
+highlight OPTIONS and press
+C Button; the screen will
+change as shown below.
+
+
+
+
+Highlight your preferred entry
+and press C Button to confirm.
+
+
+
+
+C O N T R O L L E R
+
+Use the D-Pad to choose between
+1 Pad or 2 Pads.
+Press B Button to automatically
+make the selection.
+(The automatic selection is
+based on the number of Pads
+connected to the console.)
+
+
+1 CONTROL PAD:
+	You will control the game using only 1 Pad.
+	(You will require 2 Pads if you wish to fight another
+	player-controlled Master or Hero in the Battle Screen)
+	
+2 CONTROL PADS:
+	The game will be controlled mostly with 1 Pad, with
+	the other Pad used when you enter combat with another
+	player-controlled Master or Hero. The attacker will
+	use the 1P Pad, while the defender will use the 2P Pad.
+
+
+------------------------------------------------
+
+			PAGE 24
+			
+
+ＴＡＣＴＩＣＳ…………………………………戦術画面の練習
+
+　戦術画面の操作の練習ができます。
+
+
+
+
+
+(1)	戦術画面の設定
+	ＨＥＸ：ヘクス画面	ＳＩＭＰＬＥ：簡易画面
+
+(2)	戦闘画面の設定
+	ＲＥＡＬ　ＴＩＭＥ：戦闘画面あり	ＮＯ：戦闘画面なし
+	
+(3)	召喚部隊の指揮
+	ＡＵＴＯ：召喚部隊を委任	ＣＯＮＴＲＯＬ：召喚部隊を指揮
+	
+(4)	攻撃側の侵攻開始エリア
+
+(5)	防御側のエリア
+
+(6)	攻撃側の指揮
+	ＰＬＹ：戦争を指揮	ＣＯＭ：戦争をコンピューターに委任
+	
+(7)	防御側の指揮
+	ＰＬＹ：戦争を指揮可能にする	ＣＯＭ：戦争を委任
+	
+(8)	攻撃側の部隊設定
+
+(9)	防御側の部隊設定
+
+　方向ボタンの上下で変更する項目を選び、ＡかＣボタンで
+変更します。部隊設定では、Ｂボタンで部隊をキャンセルし
+たり、キャンセルした部隊を復帰できます。設定が完了した
+ら、スタートボタンで戦術画面に切りかわります。
+
+
+T A C T I C S
+
+Here you can practice the Tactical Screen.
+
+
+
+
+
+(1)	Tactical Screen Settings
+	HEX: Hex Screen		SIMPLE: Simplified Screen
+
+(2)	Battle Screen Settings
+	REAL TIME: Battle Screen is active		NO: Battle Screen is inactive
+	
+(3)	Summoned Squadron Command
+	AUTO: Delegate Summoned Squadrons	CONTROL: Control Summoned Squadrons
+	
+(4)	Attacker Starting Area
+
+(5)	Defender Area
+
+(6)	Attacker Command
+	PLY: Player controls battle		COM: Computer controls battle
+	
+(7)	Defender Command
+	PLY: Player controls battle		COM: Computer controls battle
+	
+(8)	Attacker's Squadrons Settings
+
+(9)	Defender's Squadrons Settings
+
+Use the D-Pad to highlight an entry, then press A or
+C Button to change it. When changing the Squadron
+settings, press B Button to cancel a squadron, and
+press it again to bring it back. Once you are satisfied
+with your selection, press Start Button to move on to
+the Tactical Screen.
+
+
+------------------------------------------------
+
+			PAGE 25
+			
+			
+ＢＡＴＴＬＥ……………………………………戦闘画面の練習
+　左が攻撃側、右が防御側の設定
+
+
+
+
+
+(1)	部隊の指定
+
+(2)	部隊の操作
+	ＰＬＡＹＥＲ：コントロールパッドで操作
+	ＣＯＭ：コンピューター操作（ＣＯＭの後の数字は部隊数）
+
+(3)	戦闘の場所（地形）設定
+
+　方向ボタンの上下左右で
+変更する項目を選び、ＡかＣ
+ボタンで変更します。設定
+が完了したらスタートボタ
+ンで戦闘画面に切りかわり
+ます。
+
+
+B A T T L E
+Here you can practice the Battle Screen.
+The left side is the Attacker;
+the right side is the Defender.
+
+
+
+
+
+(1)	Squadron Selection
+
+(2)	Squadron Controls
+	PLAYER: Controlled with the Control Pad.
+	COM: Controlled by the computer
+		 (the number after COM is the amount of squadrons)
+
+(3)	Battlefield (terrain) Setting
+
+Use the D-Pad to highlight
+an entry, then press A or
+C Button to change it.
+Once you are satisfied
+with your selection, press
+Start Button to move on to
+the Battle Screen.
+
+
+------------------------------------------------
+
+			PAGE 26
+			
+
+ＭＵＳＩＣ…………………………………………ＢＧＭのテスト
+　ゲーム中に使われているＢＧＭを聞くことができます。
+
+方向ボタンの上下で曲
+目を変更し、Ｃボタン
+で聞くことができます。
+
+
+
+ＳＯＵＮＤ…………………………………………効果音のテスト
+　ゲーム中の効果音を聞くことができます。
+
+方向ボタンの上下で番
+号を変更し、Ｃボタン
+で聞くことができます。
+
+
+M U S I C
+Here you can listen to the game's BGM tracks.
+
+Press Up or Down on
+the D-Pad to change
+the track, then press
+C Button to play it.
+
+
+
+S O U N D
+Here you can listen to the game's sound effects.
+
+Press Up or Down on
+the D-Pad to change
+the number, then press
+C Button to play it.
+
+
+------------------------------------------------
+
+			PAGE 27
+			
+			
+			コマンド
+			
+			
+このゲームにはたくさんのコマンドが出てきます。
+必要に応じて、参照してください。
+
+
+政策コマンド　p.28
+
+	情報	p.28	外交	p.30	策略	p.34
+	委任	p.35	機能	p.37	終了	p.38
+	
+作戦コマンド　p.39
+
+	情報	p.39	移動	p.39	偵察	p.43
+	侵攻	p.40	召集	p.42	召喚	p.43
+	策略	p.44	訓練	p.44	休養	p.44
+	探索	p.45	英雄	p.46	委任	p.42
+	機能	p.42	終了	p.42
+	
+戦術コマンド　p.49
+
+	待機	p.49	移動	p.49	攻撃	p.50
+	突撃	p.52	魔法	p.54	状態	p.55
+	退却	p.59	
+	
+	
+			Commands
+			
+			
+This game features a large variety of Commands.
+We recommend referencing the manual whenever you
+need to know more about any specific Command.
+
+
+Policy Commands		p.28
+
+	Info		p.28	Negotiate	p.30	Scheme	p.34
+	Delegate	p.35	Options		p.37	End			p.38
+	
+Tactics Commands	p.39
+
+	Info		p.39	Move		p.39	Scout		p.43
+	Invade		p.40	Muster		p.42	Summon		p.43
+	Scheme	        p.44	Train		p.44	Rest		p.44
+	Search		p.45	Heroes		p.46	Delegate	p.42
+	Options		p.42	End			p.42
+	
+Tactical Commands	p.49
+
+	Standby		p.49	Move		p.49	Attack		p.50
+	Charge		p.52	Magic		p.54	Status		p.55
+	Retreat		p.59
+
+
+------------------------------------------------
+
+			PAGE 28
+			
+			
+		政策コマンド
+		
+　政策には次のコマンドがあります。使用するコマンドを選
+び、Ｃボタンで決定してください。なお、マスターがジーク
+またはバストラルのとき、外交・策略のコマンドを選んでＡボ
+タンを押すと、軍師がアドバイスします。
+
+						情報
+						
+マスターのいるエリアを中心に、自軍の状況を確認できます。
+情報にはさらに４つのサブコマンドがあります。必要な項目
+を選び、Ｃボタンで決定してください。
+
+状況：	自分の支配エリアと部隊の状態などが表示されます。
+		また、そのときＡボタンを押すと、各部隊の１ランク
+		アップに必要な経験値が出ます。
+		
+
+
+
+(1)	エリア番号と名前
+
+(2)	現在のＨＰ
+
+(3)	部隊数
+
+(4)	委任状況
+
+(5)	毎ターンそのエリアからとれるＬＰ
+
+(6)	部隊名
+
+(7)	現在のランク	(8)	現在のＭＰ
+
+
+		Policy Commands
+		
+The following are the Commands usable during the Policy phase.
+Highlight your choice and press C Button to confirm.
+If you have chosen to play as either Sieg or Vastral,
+your tactician will give you advice if you press A Button
+after selecting the Negotiate or Scheme Commands.
+
+						Info
+						
+This Command will allow you to confirm the condition of your
+forces, focusing on the Area where your Master is located.
+The Info Command contains 4 Sub-Commands. Highlight your
+selection and press C Button to confirm.
+
+Status:	This will display the status of the Area under your
+		control as well as your Squadrons.
+		Pressing A Button will display the amount of experience
+		needed to rank-up each Squadron.
+		
+
+
+
+(1)	Area Number and Name
+
+(2)	Current HP
+
+(3)	Number of Squadrons
+
+(4)	Delegation
+
+(5)	LP gained from this Area each turn
+
+(6)	Squadron Name
+
+(7)	Current Rank	(8)	Current MP
+
+
+------------------------------------------------
+
+			PAGE 29
+			
+			
+	ランクアップ＆成長
+	
+	戦って敵を倒したり、訓練を積むと、経験値が上がっ
+	てランクアップできます。召集部隊はＡランクまで上がる
+	と、１つ上のクラスの部隊に成長します。
+	
+		（例）　戦士　→　騎士　→　聖戦士
+		
+		
+領地：	自分の全支配エリア（基本ルールでは全エリア）の状
+		況を見ることができます。
+		
+見たいエリアの旗印に羽ペ
+ンを合わせＣボタンを押し
+てください。
+
+
+勢力：	その時点で生き残っている全マスターの状態を優勢
+		順に表示します。
+		
+		
+		
+(1)	マスター名		(2)	現在支配エリア数	(3)	所有ＬＰ
+
+(4)	所有策略数		(5)	英雄の数	(6)	所有ＳＰ
+
+(7)	毎ターン全支配エリアから受けるＬＰ
+
+
+	Rank-Up and Growth
+	
+	Squadrons gain experience by defeating enemies and
+	training. With enough experience, Squadrons can
+	rank-up. Once a Mustered Squadron reaches Rank A,
+	it will grow to the next Class.
+	
+		(Example)	Warrior -> Knight -> Holy Warrior
+		
+		
+Territory:	This Command will allow you to check the
+			status of all the Areas under your control
+			(under Basic Rules, every Area without
+			restrictions).
+		
+Move the quill pen over
+the flag of the Area you
+wish to check and press
+C Button to confirm.
+
+
+Balance:	This Command will display the status of
+			each surviving Master, in order of power.
+		
+		
+		
+(1)	Master Name		(2)	Number of Areas		(3)	Current LP
+						currently owned
+						
+(4)	Numer of		(5)	Number of	(6)	Current SP
+	Schemes			Heroes
+
+(7)	LP received from all Areas each turn
+
+
+------------------------------------------------
+
+			PAGE 30
+			
+			
+地図：	大陸全体の各マスターの勢力を色別に表示します。
+		また、Ａボタンを押すと、各エリア番号が現れ、も
+		う一度押すと委任状況が示されます。また、Ｃボタ
+		ンで、同盟関係もわかります。
+		
+		
+		
+エリア番号			委任状況			同盟関係
+
+
+					外交
+					
+					
+						他のマスターと交渉するとき
+						に使います。ただしバルマー
+						は、外交はできません。外交
+						には次のサブコマンドがあり
+						ます。必要な項目を選び、Ｃ
+						ボタンで決定してください。
+						
+同盟：	互いに侵攻しないことを約束します。
+
+						(1)	同盟したいマスターを選び、
+							Ｃボタンを押すと、有効期間
+							が表示されます。
+						(2)	方向ボタンの上下で期間を設
+							定します。（最大８ターン）
+							
+							
+(3)	Ｃボタンを押すと、相手のマス
+	ターに打診され、返事がきます。
+	このとき、相手マスターはこれ
+	に応じるか判断します。
+	
+	
+Map:	This Command will show the entire map of the
+		continent, with different colors displaying the
+		power balance of each Master.
+		Press A Button to display the number of each
+		Area; press it again to display their Delegation
+		status. Pressing C Button will display existing
+		alliances.
+		
+		
+		
+Area Numbers		Delegation Status		Alliances
+
+
+					Negotiate
+					
+					
+						This Command will allow you
+						to enter negotiations with
+						other Masters. Keep in mind,
+						however, that Balmer cannot
+						use Negotiate.
+						This Command contains multiple
+						Sub-Commands. Highlight your
+						selection and press C Button
+						to confirm.
+						
+Alliance:	Promise not to invade one another.
+
+						(1)	Select the Master you wish to
+							form an Alliance with and press
+							C Button. You will be asked to
+							select the effective period of
+							validity.
+						(2)	Use Up and Down on the D-Pad to
+							modify the length of the period
+							(Max: 8 turns).
+							
+							
+(3)	Press C Button to initiate
+	negotiations. The other Master
+	will consider your proposal
+	and give you an answer.
+
+
+------------------------------------------------
+
+			PAGE 31
+			
+
+期間：同盟期間の延長または短縮を相手に要求します。
+(1)	同盟中の相手と、残り期間が
+	表示されたら、期間変更した
+	いマスターを選び、Ｃボタン
+	を押すと、有効期間が現れま
+	す。
+(2)	方向ボタンの上下で期間を変
+	えます
+	
+(3)	Ｃボタンを押すと、相手のマ
+	スターに打診され、返事がき
+	ます。このとき、相手マスタ
+	ーはこれに応じるか判断しま
+	す。
+	
+	
+援助：同盟中の相手に自分のＬＰを分けて、一方的に援助
+	　します。
+(1)	同盟中の相手と残り期間が表示されたら、援助するマスタ
+	ーを選び、Ｃボタンを押します。
+(2)	方向ボタンの上下で援助額を決めます。
+
+
+								援助額
+								
+								
+								最大援助額
+								
+								
+(3)	Ｃボタンを押すと、自動的に相手に援助されます。
+	援助された側はそのＬＰを返す必要はありません。
+	
+	
+Time:	Extend or shorten the duration of your Alliance.
+(1)	You will see a list of Masters
+	you are currently allied with,
+	as well as the number of turns
+	remaining. Press C Button to
+	open the period of validity
+	selection.
+(2)	Use Up and Down on the D-Pad to
+	modify the length of the period.
+	
+(3)	Press C Button to initiate
+	negotiations. The other Master
+	will consider your proposal
+	and give you an answer.
+	
+	
+Assist:	Unilaterally assist one of your allies by
+		sharing your LP with them.
+(1)	You will see a list of Masters 	you are currently
+	allied with, as well as the number of turns
+	remaining. Select the Master you wish to assist
+	and press C Button.
+(2)	Use Up and Down on the D-Pad to select the amount
+	of LP to share.
+
+
+								LP shared
+								
+								
+								Maximum amount
+								available
+								
+								
+(3)	Press C Button to send your LP to your ally.
+	Be aware that the other party is under no obligation
+	to return the LP.
+
+
+------------------------------------------------
+
+			PAGE 32
+			
+			
+要請：同盟中の相手に、ＬＰの援助を要求します。
+(1)	同盟中の相手と残り期間が表示されたら、要請するマスタ
+	ーを選び、Ｃボタンを押します。
+								(2)	方向ボタンの上下で要請
+									額を決めます。
+									
+									
+									
+										要請額
+										
+										最大要請額
+										
+										
+(3)	Ｃボタンを押すと、自動
+	的に相手に要請され、返
+	事がきます。このとき要
+	請された側は、これに応
+	じるか判断します。
+	
+	
+	
+破棄：	同盟中、その同盟を一方的に破棄します。ただし、
+		工作資金として、残り有効期間１ターンにつき１５ＬＰ
+		を消費します。（所持するＬＰが１５ＬＰ以下では破棄
+		はできません。）
+		
+(1)	同盟中の相手と残り期間
+	が表示されたら、破棄す
+	るマスターを選びＣボタ
+	ンを押します。
+	
+	
+Request:	Request LP from your ally.
+(1)	You will see a list of Masters 	you are currently
+	allied with, as well as the number of turns
+	remaining. Select the Master you wish to request
+	assistance from and press C Button.
+								(2)	Use Up and Down on the D-Pad
+									to select the amount of LP to
+									request.
+									
+									
+									
+										LP requested
+										
+										Maximum amount
+										available
+										
+										
+(3)	Press C Button to initiate
+	negotiations. The other Master
+	will consider your proposal
+	and give you an answer.
+	
+	
+	
+Rescind:	Unilaterally rescind an Alliance. However, financing
+			this maneuver requires 15 LP for each turn remaining
+			in the Alliance (the Rescind command will not be
+			available if you have less than 15 LP).
+		
+
+(1)	You will see a list of Masters 	you are currently
+	allied with, as well as the number of turns
+	remaining. Select the Alliance you wish to rescind
+	and press C Button.
+
+
+------------------------------------------------
+
+			PAGE 33
+			
+			
+(2)	確認のメッセージが表示
+	された後、Ｃボタンを押
+	すと、同盟は破棄され、
+	ＬＰが減らされます。
+	
+	
+	
+	
+領地：隣接する中立エリアを、ＬＰを支払うことで自分の支
+	　配下として購入することができます。
+	
+(1)	方向ボタンで、購入した
+	い中立エリアの旗印に羽
+	ペンを合わせて、Ｃボタ
+	ンを押します。
+	
+	
+
+(2)	必要なＬＰと確認のメッ
+	セージが表示され、もう
+	一度Ｃボタンを押すとそ
+	のエリアが支配下になり
+	ます。
+	
+	
+(2)	You will be asked to
+	confirm. Press C Button
+	to do so, and you will
+	spend the required LP
+	to rescind the Alliance.
+	
+	
+	
+	
+Territory:	This Command will allow you to obtain control of
+			a neighboring neutral Area by paying a certain
+			amount of LP.
+	
+(1)	Use your D-Pad to move your
+	quill pen over the neutral
+	Area you wish to purchase
+	and press C Button.
+	
+	
+
+(2)	The required amount of LP
+	will be shown on screen.
+	Press C Button again to
+	confirm and place the Area
+	under your control.
+
+
+------------------------------------------------
+
+			PAGE 34
+			
+			
+						策略
+						
+						
+「イベント」で獲得した政策用の策略イベントを使用できます。
+（上級ルールと、設定を変更した通常ルールで有効。）
+
+Ｃボタンで、そのときに持っている策略イベントのうち、こ
+こで使えるものが表示されます。
+
+
+
+		策略イベント
+		
+		
+		
+		
+使う策略イベントを選び、Ｃボタンで決定すると、その策略
+が実行されます。
+
+	策略イベントにはいくつかの種類があり、その種類に応
+	じて、使用できる場面が異なっています。
+	政策用策略イベント
+		「政策」で使用。	（例）大嵐・水晶玉
+	作戦用策略イベント
+		「作戦」で使用。	（例）千里眼・奇襲攻撃
+	戦術画面用策略イベント
+		戦争時、戦術画面上で使用。	（例）濃霧・氷結
+	侵攻された場合のイベント
+		敵の侵攻を受けたときに使用。	（例）強制退却
+		
+	複数の場面で使用できる策略イベントもあります。
+	
+☆個々の策略イベントの効果は別冊p.33参照
+
+
+					Scheme
+						
+						
+This Command will allow you to use Policy-specific
+Scheme Events acquired during "Events"
+(valid with Advanced Rules or modified Normal Rules).
+
+Press C Button to bring up the usable Scheme Events
+in your possession.
+
+
+
+		Scheme Events
+		
+		
+		
+		
+Select the Scheme Event you wish to use;
+press C Button to confirm and activate the Scheme.
+
+	There are many types of Scheme Events.
+	The situation they can be used depends on their type.
+	Policy-use Scheme Events
+		Usable during "Policy" phase. (Example) Raging Storm, Crystal Ball
+	Tactics-use Scheme Events
+		Usable during "Tactics" phase. (Example) Clairvoyance, Surprise Attack
+	Tactical Screen-use Scheme Events
+		Usable during combat in the Tactical Screen. (Example) Heavy Fog, Freezing
+	Invasion-use Events
+		Usable when invaded by the enemy. (Example) Forced Retreat
+		
+	Some Scheme Events can be used in multiple situations.
+	
+☆	Please refer to p.33 of the supplementary catalogue
+	for information regarding the Schemes.
+
+
+------------------------------------------------
+
+			PAGE 35
+			
+			
+						委任
+						
+コンピューターに指定したエリアの操作を一任します。ただ
+し、マスターがいるエリアを委任することはできません。
+
+(1)	方向ボタンで委任するエリ
+	アの旗印に羽ペンを合わせ
+	Ｃボタンを押します。
+	
+	
+	
+								(2)	サブコマンドが表示された
+									ら方向ボタンで必要な項目
+									を選び、Ｃボタンで決定し
+									てください。
+									
+委任	：	すべての操作をコンピューターにまかせます。
+			上級ルールでは設定が強制委任なので、マスタ
+			ーや英雄のいない支配エリアは自動的に委任状
+			態になっています。
+			
+維持	：	基本的に何もせず、その状態を維持しますが、
+			必要ならば、訓練をおこないます。
+
+軍備	：	部隊の召集・召喚・訓練をおこないます。
+
+軍事	：	召集・召喚・訓練をおこない、必要に応じて、侵
+			攻します。
+			
+探索	：	上級ルールのみのコマンド。英雄の探索に専念
+			します。ただし、召集部隊がいないとできませ
+			ん。また、英雄を雇えないマスターは探索でき
+			ません（英雄→別冊p.
+			
+			
+					Delegate
+						
+This Command will allow you to entrust the computer with
+the management of a specific Area. However, you cannot
+Delegate the Area where the Master is currently located.
+
+(1)	Use the D-Pad to move the
+	quill pen over the flag of
+	the Area you wish to
+	delegate control of, and
+	press C Button.
+	
+	
+	
+								(2)	The Sub-Commands will be
+									displayed. Use the D-Pad
+									to highlight your preferred
+									entry, and press C Button
+									to confirm.
+									
+Delegate	:	Entrust the computer with everything.
+				Under Advanced Rules, the Forced Delegation
+				setting is active, automatically activating
+				Delegation in every Area without a Master or
+				a Hero.
+			
+Maintain	:	Fundamentally do nothing except maintaining the
+				current situation. Training will be performed
+				as needed.
+
+Arms		:	Muster/Summon/Train Squadrons.
+
+Military	:	Muster/Summon/Train Squadrons, and Invade when
+				necessary.
+			
+Search		:	Available only under Advanced Rules.
+				Focuses exclusively in searching for Heroes.
+				Be aware that this cannot be done if there are no
+				Mustered Squadrons present. Masters who cannot
+				hire Heroes cannot use this Sub-Command (please
+				refer to p.26 of the supplementary catalogue).
+
+
+------------------------------------------------
+
+			PAGE 36
+			
+
+	英雄を発見すると……
+	
+	英雄発見のメッセージと、その英雄の名前、雇うのに必
+	要なＬＰが表示されます。
+	雇う場合はＣボタン、雇わない場合はＢボタンを押してく
+	ださい。雇うかどうかにかかわらず、探索エリアはそれ
+	以降も探索をつづけます。
+	
+	
+指揮	：	委任を解除し、指揮をとれるようにします。た
+			だし上級ルールでは、英雄がいないと指揮でき
+			ません。
+			
+			
+委任の状況を確認したいときは、「情報」のサブコマンド、「地
+図」で見ることができます。（p.30）
+
+
+	When you find a Hero...
+	
+	When a Hero is found, you will be shown a notification
+	with their name and the LP required to hire them.
+	Press C Button to hire them, or press B Button to
+	ignore them. Regardless of your choice, the search
+	will resume in the same Area.
+	
+	
+Command		:	Cancel Delegation and take control.
+				Keep in mind that under Advanced Rules, you cannot
+				control an Area without a Hero.
+			
+			
+You can check the Delegation Status of your Areas from
+the "Info" Sub-Command "Map" (p.30).
+
+
+------------------------------------------------
+
+			PAGE 37
+			
+			
+						機能
+						
+ゲーム画面の設定を変更したり、データを保存するときに使
+い、次のサブコマンドがあります。必要な項目を選び、Ｃボ
+タンで決定してください。
+
+
+
+
+保存：	そこまでのゲームの状況をセーブします。次の画面
+		が出たら、保存先の番号を選び、Ｃボタンを押して
+		ください。
+		
+		
+		
+(1)	データ番号
+
+(2)	ルール（Ａ：基本　Ｂ：通常　Ｃ：上級）
+
+(3)	シナリオ（１血に染まり…．２黄昏の…．３闇の…．４聖戦士と…．）
+
+(4)	ターン
+
+(5)	続きから実行するマスター
+[sword] ジーク	[axe] バストラル	[star] クリムト	[staff] シェルファ
+[dragon] ベルフレイム	[helm] ガイラム	[bow] エル＝モア	[skull] バルマー
+
+(6)	作戦を実行するエリア番号（数字のないときは、「政策」か
+	ら開始
+
+(7)	ゲームのトータル時間
+
+
+					Options
+						
+The following Sub-Commands will allow you to modify the
+game's settings or save your progress. Select a Sub-Command
+and press C Button to confirm.
+
+
+
+
+Save:	This will allow you to save your progress.
+		Once selected, the screen will change as in the
+		following picture.
+		Select a file and press C Button to confirm.
+		
+		
+		
+(1)	File number
+
+(2)	Rule set (A: Basic; B: Normal; C: Advanced)
+
+(3)	Scenario (1: Bloodthirsty...; 2: Order...; 3: Requiem...; 4: Holy...)
+
+(4)	Turns
+
+(5)	Next acting Master
+[sword] Sieg	[axe] Vastral	[star] Klimt	[staff] Shelpha
+[dragon] Velfraim	[helm] Gailum	[bow] Ell Moir	[skull] Balmer
+
+(6)	Area number of the following Tactics phase
+	(no number is shown in case of Policy phase)
+
+(7)	Total playtime
+
+
+------------------------------------------------
+
+			PAGE 38
+			
+			
+画面：	画面の切りかえに関するコマンドです。下の画面が
+		出たら、変更する項目を選び、Ｃボタンで変えます。
+		
+		
+	戦術画面はヘクス画面――戦術画面の切りかえ
+	戦闘画面はなし―――――戦闘画面の切りかえ
+	敵の戦争を見ない――――敵同士の戦いの観戦
+	アニメを見る――――――戦略画面上のアニメーション
+	
+	
+表示：	メッセージの表示速度や表示時		表示速度　４
+		間、および羽ペンの移動速度を		表示時間　５
+		変えます。下の画面が出たら、		ペン速度　３
+		変更する項目を選び、Ｃボタン
+		で変更してください。数が大きいほど遅くなります。
+		
+		
+その他：「政策」を実行するか、訓練やデータの保存を自
+						　動にするかなどの設定をしま
+政策を実行する			　す。変更する項目を選び、Ｃ
+保存を自動にしない		　ボタンで決定してください。
+訓練を自動にする
+
+訓練・保存を自動にすると、コマンド終了に
+よって、自動的に訓練や保存がおこなわれま
+す。その場合の保存はデータ４を使います。
+
+
+				終了（コマンド終了）
+				
+				
+	そのターンの政策に関するすべての操作を終了させます。
+	
+	
+Screen: 	This is where you can alter settings related to
+			the game screens. Select the entry you wish to
+			modify and press C Button.
+		
+		
+	Tactical Screen: Hex		Changes the Tactical Screen
+	Battle Screen: None			Changes the Battle Screen
+	Watch Enemy Battles: No		Spectate battles between enemies
+	Animations: On				Animations on the Strategy Screen
+	
+	
+Display: 	Here you can alter the messages		Display Speed	4
+			speed, their duration, as well		Display Time	5
+			as the movement speed of the		Cursor Speed	3
+			quill pen cursor. Highlight an
+			entry and press C Button to change it.
+			The higher the number, the slower the speed.
+		
+
+Misc: 	Here you can select whether to carry out the "Policy"
+							phase, as well as whether training
+Carry out Policy: Yes		and saving should be performed
+Save automatically: No		automatically. Highlight an entry
+Train automatically: Yes	entry and press C Button to confirm.
+							
+						
+When set to be automatic, training and saving
+will be performed after selecting the End Command.
+The game will be saved on File 4.
+
+
+				End (Command)
+				
+				
+	Ends the Policy phase and moves on to the next phase.
+
+
+------------------------------------------------
+
+			PAGE 39
+			
+			
+		作戦コマンド
+		
+		
+「作戦」には、主に基本ルールで使うコマンドのほか、通常ル
+ール・上級ルールで使う追加コマンドがあります。なお、マ
+スターがジークまたはバストラルのときは、情報・委任・機
+能・終了以外のコマンドでＡボタンを押すと、軍師のアドバ
+イスをうけられます。
+
+
+	戦略マップ							作戦コマンド
+	
+	
+	
+				基本ルールのコマンド
+				
+				
+						情報
+						
+						
+政策の情報とほぼ同じですが、ここでは、そのとき作戦中の
+エリアを中心にして、自軍と敵・中立エリアの状況確認（通常
+ルール以上は偵察が必要）などができます。情報には、さらに
+４つのサブコマンドがあります。必要な項目を選び、Ｃボタ
+ンで決定してください。
+☆サブコマンドは政策コマンドの「情報」p.28参照
+
+
+						移動
+						
+						
+隣接する自分のエリアに、部隊を移動させます。
+移動させたいエリアの旗印に羽ペンを合わせ、Ｃボタンを押
+すと、移動可能な部隊が表示されます。移動させる部隊を選び、
+Ａボタンで指定し、Ｃボタンで
+決定します。
+移動した部隊は行動済となり、
+次のターンまでなにもできま
+せん。
+
+
+		Tactics Commands
+		
+		
+Compared to the Basic Rules, there will be additional
+Commands available during the "Tactics" phase when
+playing under Normal or Advanced Rules.
+Furthermore, if you have selected Sieg or Vastral as
+your Master, you will receive advice from your tactician
+by pressing A Button on any Command other than Info,
+Delegate, Options and End.
+
+
+	Strategy Map							Tactics Commands
+	
+	
+	
+				Basic Rules Commands
+				
+				
+						Info
+						
+						
+While its functionality is about the same as the "Info"
+Command of the Policy phase, during this phase the focus
+will be on the Area you are currently controlling.
+This Command will let you confirm the status of your
+forces, the enemy's forces and neutral Areas (under
+Normal Rules or above, you will need to Scout first).
+Info contains 4 Sub-Commands. Make your selection and
+press C Button to confirm.
+☆	For more details on the Sub-Commands, please refer
+	to p.28, Policy Commands "Info".
+
+
+						Move
+						
+						
+This will allow you to move Squadrons from one of your
+Areas to a neighboring one. Move the quill pen over the
+flag of the starting Area and press C Button to bring up
+a list of Squadrons who can move. Select a Squadron,
+press A Button to give the order, and press C Button to
+confirm.
+Once a Squadron has moved,
+they won't be able to act
+again until the following
+turn.
+
+
+------------------------------------------------
+
+			PAGE 40
+			
+			
+						侵攻
+						
+						
+隣接する敵エリアや中立エリアへ攻め込みます。普通は侵攻
+すると、そのエリアにいる敵部隊やモンスターと戦争となり、
+画面が戦術画面に切りかわります。
+
+
+(1)	侵攻したいエリアの旗印
+	に羽ペンを合わせます。
+	
+	
+このとき、基本ルールでは、
+Ａボタンを押すと、そのエリ
+アにいる敵部隊の状況を見
+ることができます。
+（通常ルール以上では、事前
+に偵察が必要です。）
+
+								(2)	Ｃボタンを押すと、自分
+									の部隊が表示されます。
+									侵攻させる部隊を選び、
+									Ａボタンで指定し、Ｃボ
+									タンで決定します。
+									
+									
+(3)	確認のメッセージが表示さ
+	れた後、Ｃボタンを押すと
+	侵攻が始まり、戦術画面に
+	切りかわります。
+	
+	
+						Invade
+						
+						
+This Command will allow you to attack a neighboring enemy
+or neutral Area. In normal conditions, this will initiate
+combat with the enemy Squadrons or Monsters present in that
+Area, and the game will switch to the Tactical Screen.
+
+
+(1)	Move the quill pen over the
+	Area you wish to Invade.
+	
+	
+Under Basic Rules, pressing
+A Button will bring up the
+status of the enemy Squadrons
+present in the Area
+(under Normal Rules or above,
+you will need to Scout the
+Area first).
+
+								(2)	Press C Button to bring up
+									your Squadrons. Select the
+									Squadrons that will join
+									the battle, press A Button
+									to give the order, and press
+									C Button to confirm.
+									
+									
+(3)	After a confirmation message,
+	press C Button to initiate the
+	invasion, switching to the
+	Tactical Screen.
+	
+
+------------------------------------------------
+
+			PAGE 41
+			
+			
+敵に侵攻されたら……？
+
+敵が侵攻してきた場合、自分の部隊にがいないと、そのエリ
+アは敵にとられます。
+
+
+部隊がいると、敵部隊の所属と総数、主力部隊名とその
+数が表示されるので、戦争・策略・退却・降伏のどれか
+を選ばねばなりません。
+
+
+
+
+その場合、策略は、敵に侵攻されたときに使える策略イ
+ベントを使用します。
+
+降伏するとそこの部隊は消滅し、エリアは敵にとられま
+す。
+
+退却は退却可能なエリアがないとできません。
+
+戦争を選ぶと、戦術画面に切りかわります。
+委任エリアに敵が侵攻してきたとき、設定が「敵の戦争
+を見ない」になっていると、戦略画面のまま自動的に決
+着がつきます。（「機能」コマンドのサブコマンド「画面」
+で変更可能p.38）
+
+
+What if the enemy invades you...?
+
+If the enemy invades one of your Areas, and there are
+no Squadrons protecting it, you will lose that Area
+immediately.
+
+
+If there are Squadrons protecting your Area, you will
+be shown the affiliation of the enemy, their total
+count and the name of their main Squadron.
+You will be forced to choose one of the four available
+options: Fight, Scheme, Retreat, Yield.
+
+
+
+
+If you have any Scheme Events usable when the
+enemy invades you, you will be able to use it at
+this moment from the Scheme option.
+
+If you choose to Yield, you will lose all of
+your Squadrons and the enemy will capture that Area.
+
+You cannot choose to Retreat if there are no Areas
+to retreat to.
+
+If you choose to Fight, you will switch to the
+Tactical Screen. If the enemy invades a Delegated
+Area, and you have set the "Watch Enemy Battles"
+option to "No", the battle will be automatically
+settled in the Strategy Screen (for more details,
+please refer to p.38, Options Sub-Command "Screen").
+
+
+------------------------------------------------
+
+			PAGE 42
+			
+			
+						召集
+						
+						
+ＬＰを消費して、自分のエリアに部隊を増やします。召集には、
+１部隊の召集につき、召集を実行するエリア内の１～２部隊
+を指定して召集させます。召集に協力した部隊と、あらたに
+召集された部隊は行動済となり、次のターンまでなにもでき
+ません。なお、バルマーは召集はできません。
+
+(1)	召集させる部隊を選び、Ａボタンで指定して、Ｃボタンを押
+	すと、召集可能な部隊名と必要なＬＰが表示されます。
+(2)	召集する部隊を選んでＣボタンを押し、確認のメッセージ
+	が出た後Ｃボタンで召集
+	します。
+	
+	
+	
+			部隊名
+			
+			消費ＬＰ
+			
+			
+	マスターは、召集可能なすべての部隊を単独で召集でき
+	ますが、その他の部隊は、１部隊で、同種かそれより下
+	のクラスの１部隊しか召集できません。ただし、同種の
+	２部隊で召集すると、１つ上のクラスの１部隊を召集で
+	きます。
+	
+	
+						委任
+						
+
+マスターのエリアで可能。「政策」の委任p.35参照。
+
+
+						機能
+						
+						
+「政策」の機能p.37参照。
+
+
+					終了（コマンド終了）
+					
+					
+そのターンの、「作戦」に関するすべての操作を終了させます。
+
+
+						Muster
+
+
+This Command will allow you to add additional Squadrons
+in your Areas by spending LP. Only Squadrons can Muster
+other Squadrons. You can assign one or two Squadrons per
+Area to this task. Both the new Squadron and the Squadrons
+executing your order won't be able to act again until
+the next turn. Balmer cannot use this Command.
+
+(1)	Select the Squadrons who will perform the task, press
+	A Button to give the order, and press C to bring up
+	the name of the Squadrons you can Muster, as well as
+	the required LP.
+(2)	Select the Squadron you wish to Muster and press C Button.
+	You will see a confirmation message. Press C Button again
+	to Muster the Squadron.
+	
+	
+	
+			Squadron Name
+			
+			LP expended
+			
+			
+	Your Master has no restrictions as to which Squadrons
+	they can find; however, normal Squadrons can only
+	Muster Squadrons of their same type.
+	If only 1 Squadron is assigned to this task, the
+	Mustered Squadron can only be of a Class below the
+	original; but if 2 Squadrons of the same type are
+	assigned to this task, the Mustered Squadron can be
+	1 Class above the originals.
+	
+	
+					Delegate
+						
+
+This Command can be used in Areas where the Master is
+located. Please refer to p.35, "Policy" phase "Delegate",
+for more information.
+
+
+					Options
+						
+						
+Please refer to p.37, "Policy" phase "Options", for more
+information.
+
+
+					End (Command)
+					
+					
+Ends the "Tactics" phase and moves on to the next phase.
+
+
+------------------------------------------------
+
+			PAGE 43
+			
+			
+		通常ルール以上での追加コマンド
+		
+		
+						偵察
+						
+						
+侵攻または情報のサブコマンド領地で、敵および中立エリア
+の状況を見ることができるようになります。
+
+(1)	戦略マップ上で、偵察したいエリアの旗印に羽ペンを合わ
+	せ、Ｃボタンを押します。
+(2)	偵察させる部隊を選び、Ａ
+	ボタンで指定し、Ｃボタン
+	を押します。確認のメッセ
+	ージが表示された後、もう
+	一度Ｃボタンを押すと、偵
+	察します。
+	（偵察部隊は場合によっては敵に発見され、襲撃されること
+	もあります。）
+	
+	
+						召喚
+						
+						
+ＳＰを消費して、自分のエリアにモンスター部隊を引き入れま
+す。召喚できるモンスターの種類は、エリアの地形や、召喚
+させるモンスターによってことなります。
+
+(1)	召喚させるモンスター部隊
+	を選び、Ａボタンで指定し、
+	Ｃボタンを押すと、召喚可
+	能なモンスターと、必要な
+	ＳＰが表示されます。
+(2)	召喚するモンスター部隊を
+	選んでＣボタンを押し、確
+	認のメッセージが出たら、
+	Ｃボタンで召喚できます。
+☆召喚の条件は、別冊p.29・30参照
+
+
+	Additional Commands under Normal Rules or above
+		
+		
+						Scout
+						
+						
+This Command is required to know more about an enemy or
+neutral Area when invading or from the Info Sub-Command
+Territory.
+
+(1)	From the Strategy Map, move the quill pen over the
+	flag of the Area you wish to Scout and press C Button.
+(2)	Select the Squadron who 
+	will perform the task,
+	press A Button to give
+	the order and press C
+	Button. You will see a
+	confirmation message.
+	Press C Button again to
+	Scout the Area
+	(if the scouting Squadron is found by the enemy,
+	they will be attacked).
+	
+	
+						Summon
+						
+						
+This Command will allow you to add Monsters to your Areas by
+spending SP. The type of Monster you will Summon depends on
+the terrain of the Area and the Monster performing the task.
+
+(1)	Select the Monster who will
+	perform the task, press A
+	Button to give the order,
+	and press C to bring up the
+	Monsters you can Summon, as
+	well as the required SP.
+(2)	Select the Monster you wish
+	to Summon and press C Button.
+	You will see a confirmation
+	message. Press C Button again
+	to Summon the Monster.
+☆	Please refer to p.29-30 of the supplementary catalogue
+	for the requirements of summoning Monsters.
+
+
+------------------------------------------------
+
+			PAGE 44
+			
+			
+						策略
+						
+						
+「政策」の策略とほぼ同じです。イベントで受けとったものの
+うち、作戦用の策略イベントを使用します。
+☆策略イベントの種類・効果は別冊p.33を参照
+
+
+						訓練
+						
+						
+ランクアップに必要な経験値をかせぐことができます。
+バルマーには訓練コマンドはありません。
+							訓練する部隊を選び、Ａボタ
+							ンで指定し、Ｃボタンで決定
+							してください。ただし、召喚
+							部隊は訓練はできません。
+							
+							
+							
+訓練した部隊は行動済となり、次
+のターンまでなにもできません。
+
+訓練によって、部隊のランクは上がっていきますが、上のク
+ラスの部隊に成長することはありません。
+
+
+						休養
+						
+						
+戦争などで消耗したＨＰや
+ＭＰを、即座に完全回復でき
+ます。休養する部隊を選び、
+Ａボタンで指定し、Ｃボタン
+で決定してください。
+
+休養した部隊は行動済となり、
+次のターンまでなにもできま
+せん。
+☆バルマーには休養コマンドはありません。
+
+
+						Scheme
+						
+						
+This Command works in a similar fashion to the Scheme
+Command of the "Policy" phase. This will allow you to use
+Tactics-use Scheme Events, provided you have any.
+☆	Please refer to p.33 of the supplementary catalogue
+	for information regarding the Schemes.
+
+
+						Train
+						
+						
+This Command will allow you to earn EXP needed to Rank-Up.
+Keep in mind that Balmer cannot use the Train Command.
+							Select the Squadron that will
+							Train, press A Button to give
+							the order and press C Button
+							to confirm. Please note that
+							Summoned Squadrons cannot
+							Train.
+							
+							
+							
+Once they Train, Squadrons will
+not be able to act again until
+the next Turn.
+
+While Training will increase a Squadron's Rank, it will not
+increase a Squadron's Class.
+
+
+						Rest
+						
+						
+This Command will allow you
+to fully restore HP and MP
+consumed in combat.
+Select the Squadrons that
+will Rest, press A Button
+to give the order and press
+C Button to confirm.
+
+Once they Rest, Squadrons will
+not be able to act again until
+the next Turn.
+☆	Be aware that Balmer cannot
+	use the Rest Command.
+
+
+------------------------------------------------
+
+			PAGE 45
+			
+			
+		上級ルールでの追加コマンド
+		
+		
+						探索
+						
+						
+英雄を探し出します。（英雄→別冊p.26）
+ジーク・バストラル・シェルファ・エル＝モアのみ可能です。
+
+
+(1)	探索させる部隊（召集部
+	隊のみ）を選び、Ａボタン
+	で指定し、Ｃボタンを押
+	します。確認のメッセー
+	ジが出た後、もう一度Ｃ
+	ボタンを押すと探索しま
+	す。
+	
+								(2)	英雄が発見されると、そ
+									の名前と雇うのに必要な
+									ＬＰが表示されます。雇う
+									ならばＣボタン、雇わな
+									いときはＢボタンを押し
+									てください。
+									
+									
+	性格	名前	ＬＰ
+	
+性格が善（Ｌ）か悪（Ｃ）のマスターは、それぞれ同じ性格か、中
+立（Ｎ）の英雄しか雇えません。
+
+
+	一度英雄を雇うと、毎ターン一定のＬＰを、給料として支
+	払わねばなりません。支払えない場合英雄は去り、再度
+	その英雄を雇うことはできなくなります。
+	なお、英雄は４人まで雇えます。
+	
+	
+		Additional Commands under Advanced Rules
+		
+		
+						Search
+						
+						
+This Command allows you to look for Heroes
+("Heroes", supplementary catalogue p.26).
+This Command is only available to Sieg, Vastral, Shelpha, and Ell Moir.
+
+
+(1)	Select the Squadron that
+	will perform the Search
+	(Mustered Squadrons only),
+	press A Button to give the
+	order, and press C Button.
+	You will see a confirmation
+	message. Press C Button
+	again to Search.
+	
+								(2)	Once you find a Hero,
+									their name, as well as
+									the LP required to hire
+									them, will be displayed.
+									Press C Button to hire
+									them, or press B Button
+									to ignore them.
+									
+									
+	Disposition		Name	LP
+	
+Lawful (L) Heroes will only join Lawful Masters, while
+Chaotic (C) Heroes will only join Chaotic Masters.
+Neutral (N) Heroes will join both.
+
+
+	Once hired, a Hero will take a fixed amount of LP each
+	Turn as salary. If you do not have enough LP to pay them,
+	they will leave your service. Once a Hero leaves, they
+	cannot be hired again. Furthermore, you cannot hire more
+	than 4 Heroes at the same time.
+
+
+------------------------------------------------
+
+			PAGE 46
+			
+			
+						英雄
+						
+						
+英雄を雇っている場合に、実
+行でき、次のサブコマンドが
+あります。必要な項目を選び
+Ｃボタンで決定してください。
+（英雄→別冊p.26）
+
+
+状況：現在雇っている英雄のデータを表示します。
+
+
+
+
+(1)	英雄名						(7)	装甲値の修正値
+(2)	毎ターン支払う給料			(8)	機敏値の修正値
+(3)	就任しているエリア番号			（×は、修正値が１０以上であ
+(4)	就任している部隊の順番			ることを示す）
+(5)	攻撃力の修正値				(9)	魔法レベル
+(6)	技量値の修正値				(10)ＭＰ
+
+
+						Heroes
+						
+						
+This Command becomes available
+once you have hired a Hero.
+You will have access to the
+following Sub-Commands.
+Select an entry and press C
+Button to confirm.
+("Heroes", supplementary
+catalogue p.26).
+
+
+Status:	This will display the data regarding the
+		Heroes you have hired.
+
+
+
+
+(1)	Hero Name					(7)	 Armor Modifier
+(2)	Turn Salary					(8)	 Speed Modifier
+(3)	Appointed Area Number			 ("x" is a modifier
+(4)	Appointed Squadron Number		  of 10 or higher)
+(5)	Attack Modifier				(9)	 Magic Level
+(6)	Skill Modifier				(10) MP
+
+
+------------------------------------------------
+
+			PAGE 47
+			
+			
+解雇：	マスターのいるエリアでのみ実行できます。
+		雇っている英雄をクビにして、自軍から追放します。
+		ただし、就任している状態の英雄は、解任してから
+		でなければ、解雇できません。
+		
+							解雇する英雄を選び、Ｃボタ
+							ンで決定します。確認のメッ
+							セージが出た後、もう一度Ｃ
+							ボタンを押すと解雇します。
+							なお、解雇した英雄を再度雇
+							うことはできません。
+							
+							
+Discharge:	This can only be used from the Area where the
+			Master is located. This will allow you to
+			remove a Hero from your forces.
+			If a Hero has been appointed to a specific
+			Area, they must be Dismissed before they can
+			be Discharged.
+		
+							Select the Hero you wish to
+							Discharge and press C Button
+							to confirm. You will see a
+							confirmation message. Press
+							C Button again to Discharge
+							the Hero. Be aware that once
+							Discharged, you will not be
+							able to hire the same Hero
+							again.
+							
+
+------------------------------------------------
+
+			PAGE 48
+			
+			
+就任：	雇った英雄に部隊を指
+		揮させます。
+		
+		
+		
+(1)	就任させる英雄を選び、Ｃ
+	ボタンを押します。
+	
+	
+	
+	
+(2)	就任可能な部隊が表示され
+	たら、就任する部隊を選び
+	Ｃボタンで決定すると、就
+	任します。
+	
+	
+	
+就任した部隊は行動済となり、次のターンまでなにもできま
+せん。
+
+	英雄が就任した部隊は、その部隊の能力に、英雄の能力
+	がプラスされ、以降、部隊の状況が表示されるときには
+	Ｈで示されます。
+	
+解任：	部隊に就任している英
+		雄を指揮からはずして、
+		マスターの元に戻しま
+		す。
+		解任する英雄を選び、
+		Ｃボタンで決定してく
+		ださい。
+		
+		
+Appoint:	Let a Hero take command
+			of a Squadron.
+		
+		
+		
+(1)	Select the Hero you wish
+	to Appoint and press C
+	Button.
+	
+	
+	
+	
+(2)	A list of available
+	Squadrons will be
+	displayed. Select
+	the Squadron the
+	Hero will lead and
+	press C Button to
+	confirm.
+	
+	
+	
+The designated Squadron will not be able to act again
+until the next Turn.
+
+	When led by a Hero, a Squadron receives additional
+	stats from the Hero. The symbol "H" will be displayed
+	on the Squadron's Status to indicate this fact.
+	
+Dismiss:	This will remove a
+			Hero from command of
+			a Squadron. Select
+			the Hero you wish to
+			Dismiss and press C
+			Button to confirm.
+							
+
+------------------------------------------------
+
+			PAGE 49
+
+
+		戦術画面のコマンド
+
+　戦争時、戦術画面上に表示される、戦争のためのコマンド
+です。実行するコマンドを選び、Ｃボタンで決定してくださ
+い。
+
+
+						待機
+						
+						
+そのターン（戦争ターン）の間、なにもしないで待機します。
+
+
+						移動
+						
+						
+部隊を移動させます。
+
+
+
+〔簡易画面〕
+	上下に１つだけ移動でき、
+	移動先に他の部隊がいると
+	きは位置を交代します。
+	
+	上下どちらに移動するのか
+	選び、Ｃボタンで決定しま
+	す。
+	
+〔ヘクス画面〕	戦術マップ上、明るい部分の好きなところを
+							選び、Ｃボタンで決定すると移
+							動します。
+							
+							
+		Tactical Screen Commands
+
+These are the Commands displayed on the Tactical Screen
+when you enter combat. Select the Command you wish to
+execute and press C Button to confirm.
+
+
+						Standby
+						
+						
+Do nothing for this combat Turn.
+
+
+						Move
+						
+						
+Move the Squadron.
+
+
+
+〔Simple Screen〕
+	Move up or down once.
+	If there is another
+	Squadron in the target
+	location, they will
+	swap positions.
+	
+	Once you have chosen
+	whether to move up or
+	down, press C Button
+	to confirm.
+	
+〔Hex Screen〕	Select one of the highlighted tiles on the
+							Tactical Map and press C Button
+							to confirm and move your Squadron.
+							
+
+------------------------------------------------
+
+			PAGE 50
+			
+			
+						攻撃
+						
+						
+敵を攻撃します。攻撃方法は４つあ
+り、部隊によって異なります。表
+示された攻撃方法のうち１つを選
+び、Ｃボタンで決定します。
+
+
+
+このときＡボタンを押すと、攻撃の命中率などが表示されま
+す。方向ボタンの左右で、攻撃側と防御側のどちらを見るか
+が切りかわり、上下で部隊が変わります。
+(1)	部隊名
+(2)	攻撃方法
+	Ｃ：格闘
+	Ｓ：射撃
+	Ｂ：ブレス
+	Ｆ：火炎
+(3)	攻撃回数
+(4)	命中率
+(5)	ダメージ（ＨＰ）
+
+格闘：	敵と直接格闘します。格闘する双方のどちらかが人
+		間が操作するマスターか英雄の場合、戦闘画面が設
+		定されていると、戦闘画面に切りかわります。
+		
+〔簡易画面〕正面の敵部隊のみ
+			と格闘できます。
+〔ヘクス画面〕隣接した敵部隊
+			と格闘できます。
+			
+戦術マップ上で格闘の相手を選
+び、Ｃボタンを押してください。
+
+
+						Attack
+						
+						
+This Command allows you to attack
+the enemy. There are 4 different
+types of attacking, depending on
+the Squadron. Select your attack
+type from the list and press C
+Button to confirm.
+
+
+
+Pressing A Button at this time will display the hit
+rate of the attack.
+Pressing Left and Right on the D-Pad will change
+between the Attacker and Defender, while pressing
+Up and Down will change between Squadrons.
+(1)	Squadron Name
+(2)	Attack Type
+	C: Close-range
+	S: Shooting
+	B: Breath
+	F: Fire
+(3)	Number of attacks
+(4)	Hit rate
+(5)	Damage (HP)
+
+Close-range:	Attack the enemy directly. If the two Squadrons
+				are a player-controlled Master or Hero, and the
+				Battle Screen is set to On in the Options, you
+				will move on to the Battle Screen.
+		
+〔Simple Screen〕 	Close-range attacks can only target
+					enemy Squadrons in front of them.
+〔Hex Sscreen〕	Close-range attacks can target any
+				neighboring enemy Squadron.
+			
+Select a target on the Tactical Map
+and press C Button.
+							
+
+------------------------------------------------
+
+			PAGE 51
+			
+			
+射撃：	離れたところから敵を射
+		撃します。
+		
+		
+		
+		
+〔簡易画面〕
+	正面かその上下の１部
+	隊を選び、Ｃボタンを
+	押すと射撃します。
+	
+	
+	
+〔ヘクス画面〕
+	射程内にいる敵の１部
+	隊を選び、Ｃボタンを
+	押すと射撃します。
+	
+	ただし、敵と隣接して
+	いるときはできません。
+	射程距離は、「状態」のコマンドで確認できます。
+	
+	
+Shooting:	Attack the enemy from a distance.
+		
+		
+		
+		
+〔Simple Screen〕
+	Select an enemy Squadron
+	above, below, or directly
+	in front, and press C
+	Button to Shoot.
+	
+	
+	
+〔Hex Screen〕
+	Select an enemy Squadron
+	in range, and press C
+	Button to Shoot.
+	
+	Be aware that you cannot
+	target an enemy located
+	on a neighboring tile.
+	You can confirm a Squadron's range from the
+	"Status" Command.
+							
+
+------------------------------------------------
+
+			PAGE 52
+			
+			
+火炎攻撃：	体から炎を発し、周囲の敵を攻撃します。
+			一部のモンスターの攻撃方法です。
+			
+〔簡易画面〕
+	正面とその上下の敵部隊、および、自分の上下にいる
+	味方部隊にもダメージをあたえます。
+〔ヘクス画面〕
+	隣接するすべての部隊にダメージをあたえます。
+	
+	
+	
+ブレス：ＨＰを消費して特殊な
+		息を吐く攻撃で、一部
+		のモンスターの攻撃方
+		法です。
+		
+〔簡易画面〕
+	Ｃボタンを押すと、正
+	面の部隊とその上また
+	は下にいる部隊に攻撃
+	します。
+	
+〔ヘクス画面〕
+	隣接するヘクスを選び、
+	Ｃボタンを押すと、そ
+	この部隊と、さらにそ
+	の周囲の部隊に攻撃を
+	加えます。
+	
+	味方部隊が接していると、その部隊も巻き込んでしまい
+	ます。
+	
+	
+Fire Attack:	Emit fire, attacking enemies in the
+				Squadron's surroundings. Only certain
+				Monsters possess this attack type.
+			
+〔Simple Screen〕
+	This attack will inflict damage to the enemy
+	Squadron directly in front, above and below,
+	as well as allied Squadrons above and below.
+〔Hex Screen〕
+	This attack will inflict damage to any
+	neighboring Squadron.
+	
+	
+	
+Breath:	Consume HP to unleash a
+		special breath.
+		Only certain Monsters
+		possess this attack
+		type.
+		
+〔Simple Screen〕
+	Press C Button to
+	attack the Squadron
+	directly in front, as
+	well as those above
+	and below.
+	
+〔Hex Screen〕
+	Select one of the
+	neighboring tiles
+	and press C Button
+	to attack the target
+	Squadron and its
+	neighboring Squadrons.
+	
+	Keep in mind that if there are allied Squadrons in
+	the affected area, they will be damaged as well.
+							
+
+------------------------------------------------
+
+			PAGE 53
+			
+			
+						突撃
+						
+						一方が倒れるまで格闘しつづけま
+						す。格闘する双方のどちらかが、
+						人間が操作するマスターか英雄の
+						場合、戦闘画面の設定がおこなわ
+						れていると、戦闘画面に切りかわ
+						ります。
+						
+						
+〔簡易画面〕
+	正面の敵部隊にのみ突
+	撃できます。確認のメ
+	ッセージが出た後、Ｃ
+	ボタンを押してくださ
+	い。
+	
+〔ヘクス画面〕
+	隣接した敵部隊に突撃
+	できます。戦術マップ
+	上で突撃する相手を選
+	び、Ｃボタンで決定し
+	てください。
+	
+	確認のメッセージが出た後、もう一度Ｃボタンを押すと、
+	突撃します。
+	
+	
+突撃できない場合
+
+1.	移動をおこなった直後
+2.	敵が退却しようとしているとき
+3.	敵が高いところや川の向こうにいて、突撃する部隊
+	が地上部隊のとき（ヘクス画面のみ）
+	
+	
+						Charge
+						
+						Attack in close-range until one
+						of the Squadrons has been defeated.
+						If both Squadrons are a player-
+						controlled Master or Hero, and the
+						Battle Screen is set to On in the
+						Options, you will move on to the
+						Battle Screen.
+						
+						
+〔Simple Screen〕
+	You can only Charge
+	the enemy Squadron
+	directly in front.
+	You will see a
+	confirmation message.
+	Press C Button to
+	confirm.
+	
+〔Hex Screen〕
+	You can Charge a
+	neighboring enemy
+	Squadron.
+	Select a target on
+	the Tactical Map
+	and press C Button
+	to confirm.
+	
+	You will see a confirmation message.
+	Press C Button again to Charge.
+	
+	
+Times you cannot Charge
+
+1.	Right after moving
+2.	When the enemy is retreating
+3.	If the enemy is on a higher location, or beyond
+	a river, and the Charging Squadron can only
+	move on the ground (Hex Screen only)
+							
+
+------------------------------------------------
+
+			PAGE 54
+			
+			
+						魔法
+						
+						
+魔法を実行します。ＭＰを持つ部隊
+のみ可能ですが、移動をおこなう
+と、そのターンは魔法を使えませ
+ん。
+
+
+
+魔法には６つのタイプがあり、部隊によって使うタイプが異
+なります。また、それぞれのタイプは魔法レベルにより、使
+える魔法の範囲が、あらかじめ分けられています。
+
+	地の魔法
+	火の魔法
+	精神魔法
+	
+								回　　復	魔法の鎧
+								魔法の矢	状態回復
+								地　　震	全体回復
+使う魔法のタイプを選びＣ		復　　活	精　　霊
+ボタンを押すと、使える魔
+法名が表示されます。魔法を選び、Ｃボタンで決定してくだ
+さい。
+
+なお、魔法のタイプが表示されているとき、Ａボタンを押す
+と、レベルごとの魔法の成功率がでます。
+
+
+(1)	部隊名
+(2)	レベル
+(3)	命中率
+
+
+方向ボタンの上下で敵部隊が変わります。
+
+
+☆それぞれの魔法の効果は別冊p.37参照
+
+
+						Magic
+						
+						
+Casts a Magic Spell. Only Squadrons
+with MP can use this Command.
+Be aware that Squadrons cannot use
+Magic in the same Turn they've moved.
+
+
+
+There are 6 types of Magic, depending on the Squadron.
+Each type has its own Magic Level, which influences
+the range of the spells.
+
+	Earth Spell
+	Fire Spell
+	Mind Spell
+	
+								Restore			Magic Armor
+								Magic Arrow		Heal Condition
+								Earthquake		Full Restore
+Select the Magic Type you		Revive			Spirit
+wish to use and press C
+Button to display a list of Spells. Select a Spell
+and press C Button to confirm.
+
+While the Magic Types are displayed, press A Button
+to see the Level and the success rate of the Spell.
+
+
+
+(1)	Squadron Name
+(2)	Level
+(3)	Hit Rate
+
+
+Press Up or Down on the D-Pad to switch
+to the enemy Squadron.
+
+
+☆	Please refer to p.37 of the supplementary catalogue
+	for information regarding the Magic Spells.
+							
+
+------------------------------------------------
+
+			PAGE 55
+			
+			
+						状態
+						
+						
+部隊のデータを見ることができます。
+
+〔簡易画面〕自分の部隊のデータのみ見ることができます。
+
+〔ヘクス画面〕
+	戦術マップ上の部隊に
+	羽ペンを合わせてＣボ
+	タンを押すと、その部
+	隊のデータを見ること
+	ができます。
+	
+	
+	データには、基本データ(p.56)・攻撃データ(p.58)
+	魔法データ・特性データ(p.59)の４種類があります。
+	
+	はじめに基本データが表示され、方向ボタンの上下
+	で順に見ることができます。
+	
+	
+						Status
+						
+						
+This will allow you to view a
+Squadron's information.
+
+〔Simple Screen〕	You can only check your own
+					Squadron's information
+
+〔Hex Screen〕
+	Move the quill pen
+	over a Squadron on
+	the Tactical Map and
+	press C Button to
+	view information on
+	that Squadron.
+	
+	
+	There are 4 different types of information you
+	can check: Basic Data (p.56), Combat Data (p.58),
+	Magic Data, and Special Traits (p.59).
+	
+	Basic Data is the default screen; press Up and Down
+	on the D-Pad to change to the other screens.
+							
+
+------------------------------------------------
+
+			PAGE 56
+			
+
+＊基本データ＊
+
+
+			基本データ
+			
+			ＨＰ　６０/60	機敏　３５/35
+			移動	４/ 4	士気	５/ 5
+			技量　１１/11	再生	５/ 5
+			装甲	７/ 7	得点	　５６
+			
+			
+								(1)	ＨＰ
+									現在のＨＰ/最大ＨＰ
+									
+								(2)	移動（移動力）
+									現在値/基本値
+									移動の速さ。数値が大
+									きいほど、１回の移動
+									で動ける範囲が広い。
+									
+								(3)	技量（技量値）
+									現在値/基本値
+									数値が大きいほど攻撃
+									時の命中率が高くなり、
+									また、敵からの攻撃を
+									回避しやすい。
+									
+								(4)	装甲（装甲値）
+									現在値/基本値
+									数値が大きいほど、敵
+									からのダメージが少な
+									くてすむ。
+									
+									
+＊Basic Data＊
+
+
+			Basic Data
+			
+			HP		60/60	Speed	35/35
+			Move	 4/ 4	Morale	 5/ 5
+			Skill	11/11	Regen	 5/ 5
+			Armor	 7/ 7	Score	   56
+			
+			
+								(1)	HP
+									Current HP/Max HP
+									
+								(2)	Movement
+									Current Value/Basic Value
+									The Squadron's movement
+									speed. This directly
+									influences the movement
+									range of the Squadron.
+									
+								(3)	Skill
+									Current Value/Basic Value
+									The higher this value,
+									the more likely the
+									Squadron will be to hit
+									the target and avoid
+									incoming attacks.
+									
+								(4)	Armor
+									Current Value/Basic Value
+									The higher this value,
+									the less damage the
+									Squadron will receive.
+									
+
+------------------------------------------------
+
+			PAGE 57
+			
+			
+(5)	機敏（機敏値）
+	現在値/基本値
+	数値が大きいほど戦争時に
+	早く行動をとれる。
+
+(6)	士気（士気値）
+	現在値/基本値
+	戦争に対するやる気。０で
+	退却、１２以上で凶暴化。
+
+(7)	再生（再生値）
+	現在値/基本値
+	数値が大きいほど、自力でＨＰを回
+	復する再生能力にすぐれている。
+	（最大８まで）
+	再生値０の部隊は回復できない。
+
+(8)	得点
+	その部隊が倒されたときに、
+	相手にあたえる経験値のめや
+	す。また、その半分の数値分
+	のＳＰもあたえる。
+	
+	
+(5)	Skill
+	Current Value/Basic Value
+	The higher this value,
+	the quicker the Squadron
+	will be to act in combat.
+
+(6)	Morale
+	Current Value/Basic Value
+	The Squadron's willingness
+	to fight. If it reaches 0,
+	the Squadron will retreat;
+	if it reaches 12, it will
+	go berserk.
+
+(7)	Regen
+	Current Value/Basic Value
+	This value indicates the
+	amount of HP the Squadron
+	will regenerate (Max: 8).
+	If it is 0, the Squadron
+	has no regeneration.
+
+(8)	Score
+	This value indicates the
+	amount of EXP received by
+	defeating this Squadron.
+	Half of this value will be
+	given as SP.
+
+
+------------------------------------------------
+
+			PAGE 58
+			
+			
+＊攻撃データ＊
+
+
+			攻撃データ
+			格：爪を２回	1R	70%	12D
+			格：噛む		1R	65%	18D
+			特：火炎			80%	16D+H
+			
+			
+(1)	攻撃のタイプ
+	格：格闘攻撃
+	射：射撃攻撃
+	特：特殊攻撃
+	
+(2)	攻撃手段
+	部隊によって異なる。
+	
+(3)	その攻撃手段に必要な、相手と
+	の距離。ヘクス画面で有効。
+	（１Ｒは１ヘクス）
+	
+(4)	その攻撃手段の命中率
+
+(5)	相手にあたえる基本ダメージ。
+	数値分のＨＰを失わせる。
+	
+(6)	基本ダメージの他に、相手にあたえる特殊な効果。
+	Ｐ→毒をあたえる	Ｓ→石化させる		Ｒ→マヒさせる
+	Ｈ→熱攻撃			Ｃ→冷気の攻撃		Ｌ→電気の攻撃
+	Ｅ→精気を奪う		Ｗ→敵を呑みこむ
+	
+	
+＊Combat Data＊
+
+
+			Combat Data
+			Cl: Claws x2	1R	70%	12D
+			Cl: Bite		1R	65%	18D
+			Sp: Fire			80%	16D+H
+			
+			
+(1)	Attack Type
+	Cl:	Close-ranged Attack
+	Sh:	Shooting Attack
+	Sp: Special Attack
+	
+(2)	Attack Method
+	Depends on the Squadron.
+	
+(3)	Required distance to use the
+	attack. Used in Hex Screen.
+	(1R = 1 Hex tile)
+	
+(4)	Hit Rate of the attack
+
+(5)	Basic damage inflicted.
+	
+(6)	Special effect inflicted in addition to basic damage.
+	P -> Poison			S -> Petrification		R -> Paralysis
+	H -> Heat Attack	C -> Cold Attack		L -> Lightning Attack
+	E -> Life Steal		W -> Swallow enemy
+
+
+------------------------------------------------
+
+			PAGE 59
+			
+
+＊魔法データ＊
+
+
+			魔法データ
+			魔力　２００/200
+			魔法レベル　３	ＭＰ　３２/32
+			属性　精霊魔法（火）
+			
+			
+(1)	魔法に対する能力値。大きいほど魔法が成功しやすく、ま
+	た、敵の魔法にかかりにくい。
+	
+(2)	その部隊の魔法レベル
+
+(3)	現在のＭＰ/最大ＭＰ
+
+(4)	使える魔法のタイプ
+
+
+
+＊特性データ＊
+
+その部隊が持つ特別な能力
+
+
+						退却
+						
+						
+部隊を、もといたエリアまたは隣接する自分のエリアに退却
+させます。退却させる部隊を選びＣボタンで決定してくださ
+い。
+ただし、退却できるエリアがないときや、部隊の士気値が高
+すぎる場合は、退却できません。
+
+
+＊Magic Data＊
+
+
+			Magic Data
+			Magic	200/200
+			Magic Level	3	MP　32/32
+			Attribute	Spirit Magic (Fire)
+			
+			
+(1)	The Squadron's Magic skill. The higher this value,
+	the higher the success rate of Spells will be, as
+	well as defense against enemy Spells.
+	
+(2)	The Squadron's Magic Level
+
+(3)	Current MP/Max MP
+
+(4)	Usable Magic Types
+
+
+
+＊Special Traits＊
+
+This will list the Squadron's special traits.
+
+
+						Retreat
+						
+						
+This Command will allow the Squadron to retreat to their
+original Area, or a neighboring Area under your control.
+Select the Squadron that will Retreat and press C Button
+to confirm.
+Be aware that a Squadron will not Retreat if there are
+no available Areas, or if their Morale is too high.
+
+
+------------------------------------------------
+
+			PAGE 60 and 61
+			
+			
+ローランド平原地帯		Rowland Plains
+ナースホルン平原地帯	Nashorn Plains
+バッハム遺跡地帯		Bachem Ruins
+レプラス平原地帯		Leplace Plains
+ムルバース密林地帯		Mulberth Forest
+グライナス平原地帯		Grynus Plains
+北カルミスタ森林地帯	Northern Calmista Woods
+テスカイア平原地帯		Tesgaia Plains
+
+イジフミガト丘陵地帯	Egyphmigat Hills
+北ガザ砂漠地帯			Northern Gaza Desert
+ドラグーン火山地帯		Dragoon Volcano
+パランニール島／森林	Paranneal Island/Woods
+ザクハルト丘陵地帯		Zakhart Hills
+南カルミスタ森林地帯	Southern Calmista Woods
+南ガザ砂漠地帯			Southern Gaza Desert
+北ウンバール湿原地帯	Northern Umbar Marshes
+
+北セレブラス森林地帯	Northern Selebrath Woods
+モルガルド密林地帯		Morgard Forest
+クロエルン城塞都市跡	Kloeln Citadel Ruins
+ウルハ砂漠地帯			Uruha Desert
+南ウンバール湿原地帯	Southern Umbar Marshes
+南セレブラス森林地帯	Southern Selebrath Woods
+西グラファス山岳地帯	Western Graphas Mountains
+東グラファス山岳地帯	Eastern Graphas Mountains
+
+ファミール平原地帯		Famil Plains
+カツーオ丘陵地帯		Catuo Hills
+シヤバカナ丘陵地帯		Siavacana Hills
+バッシュラー火山地帯	Bashler Volcano
+ニタラク丘陵地帯		Nitarak Hills
+トスカニア平原地帯		Toscania Plains
+モルソルン山岳地帯		Morthorn Mountains
+ワーグズ島／遺跡		Wargs Island/Ruins
+
+シュミシュミ森林地帯	Sumisumi Woods
+マステンス平原地帯		Mastenth Plains
+北ジャグ湿原地帯		Northern Jague Marshes
+南ジャグ湿原地帯		Southern Jague Marshes
+ギルフレイ平原地帯		Guilflay Plains
+シュワルベ密林地帯		Schwalbe Forest
+ビスティッツ森林地帯	Vistitz Woods
+ロンバニオ平原地帯		Lombanio Plains
+
+
+------------------------------------------------
+
+			PAGE 62
+			
+			
+							使用上のご注意
+						
+			カートリッジは精密機器ですので、と
+			くに次のことに注意してください。
+			
+		●電源OFFをまず確認！
+		カートリッジを抜き差しするときは必ず、本体
+		のパワースイッチをOFFにしておいてください。
+		パワースイッチをONにしたまま無理に、カート
+リッジを抜き差しすると、故障の原因になります。
+
+●カートリッジはデリケート
+カートリッジに強いショックを与えないでく
+ださい。ぶつけたり踏んだりするのは禁物で
+す。また、分解は絶対にしないでください。
+
+●端子部には触れないで
+カートリッジの端子部に触れたり、水で濡ら
+したりすると、故障の原因になりますので注
+意してください。
+
+			●保管場所に注意して
+			カートリッジを保管するときは、極端に暑い
+			ところや寒いところを避けてください。直射日
+			光の当たるところやストーブの近く、湿気の多
+			いところなども禁物です。
+
+			●薬品を使って拭かないで
+			カートリッジの汚れを拭くとき
+			に、シンナーやベンジンなどの
+			薬品を使わないでください。
+
+●ゲームで遊ぶときは
+長い時間ゲームをしていると目が疲れま
+す。ゲームで遊ぶときは健康のため、１
+時間ごとに10～20分の休憩をとってくだ
+さい。また、テレビ画面からなるべく離
+	　れてゲームをしてください。
+	
+バハムート戦記
+	ＴＭ
+	
+	
+							Safety Warnings
+						
+			Cartridges are very delicate.
+			Please handle them with proper care.
+			
+		● Make sure the power is turned OFF!
+		Before you remove the game's cartridge,
+		make sure the power switch of the console
+		is set to OFF. Forcefully removing the
+		cartridge while the power switch is set
+to ON may cause irremediable damage.
+
+● Cartridges are delicate
+Please avoid exposing the cartridge to
+any powerful impact. Do not hit, throw,
+or step on the cartridge. You must also
+absolutely avoid disassembling it.
+
+● Do not touch the pins
+Please avoid touching the pins of the
+cartridge. Make sure not to wet the pins
+when cleaning it.
+
+			● Store it in a safe location
+			Please avoid storing the cartridge under
+			extreme heat or cold conditions. Do not
+			keep it under direct sunlight or near
+			stoves, as well as extremely humid places.
+
+			● Do not use chemicals to clean it
+			Please refrain from using chemicals,
+			such as thinner or gasoline, to clean
+			the cartridge.
+
+● Play with care
+Playing a game for extended periods of
+time will cause eyestrain. We recommend
+taking a 10~20 minutes break for every
+hour of playtime. Furthermore, we
+recommend keeping a certain amount of
+distance from your TV while playing.
+	
+Record of the Bahamut War
+			TM
+
+
+------------------------------------------------
+
+			PAGE 63
+			
+			
+セガジョイジョイ
+		テレフォン
+						セガからのホット
+				ライン。新作ゲームソフト
+				や楽しい情報を、どんどん
+				お知らせしています。
+				
+				札幌	011-832-2733
+				東京	03-3236-2999
+				大阪	 06-333-8181
+				福岡	092-521-8181
+				
+		☆電話番号をよく確かめて、正しくかけてください。
+		
+		
+		
+		
+株式会社	セガ・エンタープライゼス
+本　　社	〒144	東京都大田区羽田1-2-12
+			お客様サービスセンター
+			[phone]03(3742)7078(直通)
+札幌支店	〒062	北海道札幌市豊平区豊平五条3-2-34
+			[phone]011(841)0248
+関西支店	〒561	大阪府豊中市豊南南町東2-5-3
+			[phone]06(334)5331
+博多支店	〒810	福岡県福岡市中央区白金2-5-15
+			[phone]092(522)4715
+			
+	修理について	
+				修理を依頼されるときは、下記また
+は札幌、関西、博多の各支店までお申しつけください。
+
+	株式会社セガ・エンタープライゼス
+	佐倉事業所	ＨＥ補修管理課
+	〒285千葉県佐倉市大作1-3-4
+	[phone]0434(98)2610(直通)
+	
+	
+									禁無断転載
+									
+									
+Sega Joy Joy
+		Telephone
+						This is Sega's
+				hotline. Call us to know
+				about our latest products
+				and more fun news.
+				
+				Sapporo		011-832-2733
+				Tokyo		03-3236-2999
+				Osaka		 06-333-8181
+				Fukuoka		092-521-8181
+				
+		☆ Please check the phone number accurately.
+		
+		
+		
+		
+				Sega Enterprises Co., Ltd.
+Main Office		1 Chome-2-12 Haneda, Ota City, Tokyo 144-8531, Japan
+				Customer Service Center
+				[phone] 03(3742)7078 (direct line)
+Sapporo Branch	3 Chome-2-34 Toyohira, Sapporo, Hokkaido 062-0905, Japan
+				[phone] 011(841)0248
+Kansai Branch	2 Chome-5-3 Honanchohigashi, Toyonaka, Osaka 561-0814, Japan
+				[phone] 06(334)5331
+Hakata Branch	2 Chome-5-15 Shirogane, Chuoh, Fukuoka 810-0012, Japan
+				[phone] 092(522)4715
+			
+	About repairs
+				If you are requesting repairs, please
+contact the following address, as well as contacting
+the Sapporo, Kansai, and Hakata branches.
+
+	Sega Enterprises Co., Ltd.
+	Sakura Offices HE Maintenance Division
+	1 Chome-3-4 Osaku, Sakura, Chiba 285-0802, Japan
+	[phone] 0434(98)2610 (direct line)
+	
+	
+									All Rights Reserved
+
+
+------------------------------------------------
+
+			BACK COVER
+			
+			
+[bottom]
+
+
+				株式
+				会社	セガ・エンタープライゼス
+
+				
+				Sega Enterprises Co., Ltd.
